@@ -1,17 +1,21 @@
-# EasyEDA Pro
+# EasyEDA Pro review files
 
-[Existing draft project](https://pro.easyeda.com/editor#id=987575100d2f4542bfc9780160616df2)
+[Open existing project](https://pro.easyeda.com/editor#id=987575100d2f4542bfc9780160616df2)
 
-The project was created with schematic/PCB scaffolding and a draft note. No completed circuit, routed PCB or verified native footprint import is present in the recorded work. Browser attachment timed out during the last attempt. No native `.epro` or `.elibz` export is included.
+Two review documents now exist in this project: `CHIPBOY_Mk_II_ascii_review` under `schdoc-ascii-review`, and `carrier-geometry-review`. The original Board1 scaffold is separate.
 
-## Planned conversion and acceptance
+| File | Purpose |
+|---|---|
+| CHIPBOY_Mk_II_ascii_review.SchDoc / schdoc-ascii-review.zip | Experimental ASCII conversion of the supplied binary Mk II schematic for review import |
+| carrier-geometry-review.kicad_pcb / .zip | Corrected geometry import input, with exactly one copy of the existing outline |
+| imported-review-page.esch | Native schematic page read from EasyEDA File Source |
+| carrier-geometry-review.epcb | Native PCB page read back after correcting the duplicate outline |
+| *check.json | Scoped conversion and count evidence |
 
-EasyEDA Pro documents [KiCad import](https://prodocs.easyeda.com/en/import-export/import-kicad/) for versions below 10. The intermediate files here use KiCad 5.1 syntax and were read by KiCad 10 without rewriting their source format.
+The native page files reference library UUIDs; they are **not standalone complete project archives**. Full `.epro2` export was requested but Edge's Save prompt remains pending. An archive requested before the outline correction is historical and must not replace the corrected native page.
 
-1. Import the review/library files using EasyEDA's supported import workflow into a review area.
-2. Compare pad count, IDs, shape, pitch, drill diameter, routed slots, masks and board dimensions with the CSV/JSON evidence.
-3. Resolve held electrical identities before symbol binding. Do not treat Hxxx or SLOT identifiers as finalized pin numbers.
-4. Bind the correct symbol/footprint combinations, save and reopen the native project.
-5. Commit native exports and fresh conversion verification evidence here when completed.
+24 carrier groups and 140 pad references are present. The input has 138 round component/locator pads and two slots; native library dimensions, masks and pad identities still require verification. The board has no connected circuit or routing. Held Hxxx/SLOT identifiers remain reference identifiers, not resolved component pin numbers.
 
-Successful intermediate CAD parsing is not proof of a successful EasyEDA conversion.
+The schematic retains all 40 designators and origin footprint names. Its native check reports 40 missing-footprint fatal findings and one shield-pin warning. Shared symbol-library names may have merged different pin-name variants, notably BME280 and TOF400C. No electrical-equivalence claim is made.
+
+See the [full current report](../../docs/reports/easyeda-import-review.md). Do not fabricate these review files.

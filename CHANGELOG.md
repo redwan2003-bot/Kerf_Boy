@@ -1,5 +1,14 @@
 # Change history
 
+## 2026-11-03 - Native EasyEDA review imports
+
+- Import the supplemental schematic and reconstructed carrier into the existing EasyEDA project.
+- Preserve native page source and screenshots; check 40 schematic references and 24 PCB groups / 140 pad references.
+- Find and remove a duplicated outline in the import copy and native PCB; read back one outer outline and four cutouts.
+- Record 40 missing-footprint fatal findings, one shield-pin warning and library-name collision risks.
+- Resolve H098 source-plane continuity to 3V3 using clipped copper polygons.
+- Keep Step 3 incomplete; archive/library, physical numbering and electrical checks remain open.
+
 ## 2026-11-03 - Supplemental native schematic
 
 - Preserve the explicitly supplied Mk II SchDoc separately from the original snapshot.

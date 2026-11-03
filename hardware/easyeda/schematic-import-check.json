@@ -1,0 +1,371 @@
+{
+  "components": 40,
+  "checks": [
+    {
+      "designator": "Xiao ESP32S3",
+      "source_unique_id": "FJCEHJDD",
+      "imported_unique_id": "9401a07be6c7a173",
+      "source_footprint": "MODULE_113991254",
+      "imported_origin_footprint": "MODULE_113991254",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "128x64 OLED",
+      "source_unique_id": "AFWOVOIS",
+      "imported_unique_id": "b35b1a68ad729052",
+      "source_footprint": "MODULE_DM-OLED096-636",
+      "imported_origin_footprint": "MODULE_DM-OLED096-636",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "J3",
+      "source_unique_id": "URQLGDPV",
+      "imported_unique_id": "bd3ee0abdb58119f",
+      "source_footprint": "HARWIN_M20-9990246",
+      "imported_origin_footprint": "HARWIN_M20-9990246",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "R1",
+      "source_unique_id": "MSGFOFFC",
+      "imported_unique_id": "353b166cc2dee846",
+      "source_footprint": "RESAD640W45L370D200",
+      "imported_origin_footprint": "RESAD640W45L370D200",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "LED1",
+      "source_unique_id": "MHPODBMX",
+      "imported_unique_id": "7a65b453ee5a9ec2",
+      "source_footprint": "LED_WP7113ID",
+      "imported_origin_footprint": "LED_WP7113ID",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "MCP23008",
+      "source_unique_id": "PIBIQVSJ",
+      "imported_unique_id": "791c024f8e8736ca",
+      "source_footprint": "DIP254P762X533-18",
+      "imported_origin_footprint": "DIP254P762X533-18",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "Buzzer",
+      "source_unique_id": "DVSXGKMD",
+      "imported_unique_id": "46b55c36bff65edb",
+      "source_footprint": "CUI_CMI-1295IC-0385T",
+      "imported_origin_footprint": "CUI_CMI-1295IC-0385T",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "R2",
+      "source_unique_id": "ZBUFJXPR",
+      "imported_unique_id": "6f63fc6711cfa315",
+      "source_footprint": "RESAD640W45L370D200",
+      "imported_origin_footprint": "RESAD640W45L370D200",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "LED2",
+      "source_unique_id": "TNFOJBMF",
+      "imported_unique_id": "48c2d4982f4ec99a",
+      "source_footprint": "LED_WP7113ID",
+      "imported_origin_footprint": "LED_WP7113ID",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "B0",
+      "source_unique_id": "ZDVFXJGG",
+      "imported_unique_id": "9989abb9fa024ab9",
+      "source_footprint": "SW_SKHHANA010",
+      "imported_origin_footprint": "SW_SKHHANA010",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "B1",
+      "source_unique_id": "SDJLOORV",
+      "imported_unique_id": "ef6194ca664dc41e",
+      "source_footprint": "SW_SKHHANA010",
+      "imported_origin_footprint": "SW_SKHHANA010",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "BNO055",
+      "source_unique_id": "PPDWWYOO",
+      "imported_unique_id": "e2533b59e26a5a38",
+      "source_footprint": "MODULE_2472",
+      "imported_origin_footprint": "MODULE_2472",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "Navigation Switch",
+      "source_unique_id": "PKUPYFKC",
+      "imported_unique_id": "a7546d8667f185f9",
+      "source_footprint": "SW_JS1400BFQ",
+      "imported_origin_footprint": "SW_JS1400BFQ",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "GY-BME280",
+      "source_unique_id": "PLJUYRPI",
+      "imported_unique_id": "be79197e79d4740d",
+      "source_footprint": "SULLINS_PPTC061LFBN-RC",
+      "imported_origin_footprint": "SULLINS_PPTC061LFBN-RC",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "DF PLAYER",
+      "source_unique_id": "YPPYEJAT",
+      "imported_unique_id": "14a00cd16d4f02a4",
+      "source_footprint": "MODULE_DFR0299",
+      "imported_origin_footprint": "MODULE_DFR0299",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "R4",
+      "source_unique_id": "WBUKGYBP",
+      "imported_unique_id": "fdc86a4b576d9e98",
+      "source_footprint": "RESAD640W45L370D200",
+      "imported_origin_footprint": "RESAD640W45L370D200",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "PEC12R-4217F-S0024",
+      "source_unique_id": "EEZECLWT",
+      "imported_unique_id": "a2e297622fc99c01",
+      "source_footprint": "XDCR_PEC12R-4217F-S0024",
+      "imported_origin_footprint": "XDCR_PEC12R-4217F-S0024",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "J2",
+      "source_unique_id": "CHJJIFOZ",
+      "imported_unique_id": "1fb9863844ab5169",
+      "source_footprint": "HARWIN_M20-9990246",
+      "imported_origin_footprint": "HARWIN_M20-9990246",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "J1",
+      "source_unique_id": "WKVHGZWM",
+      "imported_unique_id": "51bfc0e5166a1c40",
+      "source_footprint": "HARWIN_M20-9990246",
+      "imported_origin_footprint": "HARWIN_M20-9990246",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "SPK1",
+      "source_unique_id": "BTKXDAFI",
+      "imported_unique_id": "d2e4bc6839561c23",
+      "source_footprint": "SPKR_CVS-1508",
+      "imported_origin_footprint": "SPKR_CVS-1508",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "SW5",
+      "source_unique_id": "MKGFJGZR",
+      "imported_unique_id": "827e4a881924ffc6",
+      "source_footprint": "SW_MHSS1104",
+      "imported_origin_footprint": "SW_MHSS1104",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "SW1",
+      "source_unique_id": "XAEVNSRM",
+      "imported_unique_id": "c39dab7994ba8bcb",
+      "source_footprint": "SW_MHSS1104",
+      "imported_origin_footprint": "SW_MHSS1104",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "SW4",
+      "source_unique_id": "YAQLSOHR",
+      "imported_unique_id": "a09384242b90f9e9",
+      "source_footprint": "SW_MHSS1104",
+      "imported_origin_footprint": "SW_MHSS1104",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "SW3",
+      "source_unique_id": "STMHOVXI",
+      "imported_unique_id": "2f7d3d657bff299d",
+      "source_footprint": "SW_MHSS1104",
+      "imported_origin_footprint": "SW_MHSS1104",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "TOF400C-Vl53l1x",
+      "source_unique_id": "NHMVZWJL",
+      "imported_unique_id": "1ff4f0a83877aaf9",
+      "source_footprint": "SULLINS_PPTC061LFBN-RC",
+      "imported_origin_footprint": "SULLINS_PPTC061LFBN-RC",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "ATGM336h",
+      "source_unique_id": "JFJDAOZU",
+      "imported_unique_id": "df1a1ec4fea08117",
+      "source_footprint": "SAMTEC_MTSW-105-07-L-S-240-LL",
+      "imported_origin_footprint": "SAMTEC_MTSW-105-07-L-S-240-LL",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "C1",
+      "source_unique_id": "PHCUFUPV",
+      "imported_unique_id": "b4693cfd16d534cd",
+      "source_footprint": "CAPRB250W50L450T300H550",
+      "imported_origin_footprint": "CAPRB250W50L450T300H550",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "R3",
+      "source_unique_id": "IWQHGYTK",
+      "imported_unique_id": "fe89d0632cfce75f",
+      "source_footprint": "RESAD640W45L370D200",
+      "imported_origin_footprint": "RESAD640W45L370D200",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "LED3",
+      "source_unique_id": "LCOOKDMR",
+      "imported_unique_id": "45623aa674b0bd13",
+      "source_footprint": "LED_WP7113ID",
+      "imported_origin_footprint": "LED_WP7113ID",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "SW2",
+      "source_unique_id": "PXJCZIGG",
+      "imported_unique_id": "5cf9f4a776b330ee",
+      "source_footprint": "SW_MHSS1104",
+      "imported_origin_footprint": "SW_MHSS1104",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "R5",
+      "source_unique_id": "BHMEAOLA",
+      "imported_unique_id": "9cdd622c9eeecfe7",
+      "source_footprint": "RESAD640W45L370D200",
+      "imported_origin_footprint": "RESAD640W45L370D200",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "R6",
+      "source_unique_id": "DNUNBVPA",
+      "imported_unique_id": "e06ccd13940482ac",
+      "source_footprint": "RESAD640W45L370D200",
+      "imported_origin_footprint": "RESAD640W45L370D200",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "T1",
+      "source_unique_id": "BDHVTSWA",
+      "imported_unique_id": "30cfce118f4fe85d",
+      "source_footprint": "TO92",
+      "imported_origin_footprint": "TO92",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "R7",
+      "source_unique_id": "WCAQPKGB",
+      "imported_unique_id": "ba2c6d155e7fd301",
+      "source_footprint": "RESAD640W45L370D200",
+      "imported_origin_footprint": "RESAD640W45L370D200",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "R8",
+      "source_unique_id": "CSSPSRZE",
+      "imported_unique_id": "86d447fa2a9c8586",
+      "source_footprint": "RESAD640W45L370D200",
+      "imported_origin_footprint": "RESAD640W45L370D200",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "C2",
+      "source_unique_id": "YAPVSZQL",
+      "imported_unique_id": "a2c5d49bc5dde298",
+      "source_footprint": "CAPRB250W50L450T300H550",
+      "imported_origin_footprint": "CAPRB250W50L450T300H550",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "C5",
+      "source_unique_id": "SAMELGNT",
+      "imported_unique_id": "ddba3c46cf8b8e66",
+      "source_footprint": "CAPRB250W50L450T300H550",
+      "imported_origin_footprint": "CAPRB250W50L450T300H550",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "C9",
+      "source_unique_id": "TGPCLNFY",
+      "imported_unique_id": "7ddfd2f632a8b17d",
+      "source_footprint": "CAPRB250W50L450T300H550",
+      "imported_origin_footprint": "CAPRB250W50L450T300H550",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "C4",
+      "source_unique_id": "RNMZNLBL",
+      "imported_unique_id": "3a68d3ddabf48558",
+      "source_footprint": "CAP_EEETPV470XAV",
+      "imported_origin_footprint": "CAP_EEETPV470XAV",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    },
+    {
+      "designator": "C3",
+      "source_unique_id": "MVERPCKW",
+      "imported_unique_id": "cc82bf2c2e22e605",
+      "source_footprint": "CAP_EEETPV470XAV",
+      "imported_origin_footprint": "CAP_EEETPV470XAV",
+      "unique_id_matches": false,
+      "origin_footprint_matches": true
+    }
+  ],
+  "scope": "Component designators, source unique IDs and original footprint-name metadata only; pin/net fidelity and footprint binding not verified.",
+  "easyeda_check": {
+    "missing_footprints": 40,
+    "floating_shield_pin_warning": 1,
+    "netlist_export_succeeded": false
+  }
+}

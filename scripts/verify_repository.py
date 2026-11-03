@@ -23,6 +23,10 @@ def main():
  mapping=read('reconstructed-pin-map.json');check(len(mapping)==85,'Mapped pad count mismatch');check(len({x['hole_id'] for x in mapping})==85,'Repeated mapped source hole');check(len({(x['reference'],x['pin']) for x in mapping})==85,'Duplicate component pin')
  held=read('remaining-footprint-checks.json');check(held['all_component_round_holes_accounted']==138 and held['small_unassigned_via_candidates']==51,'Hole accounting mismatch')
  roundtrip=read('independent-footprint-verification.json');check(roundtrip['footprints']==24 and roundtrip['round_pads']==138 and roundtrip['routed_slots']==2 and not roundtrip['errors'],'Recorded independent CAD check failed')
+ native=json.loads((ROOT/'hardware/easyeda/native-review-check.json').read_text())
+ for name,digest in native['source_sha256'].items():
+  check(hashlib.sha256((ROOT/'hardware/easyeda'/name).read_bytes()).hexdigest()==digest,f'Native review evidence changed: {name}')
+ check(native['native_pcb_components']==24 and native['native_pad_net_records']==140 and native['original_footprint_name_checks']==40,'Native review counts changed')
  for folder,n in [('OriginalCarrier.pretty',11),('UnresolvedOriginal.pretty',13)]:check(len(list((DATA/folder).glob('*.kicad_mod')))==n,f'Wrong footprint count: {folder}')
  copper=read('four-layer-connectivity-check.json')
  check(not copper['conflicts'] and len(copper['known_power_anchor_checks'])==9 and all(r['pass'] for r in copper['known_power_anchor_checks']),'Copper anchor checks failed')

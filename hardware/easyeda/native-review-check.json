@@ -1,0 +1,17 @@
+{
+  "native_pcb_components": 24,
+  "native_pad_net_records": 140,
+  "native_schematic_designators": 40,
+  "original_footprint_name_checks": 40,
+  "source_sha256": {
+    "carrier-geometry-review.epcb": "838626a2d6a097ccb8f7eab0b7d4637013604c4bf6800dabbdb1e8b65dcefca8",
+    "imported-review-page.esch": "78f57842e6faddac563571008b967537f05eda312c8248e28405f56579941346"
+  },
+  "scope": "Native document counts and schematic reference/model-name retention. Does not validate external library geometry, pin mapping, nets, masks or electrical design.",
+  "library_geometry_verification": "Pending complete native project archive",
+  "observed_schematic_drc": {
+    "fatal_missing_footprints": 40,
+    "errors": 0,
+    "warnings": 1
+  }
+}

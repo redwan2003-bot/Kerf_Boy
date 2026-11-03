@@ -1,0 +1,147 @@
+{
+  "scope": "Source plane topology: reconstructed board clipped by negative Gerber clearance geometry and all round drills/routed slots. Polygon approximation, not physical continuity testing.",
+  "source_sha256": {
+    "GTL": "1fe70fdacf740bf136e7c3ea3ff686855db85711fcea1a13bee41be31e8371b2",
+    "GBL": "e070ac917dc9e7980d9654134b62dae4e29a87633ba09b7b09e0589a4753f4a7",
+    "GP1": "2603780d517c5433801c8927afeb6ef8c77a70dbeaedf79e202d72e9af481413",
+    "GP2": "41c2692dbf6891bc8fea782e6a0d5c6f7bf101a802e28702766658bb2c2edd45"
+  },
+  "copper_islands": {
+    "GP1": 1,
+    "GP2": 1
+  },
+  "checks": [
+    {
+      "layer": "GP1",
+      "hole": "H095",
+      "anchor": "H137",
+      "same_copper_island": false,
+      "touched_islands": [],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP1",
+      "hole": "H098",
+      "anchor": "H137",
+      "same_copper_island": false,
+      "touched_islands": [],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP1",
+      "hole": "H083",
+      "anchor": "H137",
+      "same_copper_island": false,
+      "touched_islands": [],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP1",
+      "hole": "H086",
+      "anchor": "H137",
+      "same_copper_island": false,
+      "touched_islands": [],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP1",
+      "hole": "H089",
+      "anchor": "H137",
+      "same_copper_island": false,
+      "touched_islands": [],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP1",
+      "hole": "H092",
+      "anchor": "H137",
+      "same_copper_island": false,
+      "touched_islands": [],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP2",
+      "hole": "H095",
+      "anchor": "H136",
+      "same_copper_island": true,
+      "touched_islands": [
+        0
+      ],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP2",
+      "hole": "H098",
+      "anchor": "H136",
+      "same_copper_island": true,
+      "touched_islands": [
+        0
+      ],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP2",
+      "hole": "H083",
+      "anchor": "H136",
+      "same_copper_island": true,
+      "touched_islands": [
+        0
+      ],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP2",
+      "hole": "H086",
+      "anchor": "H136",
+      "same_copper_island": true,
+      "touched_islands": [
+        0
+      ],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP2",
+      "hole": "H089",
+      "anchor": "H136",
+      "same_copper_island": true,
+      "touched_islands": [
+        0
+      ],
+      "anchor_islands": [
+        0
+      ]
+    },
+    {
+      "layer": "GP2",
+      "hole": "H092",
+      "anchor": "H136",
+      "same_copper_island": true,
+      "touched_islands": [
+        0
+      ],
+      "anchor_islands": [
+        0
+      ]
+    }
+  ]
+}

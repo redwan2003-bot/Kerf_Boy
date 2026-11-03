@@ -51,3 +51,7 @@ This source-specific parser joins GTL/GBL copper at plated holes and samples neg
 ## Supplemental SchDoc inventory
 
 Install scripts/requirements.txt, then run `python scripts/extract_schdoc_inventory.py`. It checks record boundaries, declared counts, unique pin identifiers and 85 existing mapped identifier references. It reads explicit fields only; it does not compile a netlist or import into EasyEDA. The source hash is checked by repository verification.
+
+## Native review update
+
+Run `python scripts/check_easyeda_review.py` for saved native document counts and origin-name retention. `python scripts/prepare_easyeda_review_imports.py` regenerates the experimental imports (requires olefile). `python scripts/check_plane_topology.py` checks clipped internal-plane connectivity (requires Shapely). These do not prove native library geometry or electrical equivalence. See [current report](reports/easyeda-import-review.md).

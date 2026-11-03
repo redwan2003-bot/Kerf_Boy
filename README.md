@@ -12,6 +12,7 @@ The requirement is to **retain the original through-hole components and plug-in 
 
 ## Start here
 
+- [Latest EasyEDA import report](docs/reports/easyeda-import-review.md)
 - [Hardware and footprint guide](hardware/README.md)
 - [Complete reconstruction report (PDF)](docs/reports/complete-reconstruction-report.pdf)
 - [Production readiness and unresolved work](docs/PRODUCTION_READINESS.md)
@@ -70,7 +71,8 @@ Kerf_Boy/
 | Additional small holes | 51 via candidates, outside component footprints |
 | Reconstructed mappings | 85 pads; original-native-netlist equivalence not established |
 | Independent geometry read-back | Passed at 0.000002 mm comparison tolerance |
-| EasyEDA import / ERC / DRC / hardware test | Not verified / not run / not run / not performed |
+| EasyEDA review | Schematic and carrier imported; native counts checked; library geometry and binding pending |
+| Electrical checks / hardware test | 40 missing-footprint fatal findings, one shield-pin warning / not performed |
 
 ![Mechanical reference comparison](docs/images/mechanical-verification.png)
 

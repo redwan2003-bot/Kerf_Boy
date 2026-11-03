@@ -1,0 +1,9 @@
+{
+  "reader": "KiCad pcbnew 10",
+  "footprints": 24,
+  "pads": 140,
+  "outline_segments": 759,
+  "tracks": 0,
+  "same_as_independently_verified_reconstruction": true,
+  "scope": "Corrected import input; native external library geometry remains pending."
+}

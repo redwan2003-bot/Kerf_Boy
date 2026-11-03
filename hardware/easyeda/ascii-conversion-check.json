@@ -1,0 +1,6 @@
+{
+  "source_sha256": "9872e28f45b1e8e7191b9568461e1852a7f79bb4d7d1ec867469cba9450c42b1",
+  "records": 1236,
+  "method": "Remove binary record-length prefixes and NUL terminators from FileHeader; replace header Binary File with Ascii File; preserve all other record bytes.",
+  "status": "Experimental import copy; not an Altium Save As export; native conversion and net fidelity unverified."
+}
