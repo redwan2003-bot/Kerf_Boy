@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+python-libs/
+*.log
+*.bak
+*-backups/
+fp-info-cache
+*.kicad_prl
+.DS_Store
+Thumbs.db
+hardware/reconstruction/*.zip

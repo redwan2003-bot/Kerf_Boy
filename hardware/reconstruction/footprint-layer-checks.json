@@ -1,0 +1,517 @@
+{
+  "footprints": 11,
+  "pads": 85,
+  "checks": [
+    {
+      "ref": "M1",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "3",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "4",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "5",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "6",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "7",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "8",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "9",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "10",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "11",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "12",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "13",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "M1",
+      "pin": "14",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "3",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "4",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "5",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "6",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "7",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "8",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "9",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "10",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "11",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "12",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "13",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "14",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "15",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "16",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "17",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U1",
+      "pin": "18",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "3",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "4",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "5",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "6",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "7",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "8",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "9",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "10",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "11",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "12",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "13",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "14",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "15",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U2",
+      "pin": "16",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U3",
+      "pin": "01",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U3",
+      "pin": "02",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U3",
+      "pin": "03",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U3",
+      "pin": "04",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U3",
+      "pin": "05",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "3",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "4",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "5",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "6",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "7",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "8",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "9",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "U4",
+      "pin": "10",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "DS",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "DS",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "DS",
+      "pin": "3",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "DS",
+      "pin": "4",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J5",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J5",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J5",
+      "pin": "3",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J5",
+      "pin": "4",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J5",
+      "pin": "5",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J5",
+      "pin": "6",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J4",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J4",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J4",
+      "pin": "3",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J4",
+      "pin": "4",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J4",
+      "pin": "5",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J4",
+      "pin": "6",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J1",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J1",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J2",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J2",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J3",
+      "pin": "1",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    },
+    {
+      "ref": "J3",
+      "pin": "2",
+      "both_copper_layers_equal": true,
+      "both_mask_layers_equal": true
+    }
+  ],
+  "remaining": "Encoder, switches, LEDs, buzzer and tactile buttons not exported pending numbering/polarity verification; no EasyEDA import verification"
+}

@@ -1,0 +1,11 @@
+* text=auto
+hardware/reference/original/** -text
+*.pdf binary
+*.png binary
+*.zip binary
+*.Cam binary
+*.dwg binary
+
+# Preserve CAD line-type text and immutable upstream whitespace.
+*.dxf -whitespace
+hardware/reference/original/** -whitespace

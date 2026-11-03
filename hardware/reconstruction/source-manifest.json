@@ -1,0 +1,252 @@
+[
+  {
+    "path": "Mechanical Files\\CB3_Bottom.DXF",
+    "bytes": 73407,
+    "sha256": "5933ce885c9a01336437e34261cbd9cb13efb276b802934a3ef8721cc5aa6e18"
+  },
+  {
+    "path": "Mechanical Files\\CB3_Full_Mechanical.DXF",
+    "bytes": 87306,
+    "sha256": "87276e89dc461ddaa4bf4153a2a8c0cbb24b81956d9ecc8eb15bcf3cd1e41f41"
+  },
+  {
+    "path": "Mechanical Files\\CB3_Left_Piece.DXF",
+    "bytes": 71939,
+    "sha256": "3c02187c83c044dfb72d014b11a690a72c3dd19329c383a1e427b88818f896d3"
+  },
+  {
+    "path": "Mechanical Files\\CB3_Right_Piece.DXF",
+    "bytes": 65169,
+    "sha256": "25126453b20341ddffeb7b2df99d4e9f8406cbf3405871f704d20b3ff709ac2f"
+  },
+  {
+    "path": "Mechanical Files\\CB3_Screen_Cover.DXF",
+    "bytes": 63171,
+    "sha256": "ce910f3ea634e74dcbc66e960f60f2976977b8d67e47dba0cce0f6b9b40e3d95"
+  },
+  {
+    "path": "Mechanical Files\\CB3_Top_Full.DXF",
+    "bytes": 73252,
+    "sha256": "e9ee0bcdb9c06d8e34f73df760fbbd09dc5a91b3ca5b28678311777389cbcb67"
+  },
+  {
+    "path": "PCB Data\\Altium Schematic Chip-Boy Mk. 3.pdf",
+    "bytes": 139990,
+    "sha256": "11c23224aeef0ebfd6da4a2f8c3d010a7d40109df03d6f9f38f99b363058dd97"
+  },
+  {
+    "path": "PCB Data\\Assembly Drawing Chip-Boy Mk. 3.pdf",
+    "bytes": 47665,
+    "sha256": "45eef779de7c83c0d331e8580d9c96761488719e423e19cc11b6dbccb65ed8ff"
+  },
+  {
+    "path": "PCB Data\\PCB Layout Chip-Boy Mk. 3.pdf",
+    "bytes": 47041,
+    "sha256": "4d5a15f608cbf3aaa2361f9a7a2e1f9bfbe91d1e6ab408093f5749cdeb0ab420"
+  },
+  {
+    "path": "Project Outputs\\Chip-Boy_Mk_3_Gerber_Files.zip",
+    "bytes": 323665,
+    "sha256": "f7949e1efc15bcbaa7a4c11dc3712e384a0ee209daa06a178a2145b82a5f7db5"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CAMtastic11.Cam",
+    "bytes": 1233507,
+    "sha256": "ae09c5a7b0aa55015c856e1f1c61905a486ae3b6a45dd81d799863743cf3b4bb"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CAMtastic12.Cam",
+    "bytes": 34111,
+    "sha256": "3ac5cc4266d4a852c778cf6276c0da62c4bfcdb333c7b567850e120177cf5518"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIP_BOY_MK_3.pdf",
+    "bytes": 139990,
+    "sha256": "11c23224aeef0ebfd6da4a2f8c3d010a7d40109df03d6f9f38f99b363058dd97"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III-macro.APR_LIB",
+    "bytes": 1172,
+    "sha256": "35d2a7f51fe123dafb9a657225aaf4de709d4938589fb4d3741ed653ea6ea6cb"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III-RectHoles.TXT",
+    "bytes": 192,
+    "sha256": "b3e6fa5d5fc2d2d249d1b717ea913ae6b542b86684ca52199f70c7234188e418"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.1",
+    "bytes": 266,
+    "sha256": "449a3531a5add4941930e53005ea1bec03012fb2eaeaaa87cea60e4b21fdf349"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.2",
+    "bytes": 266,
+    "sha256": "449a3531a5add4941930e53005ea1bec03012fb2eaeaaa87cea60e4b21fdf349"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.3",
+    "bytes": 266,
+    "sha256": "449a3531a5add4941930e53005ea1bec03012fb2eaeaaa87cea60e4b21fdf349"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.apr",
+    "bytes": 7252,
+    "sha256": "d8b63e37d3f08298551efe844fc865380840852cabefb37990db3e6175437a24"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.DRR",
+    "bytes": 2644,
+    "sha256": "140581f7ddca55d04252de2d1f3d6ed3fca85aea4bfebbb6fb77eeccb20404d8"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.dwg",
+    "bytes": 369599,
+    "sha256": "48a398aaf01b1c2cb250b18bad71def933eca7905959fb0d8bf59dbc923c9a55"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.EXTREP",
+    "bytes": 2058,
+    "sha256": "746c4040cb7f71b78a29748524b964847b006206d1232eacab19870e38379e33"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GBL",
+    "bytes": 12748,
+    "sha256": "e070ac917dc9e7980d9654134b62dae4e29a87633ba09b7b09e0589a4753f4a7"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GBO",
+    "bytes": 5007,
+    "sha256": "09811dc287f20c2513bdc0300a2c144a1f0a7f0ed3a07497ce66ddadde71b6fe"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GBP",
+    "bytes": 978,
+    "sha256": "0e9952511ddcf265284123e93ec6d523b4ff639996143bbb2e054a7512a769df"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GBS",
+    "bytes": 4400,
+    "sha256": "39f7696ed0d4adb750dbcb233bf9be6df69721d0838798c4fbfa73ab92d5ef69"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GD1",
+    "bytes": 23302,
+    "sha256": "467ce53074a7698d797c75cf4a5584bf0f1707dffe4003876d87e34ee1969662"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GG1",
+    "bytes": 12124,
+    "sha256": "8ca8b4209e6e1ace20d44478fd749ca94ddf52dc535eafa196014e08eef8fe63"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GKO",
+    "bytes": 271,
+    "sha256": "24aba40bde5e93602de2267954881cfb175e2bc249941b55f06b91883c8ea021"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GM",
+    "bytes": 5682,
+    "sha256": "71eed3fa6e02c363e51e9da7e654f70a58cd2f32813f9760e673ff56a0f2da9e"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GM1",
+    "bytes": 4113,
+    "sha256": "ea89d0c71239631cb33e08740aa1b85b7be0a6ff2030ed195f2649ff4d3a3e58"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GM13",
+    "bytes": 10275,
+    "sha256": "367f736b6eaef5bc9c441534d05207f7d00782d9509abc2deb84f2c0a12782bf"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GM15",
+    "bytes": 4503,
+    "sha256": "4fd73aa6ab8951b1e1c462a98877c5af7a259af442b4106be776effd94321f9b"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GM4",
+    "bytes": 268,
+    "sha256": "85a877ef1816a68dcbd75105e86e44710361b87030f3e1b567a797883dc8c76a"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GML",
+    "bytes": 3352,
+    "sha256": "bfe1a746a40f16897b94491b01faa5cc3a4f73b7d37fa4a5ac371f2520e818e5"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GP1",
+    "bytes": 23463,
+    "sha256": "2603780d517c5433801c8927afeb6ef8c77a70dbeaedf79e202d72e9af481413"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GP2",
+    "bytes": 23881,
+    "sha256": "41c2692dbf6891bc8fea782e6a0d5c6f7bf101a802e28702766658bb2c2edd45"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GPB",
+    "bytes": 4356,
+    "sha256": "8061b6ccd38af6103f1d1bc9833f0b9ce2ebc923f846332ac4345b328b631312"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GPT",
+    "bytes": 4658,
+    "sha256": "8e5cffca1e49a39c9302ab5e5fa0f70832ba0a7276786ef68c1a6347afb9d0e8"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GTL",
+    "bytes": 11285,
+    "sha256": "1fe70fdacf740bf136e7c3ea3ff686855db85711fcea1a13bee41be31e8371b2"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GTO",
+    "bytes": 79279,
+    "sha256": "bd7e9b6b04e2a0a82878fe5590929fbd1c0f03db44367312111bb668c90d0f45"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GTP",
+    "bytes": 1284,
+    "sha256": "b004b06f3e1eb538811426da0ce4d69ca5820d41e5d7bf5b7cde743a958b4d47"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GTS",
+    "bytes": 4662,
+    "sha256": "9bcd779adc335d244c8abf8e58ec9a47574a03592e2d5a5a9e0583009671edf0"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.LDP",
+    "bytes": 292,
+    "sha256": "0a6812f5236a1eda8b68a8648ff303dc6f2be57f56bee9d7c6242b198fdc5ac3"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.REP",
+    "bytes": 8843,
+    "sha256": "beee3e825ed245660822e5c1bb4a332162c8535e1ac440eab57dca48260eb7a1"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.TXT",
+    "bytes": 2068,
+    "sha256": "3330317555c075e25a0a9c3991a6539f67684abb3d14e0014a4ad4e0bb83d1d2"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\Design Rule Check - CHIPBOY_Mk_III.drc",
+    "bytes": 1634,
+    "sha256": "cd54ce21d3aad0c5fdcc17db7c43e67c038b7cc68b69e30ac04a5cf0595a90a2"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\Design Rule Check - CHIPBOY_Mk_III.html",
+    "bytes": 10679,
+    "sha256": "be5630e367567826049f0610d99ff4b8f8542812d675e063d448d08358cd5dd1"
+  },
+  {
+    "path": "Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\Status Report.Txt",
+    "bytes": 344,
+    "sha256": "71ebfe3626cd0fdaae9c834238cd8da60a1d994f7cabf7b65a7a8d2ddcce081e"
+  },
+  {
+    "path": "README.md",
+    "bytes": 12043,
+    "sha256": "db1a3c004b157feae2011653312a4f4657e311c3032d2ef065d523b1e973f368"
+  }
+]

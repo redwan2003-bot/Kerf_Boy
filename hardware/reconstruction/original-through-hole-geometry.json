@@ -1,0 +1,3850 @@
+{
+  "status": "Reference geometry only; component and pin mapping not released",
+  "origin_source_mm": [
+    57.658,
+    50.8
+  ],
+  "round_hole_count": 189,
+  "routed_slot_count": 2,
+  "counts_match_original_DRR": true,
+  "top_pad_matched_holes": 189,
+  "holes": [
+    {
+      "id": "H001",
+      "tool": 1,
+      "x_mm": 68.707,
+      "y_mm": 6.477,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H002",
+      "tool": 1,
+      "x_mm": 70.739,
+      "y_mm": 10.541,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H003",
+      "tool": 1,
+      "x_mm": 73.533,
+      "y_mm": 15.367,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H004",
+      "tool": 1,
+      "x_mm": 77.216,
+      "y_mm": 14.605,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H005",
+      "tool": 1,
+      "x_mm": 77.216,
+      "y_mm": 17.907,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H006",
+      "tool": 1,
+      "x_mm": 77.216,
+      "y_mm": 20.193,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H007",
+      "tool": 1,
+      "x_mm": 72.644,
+      "y_mm": 20.574,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H008",
+      "tool": 1,
+      "x_mm": 69.215,
+      "y_mm": 16.764,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H009",
+      "tool": 1,
+      "x_mm": 50.546,
+      "y_mm": 27.813,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H010",
+      "tool": 1,
+      "x_mm": 37.846,
+      "y_mm": 16.383,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H011",
+      "tool": 1,
+      "x_mm": 31.369,
+      "y_mm": 21.463,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H012",
+      "tool": 1,
+      "x_mm": 16.383,
+      "y_mm": 32.004,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H013",
+      "tool": 1,
+      "x_mm": 19.558,
+      "y_mm": 36.322,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H014",
+      "tool": 1,
+      "x_mm": 21.336,
+      "y_mm": 48.006,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H015",
+      "tool": 1,
+      "x_mm": 24.638,
+      "y_mm": 48.768,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H016",
+      "tool": 1,
+      "x_mm": 25.527,
+      "y_mm": 51.943,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H017",
+      "tool": 1,
+      "x_mm": 27.788616,
+      "y_mm": 54.204616,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H018",
+      "tool": 1,
+      "x_mm": 31.369,
+      "y_mm": 38.227,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H019",
+      "tool": 1,
+      "x_mm": 33.147,
+      "y_mm": 38.989,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H020",
+      "tool": 1,
+      "x_mm": 31.369,
+      "y_mm": 33.528,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H021",
+      "tool": 1,
+      "x_mm": 36.703,
+      "y_mm": 32.258,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H022",
+      "tool": 1,
+      "x_mm": 42.926,
+      "y_mm": 33.655,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H023",
+      "tool": 1,
+      "x_mm": 44.577,
+      "y_mm": 33.655,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H024",
+      "tool": 1,
+      "x_mm": 49.657,
+      "y_mm": 33.147,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H025",
+      "tool": 1,
+      "x_mm": 52.451,
+      "y_mm": 42.418,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H026",
+      "tool": 1,
+      "x_mm": 52.705,
+      "y_mm": 44.704,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H027",
+      "tool": 1,
+      "x_mm": 52.705,
+      "y_mm": 46.228,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H028",
+      "tool": 1,
+      "x_mm": 47.244,
+      "y_mm": 47.371,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H029",
+      "tool": 1,
+      "x_mm": 43.18,
+      "y_mm": 49.657,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H030",
+      "tool": 1,
+      "x_mm": 42.926,
+      "y_mm": 41.91,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H031",
+      "tool": 1,
+      "x_mm": 45.212,
+      "y_mm": 42.418,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H032",
+      "tool": 1,
+      "x_mm": 57.404,
+      "y_mm": 51.308,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H033",
+      "tool": 1,
+      "x_mm": 54.779926,
+      "y_mm": 54.144926,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H034",
+      "tool": 1,
+      "x_mm": 64.262,
+      "y_mm": 54.102,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H035",
+      "tool": 1,
+      "x_mm": 67.056,
+      "y_mm": 36.83,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H036",
+      "tool": 1,
+      "x_mm": 69.088,
+      "y_mm": 32.639,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H037",
+      "tool": 1,
+      "x_mm": 72.136,
+      "y_mm": 35.052,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H038",
+      "tool": 1,
+      "x_mm": 73.914,
+      "y_mm": 30.226,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H039",
+      "tool": 1,
+      "x_mm": 73.279,
+      "y_mm": 40.767,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H040",
+      "tool": 1,
+      "x_mm": 83.058,
+      "y_mm": 44.831,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H041",
+      "tool": 1,
+      "x_mm": 84.963,
+      "y_mm": 38.1,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H042",
+      "tool": 1,
+      "x_mm": 84.963,
+      "y_mm": 35.941,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H043",
+      "tool": 1,
+      "x_mm": 85.09,
+      "y_mm": 32.512,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H044",
+      "tool": 1,
+      "x_mm": 85.09,
+      "y_mm": 29.718,
+      "diameter_mm": 0.254,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 79,
+          "shape": "C",
+          "dimensions_mm": [
+            0.508
+          ]
+        }
+      ],
+      "role": "via_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H045",
+      "tool": 2,
+      "x_mm": 24.003,
+      "y_mm": 18.161,
+      "diameter_mm": 0.508,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 78,
+          "shape": "C",
+          "dimensions_mm": [
+            0.889
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H046",
+      "tool": 2,
+      "x_mm": 28.321,
+      "y_mm": 25.781,
+      "diameter_mm": 0.508,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 78,
+          "shape": "C",
+          "dimensions_mm": [
+            0.889
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H047",
+      "tool": 2,
+      "x_mm": 18.796,
+      "y_mm": 30.353,
+      "diameter_mm": 0.508,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 78,
+          "shape": "C",
+          "dimensions_mm": [
+            0.889
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H048",
+      "tool": 2,
+      "x_mm": 23.749,
+      "y_mm": 33.528,
+      "diameter_mm": 0.508,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 78,
+          "shape": "C",
+          "dimensions_mm": [
+            0.889
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H049",
+      "tool": 2,
+      "x_mm": 27.686,
+      "y_mm": 30.734,
+      "diameter_mm": 0.508,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 78,
+          "shape": "C",
+          "dimensions_mm": [
+            0.889
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H050",
+      "tool": 2,
+      "x_mm": 28.194,
+      "y_mm": 58.42,
+      "diameter_mm": 0.508,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 78,
+          "shape": "C",
+          "dimensions_mm": [
+            0.889
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H051",
+      "tool": 2,
+      "x_mm": 43.942,
+      "y_mm": 57.404,
+      "diameter_mm": 0.508,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 78,
+          "shape": "C",
+          "dimensions_mm": [
+            0.889
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H052",
+      "tool": 3,
+      "x_mm": 36.576,
+      "y_mm": 5.461,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H053",
+      "tool": 3,
+      "x_mm": 36.576,
+      "y_mm": 8.001,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H054",
+      "tool": 3,
+      "x_mm": 36.576,
+      "y_mm": 10.541,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H055",
+      "tool": 3,
+      "x_mm": 36.576,
+      "y_mm": 13.081,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H056",
+      "tool": 3,
+      "x_mm": 36.576,
+      "y_mm": 15.621,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H057",
+      "tool": 3,
+      "x_mm": 36.576,
+      "y_mm": 18.161,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H058",
+      "tool": 3,
+      "x_mm": 36.576,
+      "y_mm": 20.701,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H059",
+      "tool": 3,
+      "x_mm": 36.576,
+      "y_mm": 23.241,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H060",
+      "tool": 3,
+      "x_mm": 18.542,
+      "y_mm": 23.241,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 57,
+          "shape": "R",
+          "dimensions_mm": [
+            1.3081,
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H061",
+      "tool": 3,
+      "x_mm": 18.542,
+      "y_mm": 20.701,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H062",
+      "tool": 3,
+      "x_mm": 18.542,
+      "y_mm": 18.161,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H063",
+      "tool": 3,
+      "x_mm": 18.542,
+      "y_mm": 15.621,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H064",
+      "tool": 3,
+      "x_mm": 18.542,
+      "y_mm": 13.081,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H065",
+      "tool": 3,
+      "x_mm": 18.542,
+      "y_mm": 10.541,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H066",
+      "tool": 3,
+      "x_mm": 18.542,
+      "y_mm": 8.001,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H067",
+      "tool": 3,
+      "x_mm": 18.542,
+      "y_mm": 5.461,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 56,
+          "shape": "C",
+          "dimensions_mm": [
+            1.3081
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H068",
+      "tool": 3,
+      "x_mm": 39.760906,
+      "y_mm": 51.943,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 72,
+          "shape": "C",
+          "dimensions_mm": [
+            1.999996
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H069",
+      "tool": 3,
+      "x_mm": 47.361094,
+      "y_mm": 51.943,
+      "diameter_mm": 0.8000999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 72,
+          "shape": "C",
+          "dimensions_mm": [
+            1.999996
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H070",
+      "tool": 4,
+      "x_mm": 42.458132,
+      "y_mm": 6.147054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 54,
+          "shape": "R",
+          "dimensions_mm": [
+            1.358138,
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H071",
+      "tool": 4,
+      "x_mm": 44.958,
+      "y_mm": 6.147054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H072",
+      "tool": 4,
+      "x_mm": 47.457868,
+      "y_mm": 6.147054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H073",
+      "tool": 4,
+      "x_mm": 47.457868,
+      "y_mm": 9.346946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H074",
+      "tool": 4,
+      "x_mm": 44.958,
+      "y_mm": 9.346946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H075",
+      "tool": 4,
+      "x_mm": 42.458132,
+      "y_mm": 9.346946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H076",
+      "tool": 4,
+      "x_mm": 42.458132,
+      "y_mm": 12.497054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 54,
+          "shape": "R",
+          "dimensions_mm": [
+            1.358138,
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H077",
+      "tool": 4,
+      "x_mm": 44.958,
+      "y_mm": 12.497054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H078",
+      "tool": 4,
+      "x_mm": 47.457868,
+      "y_mm": 12.497054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H079",
+      "tool": 4,
+      "x_mm": 47.457868,
+      "y_mm": 15.696946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H080",
+      "tool": 4,
+      "x_mm": 44.958,
+      "y_mm": 15.696946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H081",
+      "tool": 4,
+      "x_mm": 42.458132,
+      "y_mm": 15.696946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H082",
+      "tool": 4,
+      "x_mm": 42.458132,
+      "y_mm": 18.720054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 54,
+          "shape": "R",
+          "dimensions_mm": [
+            1.358138,
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H083",
+      "tool": 4,
+      "x_mm": 44.958,
+      "y_mm": 18.720054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H084",
+      "tool": 4,
+      "x_mm": 47.457868,
+      "y_mm": 18.720054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H085",
+      "tool": 4,
+      "x_mm": 47.457868,
+      "y_mm": 21.919946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H086",
+      "tool": 4,
+      "x_mm": 44.958,
+      "y_mm": 21.919946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H087",
+      "tool": 4,
+      "x_mm": 42.458132,
+      "y_mm": 21.919946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H088",
+      "tool": 4,
+      "x_mm": 42.458132,
+      "y_mm": 24.943054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 54,
+          "shape": "R",
+          "dimensions_mm": [
+            1.358138,
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H089",
+      "tool": 4,
+      "x_mm": 44.958,
+      "y_mm": 24.943054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H090",
+      "tool": 4,
+      "x_mm": 47.457868,
+      "y_mm": 24.943054,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H091",
+      "tool": 4,
+      "x_mm": 47.457868,
+      "y_mm": 28.142946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H092",
+      "tool": 4,
+      "x_mm": 44.958,
+      "y_mm": 28.142946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H093",
+      "tool": 4,
+      "x_mm": 42.458132,
+      "y_mm": 28.142946,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H094",
+      "tool": 4,
+      "x_mm": 8.344154,
+      "y_mm": 53.239416,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H095",
+      "tool": 4,
+      "x_mm": 5.844032,
+      "y_mm": 53.239416,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H096",
+      "tool": 4,
+      "x_mm": 3.344164,
+      "y_mm": 53.239416,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 54,
+          "shape": "R",
+          "dimensions_mm": [
+            1.358138,
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H097",
+      "tool": 4,
+      "x_mm": 3.344164,
+      "y_mm": 56.439562,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H098",
+      "tool": 4,
+      "x_mm": 5.844032,
+      "y_mm": 56.439562,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H099",
+      "tool": 4,
+      "x_mm": 8.344154,
+      "y_mm": 56.439562,
+      "diameter_mm": 0.8498839999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 55,
+          "shape": "C",
+          "dimensions_mm": [
+            1.358138
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H100",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 21.59,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H101",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 24.13,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H102",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 26.67,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H103",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 26.67,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H104",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 24.13,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H105",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 21.59,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H106",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 29.21,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H107",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 31.75,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H108",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 34.29,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H109",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 36.83,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H110",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 39.37,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H111",
+      "tool": 5,
+      "x_mm": 87.757,
+      "y_mm": 41.91,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 61,
+          "shape": "R",
+          "dimensions_mm": [
+            1.4986,
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H112",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 41.91,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H113",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 39.37,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H114",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 36.83,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H115",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 34.29,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H116",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 31.75,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H117",
+      "tool": 5,
+      "x_mm": 80.137,
+      "y_mm": 29.21,
+      "diameter_mm": 0.9905999999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 60,
+          "shape": "C",
+          "dimensions_mm": [
+            1.4986
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H118",
+      "tool": 6,
+      "x_mm": 77.724,
+      "y_mm": 27.432,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H119",
+      "tool": 6,
+      "x_mm": 89.662,
+      "y_mm": 19.685,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 77,
+          "shape": "R",
+          "dimensions_mm": [
+            1.507998,
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H120",
+      "tool": 6,
+      "x_mm": 89.662,
+      "y_mm": 17.145,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 58,
+          "shape": "C",
+          "dimensions_mm": [
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H121",
+      "tool": 6,
+      "x_mm": 59.944,
+      "y_mm": 24.892,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H122",
+      "tool": 6,
+      "x_mm": 59.944,
+      "y_mm": 27.432,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H123",
+      "tool": 6,
+      "x_mm": 17.399,
+      "y_mm": 34.163,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 63,
+          "shape": "R",
+          "dimensions_mm": [
+            1.599946,
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H124",
+      "tool": 6,
+      "x_mm": 17.399,
+      "y_mm": 36.703,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H125",
+      "tool": 6,
+      "x_mm": 17.399,
+      "y_mm": 39.243,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H126",
+      "tool": 6,
+      "x_mm": 17.399,
+      "y_mm": 41.783,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H127",
+      "tool": 6,
+      "x_mm": 17.399,
+      "y_mm": 44.323,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H128",
+      "tool": 6,
+      "x_mm": 17.399,
+      "y_mm": 46.863,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H129",
+      "tool": 6,
+      "x_mm": 17.399,
+      "y_mm": 49.403,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H130",
+      "tool": 6,
+      "x_mm": 14.859,
+      "y_mm": 54.864,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 58,
+          "shape": "C",
+          "dimensions_mm": [
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H131",
+      "tool": 6,
+      "x_mm": 12.319,
+      "y_mm": 54.864,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 59,
+          "shape": "R",
+          "dimensions_mm": [
+            1.507998,
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H132",
+      "tool": 6,
+      "x_mm": 2.159,
+      "y_mm": 49.403,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H133",
+      "tool": 6,
+      "x_mm": 2.159,
+      "y_mm": 46.863,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H134",
+      "tool": 6,
+      "x_mm": 2.159,
+      "y_mm": 44.323,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H135",
+      "tool": 6,
+      "x_mm": 2.159,
+      "y_mm": 41.783,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H136",
+      "tool": 6,
+      "x_mm": 2.159,
+      "y_mm": 39.243,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H137",
+      "tool": 6,
+      "x_mm": 2.159,
+      "y_mm": 36.703,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H138",
+      "tool": 6,
+      "x_mm": 2.159,
+      "y_mm": 34.163,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 64,
+          "shape": "C",
+          "dimensions_mm": [
+            1.599946
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H139",
+      "tool": 6,
+      "x_mm": 59.944,
+      "y_mm": 35.052,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H140",
+      "tool": 6,
+      "x_mm": 59.944,
+      "y_mm": 37.592,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H141",
+      "tool": 6,
+      "x_mm": 59.944,
+      "y_mm": 32.512,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H142",
+      "tool": 6,
+      "x_mm": 59.944,
+      "y_mm": 29.972,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H143",
+      "tool": 6,
+      "x_mm": 77.724,
+      "y_mm": 29.972,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H144",
+      "tool": 6,
+      "x_mm": 77.724,
+      "y_mm": 32.512,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H145",
+      "tool": 6,
+      "x_mm": 77.724,
+      "y_mm": 35.052,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 62,
+          "shape": "C",
+          "dimensions_mm": [
+            1.9304
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H146",
+      "tool": 6,
+      "x_mm": 73.025,
+      "y_mm": 44.069,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 58,
+          "shape": "C",
+          "dimensions_mm": [
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H147",
+      "tool": 6,
+      "x_mm": 70.485,
+      "y_mm": 44.069,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 58,
+          "shape": "C",
+          "dimensions_mm": [
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H148",
+      "tool": 6,
+      "x_mm": 67.945,
+      "y_mm": 44.069,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 58,
+          "shape": "C",
+          "dimensions_mm": [
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H149",
+      "tool": 6,
+      "x_mm": 65.405,
+      "y_mm": 44.069,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 59,
+          "shape": "R",
+          "dimensions_mm": [
+            1.507998,
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H150",
+      "tool": 6,
+      "x_mm": 89.662,
+      "y_mm": 43.815,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 58,
+          "shape": "C",
+          "dimensions_mm": [
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H151",
+      "tool": 6,
+      "x_mm": 89.662,
+      "y_mm": 46.355,
+      "diameter_mm": 0.999998,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 77,
+          "shape": "R",
+          "dimensions_mm": [
+            1.507998,
+            1.507998
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H152",
+      "tool": 7,
+      "x_mm": 78.0288,
+      "y_mm": 6.7564,
+      "diameter_mm": 1.016,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 73,
+          "shape": "O",
+          "dimensions_mm": [
+            3.048,
+            1.524
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H153",
+      "tool": 7,
+      "x_mm": 78.0288,
+      "y_mm": 11.2776,
+      "diameter_mm": 1.016,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 73,
+          "shape": "O",
+          "dimensions_mm": [
+            3.048,
+            1.524
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H154",
+      "tool": 7,
+      "x_mm": 84.5312,
+      "y_mm": 11.2776,
+      "diameter_mm": 1.016,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 73,
+          "shape": "O",
+          "dimensions_mm": [
+            3.048,
+            1.524
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H155",
+      "tool": 7,
+      "x_mm": 84.5312,
+      "y_mm": 6.7564,
+      "diameter_mm": 1.016,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 73,
+          "shape": "O",
+          "dimensions_mm": [
+            3.048,
+            1.524
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H156",
+      "tool": 7,
+      "x_mm": 60.4012,
+      "y_mm": 6.7564,
+      "diameter_mm": 1.016,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 73,
+          "shape": "O",
+          "dimensions_mm": [
+            3.048,
+            1.524
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H157",
+      "tool": 7,
+      "x_mm": 60.4012,
+      "y_mm": 11.2776,
+      "diameter_mm": 1.016,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 73,
+          "shape": "O",
+          "dimensions_mm": [
+            3.048,
+            1.524
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H158",
+      "tool": 7,
+      "x_mm": 53.8988,
+      "y_mm": 11.2776,
+      "diameter_mm": 1.016,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 73,
+          "shape": "O",
+          "dimensions_mm": [
+            3.048,
+            1.524
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H159",
+      "tool": 7,
+      "x_mm": 53.8988,
+      "y_mm": 6.7564,
+      "diameter_mm": 1.016,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 73,
+          "shape": "O",
+          "dimensions_mm": [
+            3.048,
+            1.524
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H160",
+      "tool": 8,
+      "x_mm": 4.701032,
+      "y_mm": 22.835616,
+      "diameter_mm": 1.020064,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 76,
+          "shape": "R",
+          "dimensions_mm": [
+            1.370076,
+            1.370076
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H161",
+      "tool": 8,
+      "x_mm": 7.241032,
+      "y_mm": 22.835616,
+      "diameter_mm": 1.020064,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 75,
+          "shape": "C",
+          "dimensions_mm": [
+            1.370076
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H162",
+      "tool": 8,
+      "x_mm": 9.781032,
+      "y_mm": 22.835616,
+      "diameter_mm": 1.020064,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 75,
+          "shape": "C",
+          "dimensions_mm": [
+            1.370076
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H163",
+      "tool": 8,
+      "x_mm": 12.321032,
+      "y_mm": 22.835616,
+      "diameter_mm": 1.020064,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 75,
+          "shape": "C",
+          "dimensions_mm": [
+            1.370076
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H164",
+      "tool": 8,
+      "x_mm": 14.861032,
+      "y_mm": 22.835616,
+      "diameter_mm": 1.020064,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 75,
+          "shape": "C",
+          "dimensions_mm": [
+            1.370076
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H165",
+      "tool": 9,
+      "x_mm": 90.424,
+      "y_mm": 25.4,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H166",
+      "tool": 9,
+      "x_mm": 90.424,
+      "y_mm": 27.94,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H167",
+      "tool": 9,
+      "x_mm": 18.669,
+      "y_mm": 54.61,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H168",
+      "tool": 9,
+      "x_mm": 18.669,
+      "y_mm": 57.15,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 71,
+          "shape": "R",
+          "dimensions_mm": [
+            1.605026,
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H169",
+      "tool": 9,
+      "x_mm": 21.846032,
+      "y_mm": 42.393616,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H170",
+      "tool": 9,
+      "x_mm": 24.386032,
+      "y_mm": 42.393616,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H171",
+      "tool": 9,
+      "x_mm": 26.926032,
+      "y_mm": 42.393616,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H172",
+      "tool": 9,
+      "x_mm": 29.466032,
+      "y_mm": 42.393616,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H173",
+      "tool": 9,
+      "x_mm": 32.006032,
+      "y_mm": 42.393616,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H174",
+      "tool": 9,
+      "x_mm": 34.546032,
+      "y_mm": 42.393616,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 74,
+          "shape": "R",
+          "dimensions_mm": [
+            1.605026,
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H175",
+      "tool": 9,
+      "x_mm": 51.562,
+      "y_mm": 47.752,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 71,
+          "shape": "R",
+          "dimensions_mm": [
+            1.605026,
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H176",
+      "tool": 9,
+      "x_mm": 51.562,
+      "y_mm": 50.292,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H177",
+      "tool": 9,
+      "x_mm": 51.562,
+      "y_mm": 53.848,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 71,
+          "shape": "R",
+          "dimensions_mm": [
+            1.605026,
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H178",
+      "tool": 9,
+      "x_mm": 51.562,
+      "y_mm": 56.388,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H179",
+      "tool": 9,
+      "x_mm": 90.424,
+      "y_mm": 38.1,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 71,
+          "shape": "R",
+          "dimensions_mm": [
+            1.605026,
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H180",
+      "tool": 9,
+      "x_mm": 90.424,
+      "y_mm": 35.56,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H181",
+      "tool": 9,
+      "x_mm": 90.424,
+      "y_mm": 33.02,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H182",
+      "tool": 9,
+      "x_mm": 90.424,
+      "y_mm": 30.48,
+      "diameter_mm": 1.0701019999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 70,
+          "shape": "C",
+          "dimensions_mm": [
+            1.605026
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H183",
+      "tool": 10,
+      "x_mm": 41.314878,
+      "y_mm": 30.345888,
+      "diameter_mm": 1.1998959999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 68,
+          "shape": "C",
+          "dimensions_mm": [
+            1.800098
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H184",
+      "tool": 10,
+      "x_mm": 43.815,
+      "y_mm": 30.345888,
+      "diameter_mm": 1.1998959999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 68,
+          "shape": "C",
+          "dimensions_mm": [
+            1.800098
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H185",
+      "tool": 10,
+      "x_mm": 46.314868,
+      "y_mm": 30.345888,
+      "diameter_mm": 1.1998959999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 68,
+          "shape": "C",
+          "dimensions_mm": [
+            1.800098
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H186",
+      "tool": 10,
+      "x_mm": 46.314868,
+      "y_mm": 44.845986,
+      "diameter_mm": 1.1998959999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 68,
+          "shape": "C",
+          "dimensions_mm": [
+            1.800098
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H187",
+      "tool": 10,
+      "x_mm": 41.314878,
+      "y_mm": 44.845986,
+      "diameter_mm": 1.1998959999999999,
+      "plated": true,
+      "top_pads": [
+        {
+          "aperture": 69,
+          "shape": "R",
+          "dimensions_mm": [
+            1.800098,
+            1.800098
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H188",
+      "tool": 12,
+      "x_mm": 67.871594,
+      "y_mm": 10.360406,
+      "diameter_mm": 0.8000999999999999,
+      "plated": false,
+      "top_pads": [
+        {
+          "aperture": 66,
+          "shape": "C",
+          "dimensions_mm": [
+            0.8001
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    },
+    {
+      "id": "H189",
+      "tool": 13,
+      "x_mm": 70.558406,
+      "y_mm": 7.673594,
+      "diameter_mm": 1.100074,
+      "plated": false,
+      "top_pads": [
+        {
+          "aperture": 65,
+          "shape": "C",
+          "dimensions_mm": [
+            1.100074
+          ]
+        }
+      ],
+      "role": "component_hole_candidate",
+      "pin_number": "UNVERIFIED",
+      "component": "UNASSIGNED"
+    }
+  ],
+  "slots": [
+    {
+      "tool": 11,
+      "plated": true,
+      "width_mm": 1.999996,
+      "start_mm": [
+        38.215062,
+        37.69614
+      ],
+      "end_mm": [
+        38.215062,
+        37.99586000000001
+      ],
+      "overall_length_mm": 2.299716000000008
+    },
+    {
+      "tool": 11,
+      "plated": true,
+      "width_mm": 1.999996,
+      "start_mm": [
+        49.41493799999999,
+        37.69614
+      ],
+      "end_mm": [
+        49.41493799999999,
+        37.99586000000001
+      ],
+      "overall_length_mm": 2.299716000000008
+    }
+  ]
+}

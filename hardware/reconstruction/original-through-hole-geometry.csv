@@ -1,0 +1,190 @@
+ID,Tool,X_mm,Y_mm,Drill_mm,Plated,Top_pad_shape_dimensions,Component,Pin
+H001,1,68.707,6.477,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H002,1,70.739,10.541,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H003,1,73.533,15.367,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H004,1,77.216,14.605,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H005,1,77.216,17.907,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H006,1,77.216,20.193,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H007,1,72.644,20.574,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H008,1,69.215,16.764,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H009,1,50.546,27.813,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H010,1,37.846,16.383,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H011,1,31.369,21.463,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H012,1,16.383,32.004,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H013,1,19.558,36.322,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H014,1,21.336,48.006,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H015,1,24.638,48.768,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H016,1,25.527,51.943,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H017,1,27.788616,54.204616,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H018,1,31.369,38.227,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H019,1,33.147,38.989,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H020,1,31.369,33.528,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H021,1,36.703,32.258,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H022,1,42.926,33.655,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H023,1,44.577,33.655,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H024,1,49.657,33.147,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H025,1,52.451,42.418,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H026,1,52.705,44.704,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H027,1,52.705,46.228,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H028,1,47.244,47.371,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H029,1,43.18,49.657,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H030,1,42.926,41.91,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H031,1,45.212,42.418,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H032,1,57.404,51.308,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H033,1,54.779926,54.144926,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H034,1,64.262,54.102,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H035,1,67.056,36.83,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H036,1,69.088,32.639,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H037,1,72.136,35.052,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H038,1,73.914,30.226,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H039,1,73.279,40.767,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H040,1,83.058,44.831,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H041,1,84.963,38.1,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H042,1,84.963,35.941,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H043,1,85.09,32.512,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H044,1,85.09,29.718,0.254,True,"[{""aperture"": 79, ""shape"": ""C"", ""dimensions_mm"": [0.508]}]",UNASSIGNED,UNVERIFIED
+H045,2,24.003,18.161,0.508,True,"[{""aperture"": 78, ""shape"": ""C"", ""dimensions_mm"": [0.889]}]",UNASSIGNED,UNVERIFIED
+H046,2,28.321,25.781,0.508,True,"[{""aperture"": 78, ""shape"": ""C"", ""dimensions_mm"": [0.889]}]",UNASSIGNED,UNVERIFIED
+H047,2,18.796,30.353,0.508,True,"[{""aperture"": 78, ""shape"": ""C"", ""dimensions_mm"": [0.889]}]",UNASSIGNED,UNVERIFIED
+H048,2,23.749,33.528,0.508,True,"[{""aperture"": 78, ""shape"": ""C"", ""dimensions_mm"": [0.889]}]",UNASSIGNED,UNVERIFIED
+H049,2,27.686,30.734,0.508,True,"[{""aperture"": 78, ""shape"": ""C"", ""dimensions_mm"": [0.889]}]",UNASSIGNED,UNVERIFIED
+H050,2,28.194,58.42,0.508,True,"[{""aperture"": 78, ""shape"": ""C"", ""dimensions_mm"": [0.889]}]",UNASSIGNED,UNVERIFIED
+H051,2,43.942,57.404,0.508,True,"[{""aperture"": 78, ""shape"": ""C"", ""dimensions_mm"": [0.889]}]",UNASSIGNED,UNVERIFIED
+H052,3,36.576,5.461,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H053,3,36.576,8.001,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H054,3,36.576,10.541,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H055,3,36.576,13.081,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H056,3,36.576,15.621,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H057,3,36.576,18.161,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H058,3,36.576,20.701,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H059,3,36.576,23.241,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H060,3,18.542,23.241,0.8000999999999999,True,"[{""aperture"": 57, ""shape"": ""R"", ""dimensions_mm"": [1.3081, 1.3081]}]",UNASSIGNED,UNVERIFIED
+H061,3,18.542,20.701,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H062,3,18.542,18.161,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H063,3,18.542,15.621,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H064,3,18.542,13.081,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H065,3,18.542,10.541,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H066,3,18.542,8.001,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H067,3,18.542,5.461,0.8000999999999999,True,"[{""aperture"": 56, ""shape"": ""C"", ""dimensions_mm"": [1.3081]}]",UNASSIGNED,UNVERIFIED
+H068,3,39.760906,51.943,0.8000999999999999,True,"[{""aperture"": 72, ""shape"": ""C"", ""dimensions_mm"": [1.999996]}]",UNASSIGNED,UNVERIFIED
+H069,3,47.361094,51.943,0.8000999999999999,True,"[{""aperture"": 72, ""shape"": ""C"", ""dimensions_mm"": [1.999996]}]",UNASSIGNED,UNVERIFIED
+H070,4,42.458132,6.147054,0.8498839999999999,True,"[{""aperture"": 54, ""shape"": ""R"", ""dimensions_mm"": [1.358138, 1.358138]}]",UNASSIGNED,UNVERIFIED
+H071,4,44.958,6.147054,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H072,4,47.457868,6.147054,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H073,4,47.457868,9.346946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H074,4,44.958,9.346946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H075,4,42.458132,9.346946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H076,4,42.458132,12.497054,0.8498839999999999,True,"[{""aperture"": 54, ""shape"": ""R"", ""dimensions_mm"": [1.358138, 1.358138]}]",UNASSIGNED,UNVERIFIED
+H077,4,44.958,12.497054,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H078,4,47.457868,12.497054,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H079,4,47.457868,15.696946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H080,4,44.958,15.696946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H081,4,42.458132,15.696946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H082,4,42.458132,18.720054,0.8498839999999999,True,"[{""aperture"": 54, ""shape"": ""R"", ""dimensions_mm"": [1.358138, 1.358138]}]",UNASSIGNED,UNVERIFIED
+H083,4,44.958,18.720054,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H084,4,47.457868,18.720054,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H085,4,47.457868,21.919946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H086,4,44.958,21.919946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H087,4,42.458132,21.919946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H088,4,42.458132,24.943054,0.8498839999999999,True,"[{""aperture"": 54, ""shape"": ""R"", ""dimensions_mm"": [1.358138, 1.358138]}]",UNASSIGNED,UNVERIFIED
+H089,4,44.958,24.943054,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H090,4,47.457868,24.943054,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H091,4,47.457868,28.142946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H092,4,44.958,28.142946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H093,4,42.458132,28.142946,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H094,4,8.344154,53.239416,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H095,4,5.844032,53.239416,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H096,4,3.344164,53.239416,0.8498839999999999,True,"[{""aperture"": 54, ""shape"": ""R"", ""dimensions_mm"": [1.358138, 1.358138]}]",UNASSIGNED,UNVERIFIED
+H097,4,3.344164,56.439562,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H098,4,5.844032,56.439562,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H099,4,8.344154,56.439562,0.8498839999999999,True,"[{""aperture"": 55, ""shape"": ""C"", ""dimensions_mm"": [1.358138]}]",UNASSIGNED,UNVERIFIED
+H100,5,80.137,21.59,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H101,5,80.137,24.13,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H102,5,80.137,26.67,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H103,5,87.757,26.67,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H104,5,87.757,24.13,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H105,5,87.757,21.59,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H106,5,87.757,29.21,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H107,5,87.757,31.75,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H108,5,87.757,34.29,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H109,5,87.757,36.83,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H110,5,87.757,39.37,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H111,5,87.757,41.91,0.9905999999999999,True,"[{""aperture"": 61, ""shape"": ""R"", ""dimensions_mm"": [1.4986, 1.4986]}]",UNASSIGNED,UNVERIFIED
+H112,5,80.137,41.91,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H113,5,80.137,39.37,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H114,5,80.137,36.83,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H115,5,80.137,34.29,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H116,5,80.137,31.75,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H117,5,80.137,29.21,0.9905999999999999,True,"[{""aperture"": 60, ""shape"": ""C"", ""dimensions_mm"": [1.4986]}]",UNASSIGNED,UNVERIFIED
+H118,6,77.724,27.432,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H119,6,89.662,19.685,0.999998,True,"[{""aperture"": 77, ""shape"": ""R"", ""dimensions_mm"": [1.507998, 1.507998]}]",UNASSIGNED,UNVERIFIED
+H120,6,89.662,17.145,0.999998,True,"[{""aperture"": 58, ""shape"": ""C"", ""dimensions_mm"": [1.507998]}]",UNASSIGNED,UNVERIFIED
+H121,6,59.944,24.892,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H122,6,59.944,27.432,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H123,6,17.399,34.163,0.999998,True,"[{""aperture"": 63, ""shape"": ""R"", ""dimensions_mm"": [1.599946, 1.599946]}]",UNASSIGNED,UNVERIFIED
+H124,6,17.399,36.703,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H125,6,17.399,39.243,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H126,6,17.399,41.783,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H127,6,17.399,44.323,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H128,6,17.399,46.863,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H129,6,17.399,49.403,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H130,6,14.859,54.864,0.999998,True,"[{""aperture"": 58, ""shape"": ""C"", ""dimensions_mm"": [1.507998]}]",UNASSIGNED,UNVERIFIED
+H131,6,12.319,54.864,0.999998,True,"[{""aperture"": 59, ""shape"": ""R"", ""dimensions_mm"": [1.507998, 1.507998]}]",UNASSIGNED,UNVERIFIED
+H132,6,2.159,49.403,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H133,6,2.159,46.863,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H134,6,2.159,44.323,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H135,6,2.159,41.783,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H136,6,2.159,39.243,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H137,6,2.159,36.703,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H138,6,2.159,34.163,0.999998,True,"[{""aperture"": 64, ""shape"": ""C"", ""dimensions_mm"": [1.599946]}]",UNASSIGNED,UNVERIFIED
+H139,6,59.944,35.052,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H140,6,59.944,37.592,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H141,6,59.944,32.512,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H142,6,59.944,29.972,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H143,6,77.724,29.972,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H144,6,77.724,32.512,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H145,6,77.724,35.052,0.999998,True,"[{""aperture"": 62, ""shape"": ""C"", ""dimensions_mm"": [1.9304]}]",UNASSIGNED,UNVERIFIED
+H146,6,73.025,44.069,0.999998,True,"[{""aperture"": 58, ""shape"": ""C"", ""dimensions_mm"": [1.507998]}]",UNASSIGNED,UNVERIFIED
+H147,6,70.485,44.069,0.999998,True,"[{""aperture"": 58, ""shape"": ""C"", ""dimensions_mm"": [1.507998]}]",UNASSIGNED,UNVERIFIED
+H148,6,67.945,44.069,0.999998,True,"[{""aperture"": 58, ""shape"": ""C"", ""dimensions_mm"": [1.507998]}]",UNASSIGNED,UNVERIFIED
+H149,6,65.405,44.069,0.999998,True,"[{""aperture"": 59, ""shape"": ""R"", ""dimensions_mm"": [1.507998, 1.507998]}]",UNASSIGNED,UNVERIFIED
+H150,6,89.662,43.815,0.999998,True,"[{""aperture"": 58, ""shape"": ""C"", ""dimensions_mm"": [1.507998]}]",UNASSIGNED,UNVERIFIED
+H151,6,89.662,46.355,0.999998,True,"[{""aperture"": 77, ""shape"": ""R"", ""dimensions_mm"": [1.507998, 1.507998]}]",UNASSIGNED,UNVERIFIED
+H152,7,78.0288,6.7564,1.016,True,"[{""aperture"": 73, ""shape"": ""O"", ""dimensions_mm"": [3.048, 1.524]}]",UNASSIGNED,UNVERIFIED
+H153,7,78.0288,11.2776,1.016,True,"[{""aperture"": 73, ""shape"": ""O"", ""dimensions_mm"": [3.048, 1.524]}]",UNASSIGNED,UNVERIFIED
+H154,7,84.5312,11.2776,1.016,True,"[{""aperture"": 73, ""shape"": ""O"", ""dimensions_mm"": [3.048, 1.524]}]",UNASSIGNED,UNVERIFIED
+H155,7,84.5312,6.7564,1.016,True,"[{""aperture"": 73, ""shape"": ""O"", ""dimensions_mm"": [3.048, 1.524]}]",UNASSIGNED,UNVERIFIED
+H156,7,60.4012,6.7564,1.016,True,"[{""aperture"": 73, ""shape"": ""O"", ""dimensions_mm"": [3.048, 1.524]}]",UNASSIGNED,UNVERIFIED
+H157,7,60.4012,11.2776,1.016,True,"[{""aperture"": 73, ""shape"": ""O"", ""dimensions_mm"": [3.048, 1.524]}]",UNASSIGNED,UNVERIFIED
+H158,7,53.8988,11.2776,1.016,True,"[{""aperture"": 73, ""shape"": ""O"", ""dimensions_mm"": [3.048, 1.524]}]",UNASSIGNED,UNVERIFIED
+H159,7,53.8988,6.7564,1.016,True,"[{""aperture"": 73, ""shape"": ""O"", ""dimensions_mm"": [3.048, 1.524]}]",UNASSIGNED,UNVERIFIED
+H160,8,4.701032,22.835616,1.020064,True,"[{""aperture"": 76, ""shape"": ""R"", ""dimensions_mm"": [1.370076, 1.370076]}]",UNASSIGNED,UNVERIFIED
+H161,8,7.241032,22.835616,1.020064,True,"[{""aperture"": 75, ""shape"": ""C"", ""dimensions_mm"": [1.370076]}]",UNASSIGNED,UNVERIFIED
+H162,8,9.781032,22.835616,1.020064,True,"[{""aperture"": 75, ""shape"": ""C"", ""dimensions_mm"": [1.370076]}]",UNASSIGNED,UNVERIFIED
+H163,8,12.321032,22.835616,1.020064,True,"[{""aperture"": 75, ""shape"": ""C"", ""dimensions_mm"": [1.370076]}]",UNASSIGNED,UNVERIFIED
+H164,8,14.861032,22.835616,1.020064,True,"[{""aperture"": 75, ""shape"": ""C"", ""dimensions_mm"": [1.370076]}]",UNASSIGNED,UNVERIFIED
+H165,9,90.424,25.4,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H166,9,90.424,27.94,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H167,9,18.669,54.61,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H168,9,18.669,57.15,1.0701019999999999,True,"[{""aperture"": 71, ""shape"": ""R"", ""dimensions_mm"": [1.605026, 1.605026]}]",UNASSIGNED,UNVERIFIED
+H169,9,21.846032,42.393616,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H170,9,24.386032,42.393616,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H171,9,26.926032,42.393616,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H172,9,29.466032,42.393616,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H173,9,32.006032,42.393616,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H174,9,34.546032,42.393616,1.0701019999999999,True,"[{""aperture"": 74, ""shape"": ""R"", ""dimensions_mm"": [1.605026, 1.605026]}]",UNASSIGNED,UNVERIFIED
+H175,9,51.562,47.752,1.0701019999999999,True,"[{""aperture"": 71, ""shape"": ""R"", ""dimensions_mm"": [1.605026, 1.605026]}]",UNASSIGNED,UNVERIFIED
+H176,9,51.562,50.292,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H177,9,51.562,53.848,1.0701019999999999,True,"[{""aperture"": 71, ""shape"": ""R"", ""dimensions_mm"": [1.605026, 1.605026]}]",UNASSIGNED,UNVERIFIED
+H178,9,51.562,56.388,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H179,9,90.424,38.1,1.0701019999999999,True,"[{""aperture"": 71, ""shape"": ""R"", ""dimensions_mm"": [1.605026, 1.605026]}]",UNASSIGNED,UNVERIFIED
+H180,9,90.424,35.56,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H181,9,90.424,33.02,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H182,9,90.424,30.48,1.0701019999999999,True,"[{""aperture"": 70, ""shape"": ""C"", ""dimensions_mm"": [1.605026]}]",UNASSIGNED,UNVERIFIED
+H183,10,41.314878,30.345888,1.1998959999999999,True,"[{""aperture"": 68, ""shape"": ""C"", ""dimensions_mm"": [1.800098]}]",UNASSIGNED,UNVERIFIED
+H184,10,43.815,30.345888,1.1998959999999999,True,"[{""aperture"": 68, ""shape"": ""C"", ""dimensions_mm"": [1.800098]}]",UNASSIGNED,UNVERIFIED
+H185,10,46.314868,30.345888,1.1998959999999999,True,"[{""aperture"": 68, ""shape"": ""C"", ""dimensions_mm"": [1.800098]}]",UNASSIGNED,UNVERIFIED
+H186,10,46.314868,44.845986,1.1998959999999999,True,"[{""aperture"": 68, ""shape"": ""C"", ""dimensions_mm"": [1.800098]}]",UNASSIGNED,UNVERIFIED
+H187,10,41.314878,44.845986,1.1998959999999999,True,"[{""aperture"": 69, ""shape"": ""R"", ""dimensions_mm"": [1.800098, 1.800098]}]",UNASSIGNED,UNVERIFIED
+H188,12,67.871594,10.360406,0.8000999999999999,False,"[{""aperture"": 66, ""shape"": ""C"", ""dimensions_mm"": [0.8001]}]",UNASSIGNED,UNVERIFIED
+H189,13,70.558406,7.673594,1.100074,False,"[{""aperture"": 65, ""shape"": ""C"", ""dimensions_mm"": [1.100074]}]",UNASSIGNED,UNVERIFIED

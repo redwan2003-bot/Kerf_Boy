@@ -1,0 +1,40 @@
+CHIP-BOY Mk III - Steps 1 and 2 verification
+Date: November 2, 2026 (America/Los_Angeles)
+Scope: source audit and digital mechanical reference. NOT a manufacturing release.
+
+STEP 1 - SOURCE AUDIT: COMPLETE WITH FINDINGS
+- All 50 supplied files rehashed: no changes, additions or missing files.
+- Gerber ZIP: 37 members, CRC integrity passes. All member contents match extracted files after CRLF/LF normalization. 35 differ bytewise only because of line endings; two are byte-identical.
+- Six mechanical DXFs parse with zero audit errors and zero automatic fixes. All declare inch units; dimensions converted by 25.4.
+- Native Altium schematic/PCB source and firmware are absent. The supplied archive contains outputs, not editable source designs.
+- Existing DRC is dated September 23, 2026 and reports zero violations, but includes both 10 mil and 0 mil all-object clearance rules and zero silk clearances. Rule priority is not established by this report. It does not certify the redesign.
+- README identifies TOF400C and VL53L1X inconsistently, references missing Mk.2 imagery, and lists a 2n7000 while the prior schematic review identified AO3400A. Treat the README as descriptive reference, not design authority.
+- README states 3.7 V / 900 mAh battery and ATGM336H GPS, but does not establish the exact battery SKU/protection/charge rating or breakout footprint.
+- Source discrepancies are retained in the issue record; no original file has been altered.
+
+STEP 2 - DIGITAL MECHANICAL REFERENCE: VERIFIED WITH LIMITS
+- GM1 recovered envelope: 92.710 x 63.500 mm.
+- Five closed contours: outer perimeter, three mounting holes, internal slot.
+- Geometry valid, no self-intersections; DXF audit passes.
+- Exported DXF independently reopened and compared with recovered geometry: zero measurable difference at 1e-6 mm comparison tolerance.
+- Bottom mechanical DXF aligned by translation and inch-to-mm conversion only; no fitted scaling or rotation.
+- Shared perimeter and three mounting holes: maximum sampled boundary difference 0.016510 mm. This agrees with documented repair of source endpoint discrepancies up to 0.033020 mm. Arc approximation target is 0.003 mm; this is a reference reconstruction, not exact original arc preservation.
+- Mounting holes: nominal diameter 3.2512 mm, centers below (origin at lower-left envelope, X right / Y up):
+  H1: X 14.478, Y 4.826 mm
+  H2: X 89.916, Y 11.557 mm
+  H3: X 51.435, Y 60.706 mm
+- Internal PCB slot bounds: X 55.133748..83.327748; Y 46.372018..47.893478 mm. It is absent from the bottom enclosure DXF. Preserve the GM1 slot as PCB reference; do not assume the enclosure needs the same opening.
+- Overall contour-to-contour distance including that missing slot is 13.385967 mm; it is NOT evidence that the outer perimeter is offset. Shared-feature comparison is reported separately above.
+
+REMAINING LIMITS / HOLD POINTS
+- EasyEDA import previously stalled and remains unverified. This report does not claim the outline is present in PCB1.
+- No redesigned circuit placement, routing, ERC or PCB DRC has been completed.
+- Enclosure thickness, component heights, access, manufacturing tolerances and physical module fit cannot be signed off from these 2D reference checks. These remain for component selection, placement and prototype validation.
+- No fabrication or assembly approval is implied by completion of the source/reference checks.
+
+DELIVERABLES (same folder)
+step-1-2-checks.json: detailed measurements and source checks
+source-manifest.json: source fingerprints
+carrier-outline-validated.dxf: checked working reference in millimetres
+mechanical-verification.png: comparison plot
+verification-plan.txt: full remaining design sequence

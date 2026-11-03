@@ -1,0 +1,63 @@
+STEP 3 - HARDWARE SELECTION REGISTER
+Date: November 2, 2026
+Status: STARTED. Candidate selection only; no footprints released.
+Scope: Retain the original module families. Candidate vendor choices below are not a claim that the user's existing boards are these exact variants.
+
+INITIAL DOCUMENTED CANDIDATES
+
+1. Controller - Seeed Studio XIAO ESP32-S3 Sense, SKU 113991115
+Candidate selected for research. Official nominal envelope: 21 x 17.8 x 15 mm with expansion board. Exact baseboard/expansion/camera revision remains to be frozen. Reserve camera, microphone and SD resources; preserve USB, antenna, battery-pad and SD access. Do not use a bare ESP32-S3 module footprint.
+Evidence:
+https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/
+Next check: download the matching revision drawings; verify both 7-pin rows, underside battery connections and stack height against the selected revision.
+
+2. IMU - Adafruit BNO055, original non-STEMMA QT board, product 2472
+Provisional candidate; do not substitute the newer QT layout. Product listing gives 20 x 27 x 4 mm, mounting-hole spacing 20 x 12 mm and addresses 0x28/0x29. Vendor explicitly warns that original and QT pin orders differ.
+Electrical evidence: VIN accepts 3.3-5 V, 3VO is a regulator OUTPUT, SDA/SCL each have 10 kohm pull-ups. Do not connect 3VO to another regulator output.
+CRITICAL HOLD: Vendor reports BNO055 I2C interoperability problems with ESP32-S3. Retain BNO055 but investigate UART operation or a validated interface solution in Step 4. A generic I2C mux is not an established fix. Final carrier connections cannot yet be locked.
+Evidence:
+https://www.adafruit.com/product/2472
+https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/pinouts
+
+3. Environment - Adafruit BME280, product 2652, STEMMA QT revision
+Candidate for documented procurement, not a proven replacement for the original six-pin breakout. Current board envelope 25.2 x 18.0 x 4.6 mm. Vendor provides regulator/level shifting; proposed carrier supply is 3.3 V. Default I2C address 0x77; verify address straps. Physical board changed in the QT revision even though vendor says header pinout is unchanged.
+HOLD: map VIN/GND/SCK/SDI/SDO/CS by manufacturer CAD, never by the original generic connector ordering. Compare size and location with original assembly before adopting.
+Evidence:
+https://www.adafruit.com/product/2652
+https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/pinouts
+
+4. Audio - DFRobot DFPlayer Mini, DFR0299
+Candidate selected for research. Vendor specifies 3.2-5 V input, nominal 20 x 20 mm. Provide local bulk and ceramic decoupling. Carrier power architecture must maintain the specified voltage through battery discharge. Preserve access to the module's separate microSD slot.
+HOLD: inspect manufacturer dimension/pin-map drawing before establishing two header rows or pin numbering. Confirm speaker impedance/current and maximum intended output. Source page UART framing text contains an apparent inconsistency; use datasheet/protocol documentation rather than copying it uncritically.
+Evidence:
+https://wiki.dfrobot.com/dfr0299
+
+5. Display - EastRising ER-OLEDM013-1W-I2C
+Research candidate: 1.3 inch 128 x 64 white SH1106 I2C module, advertised for 3.3 V. Manufacturer search result confirms model/function; direct page fetch returned 403. Dimensions, four-pin order, mounting holes and electrical ratings NOT verified. Do not adopt footprint yet.
+The Waveshare 10451 alternative was screened out as a direct replacement: it has an eight-pin interface and a different board outline, requiring a deliberate redesign.
+Evidence:
+https://www.buydisplay.com/i2c-white-1-3-inch-oled-display-module-128x64-arduino-raspberry-pi
+https://www.waveshare.com/product/ai/displays/oled/1.3inch-oled-b.htm
+
+RETAINED REQUIREMENTS STILL NEEDING EXACT PART SELECTION
+6. TOF400C: retain requested module. A supplier lists a TOF400C based on VL53L1X, so the two names in the README do NOT by themselves establish a contradiction. Correction to Step 1: classify as identity ambiguity pending manufacturer schematic/revision, not a confirmed sensor mismatch. Six-pin connector order and logic levels remain unverified.
+7. GPS: retain ATGM336H family named by the README; exact breakout, antenna and five-pin order not locked.
+8. Battery: retain 1-cell LiPo concept and original 900 mAh reference; select exact protected cell only after usable enclosure volume, peak load, charge current, connector polarity and temperature limits are established. Capacity alone is not a sufficient part identifier.
+9. MCP23008: retain function; exact package/suffix and reset/pull-up scheme pending. Original 18-pin symbol does not alone establish footprint.
+10. Laser: exact module, optical rating, operating current, voltage and built-in driver pending. No bare laser diode substitution.
+11. Speaker: impedance, power and physical dimensions pending.
+12. Buzzer: original description suggests piezo, but drive/current requirements and exact model pending.
+13. Rotary encoder: exact detent/pulse count, shaft orientation/length, mounting and push-switch pinout pending.
+14. Buttons/navigation/power switches: exact body/actuator heights, footprints and contact ratings pending.
+15. Three white LEDs: exact package, forward voltage/current and optical requirements pending.
+
+VERIFICATION GATE BEFORE STEP 3 IS COMPLETE
+For every item: vendor + orderable part + revision; manufacturer drawing; pad-by-pad mapping; mounting orientation; module and connector envelopes; voltage/current requirements; firmware implications; original-design differences. Record unknowns explicitly. Physical 1:1 fit and polarity checks remain necessary when actual parts are available. No candidate in this register has passed a complete footprint review yet.
+
+NEXT WORK
+1. Obtain and pin the controller/IMU/BME280/DFPlayer manufacturer CAD and drawings.
+2. Resolve TOF and display identity, select remaining mechanical components.
+3. Determine whether BNO055 UART/interface requirements change the earlier candidate GPIO allocation.
+4. Calculate supply/charging constraints before final battery selection.
+5. Create verified EasyEDA symbols/footprints only from locked drawings.

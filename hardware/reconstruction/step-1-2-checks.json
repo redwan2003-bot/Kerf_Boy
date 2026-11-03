@@ -1,0 +1,762 @@
+{
+  "source_files": 50,
+  "manifest_files": 50,
+  "changed_files": [],
+  "dxf": [
+    {
+      "file": "CB3_Bottom.DXF",
+      "units": 1,
+      "entities": {
+        "LINE": 28,
+        "ARC": 46,
+        "CIRCLE": 3
+      },
+      "errors": 0,
+      "fixes": 0,
+      "bounds": [
+        [
+          2.0849999999999995,
+          4.50499448886417,
+          0.0
+        ],
+        [
+          5.735,
+          7.00500551113583,
+          0.0
+        ]
+      ],
+      "circles": [
+        {
+          "center": [
+            5.625,
+            4.96,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            2.655,
+            4.695,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            4.11,
+            6.895,
+            0.0
+          ],
+          "radius": 0.064
+        }
+      ]
+    },
+    {
+      "file": "CB3_Full_Mechanical.DXF",
+      "units": 1,
+      "entities": {
+        "LINE": 69,
+        "CIRCLE": 20,
+        "ARC": 86
+      },
+      "errors": 0,
+      "fixes": 0,
+      "bounds": [
+        [
+          0.14299999999999985,
+          0.4569944888641697,
+          0.0
+        ],
+        [
+          3.793,
+          2.95700551113583,
+          0.0
+        ]
+      ],
+      "circles": [
+        {
+          "center": [
+            2.2676155,
+            1.0666656,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            2.2676155,
+            2.1886656,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            3.4696155,
+            2.1886656,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            3.4698819,
+            1.066656,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            3.683,
+            0.912,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            2.168,
+            2.847,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            0.713,
+            0.647,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            2.168,
+            2.847,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            3.683,
+            0.912,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            2.168,
+            2.847,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            0.713,
+            0.647,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            1.868,
+            1.947,
+            0.0
+          ],
+          "radius": 0.2294559
+        },
+        {
+          "center": [
+            0.528,
+            1.773,
+            0.0
+          ],
+          "radius": 0.135
+        },
+        {
+          "center": [
+            1.8580838,
+            2.6010366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            1.9446864,
+            2.5510366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            1.9446863,
+            2.4510366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            1.8580838,
+            2.4010366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            1.7714812,
+            2.4510366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            1.7714813,
+            2.5510366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            1.8580838,
+            2.5010366,
+            0.0
+          ],
+          "radius": 0.02
+        }
+      ]
+    },
+    {
+      "file": "CB3_Left_Piece.DXF",
+      "units": 1,
+      "entities": {
+        "LINE": 25,
+        "CIRCLE": 11,
+        "ARC": 31
+      },
+      "errors": 0,
+      "fixes": 0,
+      "bounds": [
+        [
+          1.6119999999999999,
+          1.418,
+          0.0
+        ],
+        [
+          3.747,
+          3.918,
+          0.0
+        ]
+      ],
+      "circles": [
+        {
+          "center": [
+            3.4136864,
+            3.5120366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.337,
+            2.908,
+            0.0
+          ],
+          "radius": 0.25
+        },
+        {
+          "center": [
+            3.3270838,
+            3.4620366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.2404813,
+            3.5120366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.2404812,
+            3.4120366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.3270838,
+            3.3620366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.4136863,
+            3.4120366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.3270838,
+            3.5620366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            1.997,
+            2.734,
+            0.0
+          ],
+          "radius": 0.135
+        },
+        {
+          "center": [
+            2.182,
+            1.608,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            3.637,
+            3.808,
+            0.0
+          ],
+          "radius": 0.064
+        }
+      ]
+    },
+    {
+      "file": "CB3_Right_Piece.DXF",
+      "units": 1,
+      "entities": {
+        "LINE": 11,
+        "ARC": 9,
+        "CIRCLE": 2
+      },
+      "errors": 0,
+      "fixes": 0,
+      "bounds": [
+        [
+          3.314,
+          2.023,
+          0.0
+        ],
+        [
+          5.044,
+          4.178,
+          0.0
+        ]
+      ],
+      "circles": [
+        {
+          "center": [
+            4.934,
+            2.133,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            3.419,
+            4.068,
+            0.0
+          ],
+          "radius": 0.064
+        }
+      ]
+    },
+    {
+      "file": "CB3_Screen_Cover.DXF",
+      "units": 1,
+      "entities": {
+        "LINE": 4,
+        "CIRCLE": 4
+      },
+      "errors": 0,
+      "fixes": 0,
+      "bounds": [
+        [
+          3.44,
+          2.393,
+          0.0
+        ],
+        [
+          4.83,
+          3.703,
+          0.0
+        ]
+      ],
+      "circles": [
+        {
+          "center": [
+            3.534,
+            2.487,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            3.534,
+            3.609,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            4.736,
+            3.609,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            4.7362664,
+            2.4869904,
+            0.0
+          ],
+          "radius": 0.064
+        }
+      ]
+    },
+    {
+      "file": "CB3_Top_Full.DXF",
+      "units": 1,
+      "entities": {
+        "LINE": 29,
+        "CIRCLE": 12,
+        "ARC": 36
+      },
+      "errors": 0,
+      "fixes": 0,
+      "bounds": [
+        [
+          2.0599999999999996,
+          1.6749999999999998,
+          0.0
+        ],
+        [
+          5.71,
+          4.175,
+          0.0
+        ]
+      ],
+      "circles": [
+        {
+          "center": [
+            3.785,
+            3.165,
+            0.0
+          ],
+          "radius": 0.25
+        },
+        {
+          "center": [
+            2.445,
+            2.991,
+            0.0
+          ],
+          "radius": 0.135
+        },
+        {
+          "center": [
+            5.6,
+            2.13,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            2.63,
+            1.865,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            4.085,
+            4.065,
+            0.0
+          ],
+          "radius": 0.064
+        },
+        {
+          "center": [
+            3.7750838,
+            3.7190366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.6884813,
+            3.7690366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.6884812,
+            3.6690366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.7750838,
+            3.6190366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.8616863,
+            3.6690366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.8616864,
+            3.7690366,
+            0.0
+          ],
+          "radius": 0.02
+        },
+        {
+          "center": [
+            3.7750838,
+            3.8190366,
+            0.0
+          ],
+          "radius": 0.02
+        }
+      ]
+    }
+  ],
+  "zip": [
+    {
+      "file": "Project Outputs\\Chip-Boy_Mk_3_Gerber_Files.zip",
+      "crc_error": null,
+      "members": [
+        "CHIPBOY_Mk_III.3",
+        "CHIPBOY_Mk_III.apr",
+        "CHIPBOY_Mk_III.DRR",
+        "CHIPBOY_Mk_III.EXTREP",
+        "CHIPBOY_Mk_III.GBL",
+        "CHIPBOY_Mk_III.GBO",
+        "CHIPBOY_Mk_III.GBP",
+        "CHIPBOY_Mk_III.GBS",
+        "CHIPBOY_Mk_III.GD1",
+        "CHIPBOY_Mk_III.GG1",
+        "CHIPBOY_Mk_III.GKO",
+        "CHIPBOY_Mk_III.GM",
+        "CHIPBOY_Mk_III.GM1",
+        "CHIPBOY_Mk_III.GM4",
+        "CHIPBOY_Mk_III.GM13",
+        "CHIPBOY_Mk_III.GM15",
+        "CHIPBOY_Mk_III.GML",
+        "CHIPBOY_Mk_III.GP1",
+        "CHIPBOY_Mk_III.GP2",
+        "CHIPBOY_Mk_III.GPB",
+        "CHIPBOY_Mk_III.GPT",
+        "CHIPBOY_Mk_III.GTL",
+        "CHIPBOY_Mk_III.GTO",
+        "CHIPBOY_Mk_III.GTP",
+        "CHIPBOY_Mk_III.GTS",
+        "CHIPBOY_Mk_III.LDP",
+        "CHIPBOY_Mk_III.REP",
+        "CHIPBOY_Mk_III.TXT",
+        "CHIPBOY_Mk_III-macro.APR_LIB",
+        "CHIPBOY_Mk_III-RectHoles.TXT",
+        "Design Rule Check - CHIPBOY_Mk_III.drc",
+        "Design Rule Check - CHIPBOY_Mk_III.html",
+        "Status Report.Txt",
+        "CAMtastic11.Cam",
+        "CAMtastic12.Cam",
+        "CHIPBOY_Mk_III.1",
+        "CHIPBOY_Mk_III.2"
+      ],
+      "mismatched_extracted_files": [
+        "CHIPBOY_Mk_III.3",
+        "CHIPBOY_Mk_III.apr",
+        "CHIPBOY_Mk_III.DRR",
+        "CHIPBOY_Mk_III.EXTREP",
+        "CHIPBOY_Mk_III.GBL",
+        "CHIPBOY_Mk_III.GBO",
+        "CHIPBOY_Mk_III.GBP",
+        "CHIPBOY_Mk_III.GBS",
+        "CHIPBOY_Mk_III.GD1",
+        "CHIPBOY_Mk_III.GG1",
+        "CHIPBOY_Mk_III.GKO",
+        "CHIPBOY_Mk_III.GM",
+        "CHIPBOY_Mk_III.GM1",
+        "CHIPBOY_Mk_III.GM4",
+        "CHIPBOY_Mk_III.GM13",
+        "CHIPBOY_Mk_III.GM15",
+        "CHIPBOY_Mk_III.GML",
+        "CHIPBOY_Mk_III.GP1",
+        "CHIPBOY_Mk_III.GP2",
+        "CHIPBOY_Mk_III.GPB",
+        "CHIPBOY_Mk_III.GPT",
+        "CHIPBOY_Mk_III.GTL",
+        "CHIPBOY_Mk_III.GTO",
+        "CHIPBOY_Mk_III.GTP",
+        "CHIPBOY_Mk_III.GTS",
+        "CHIPBOY_Mk_III.LDP",
+        "CHIPBOY_Mk_III.REP",
+        "CHIPBOY_Mk_III.TXT",
+        "CHIPBOY_Mk_III-macro.APR_LIB",
+        "CHIPBOY_Mk_III-RectHoles.TXT",
+        "Design Rule Check - CHIPBOY_Mk_III.drc",
+        "Design Rule Check - CHIPBOY_Mk_III.html",
+        "Status Report.Txt",
+        "CHIPBOY_Mk_III.1",
+        "CHIPBOY_Mk_III.2"
+      ],
+      "content_mismatches_after_newline_normalization": []
+    }
+  ],
+  "outline": {
+    "valid": true,
+    "area_mm2": 5303.535912209727,
+    "bounds": [
+      0.0,
+      0.0,
+      92.71,
+      63.5
+    ],
+    "contours": [
+      {
+        "bounds": [
+          0.0,
+          0.0,
+          92.71,
+          63.5
+        ],
+        "area_mm2": 5370.770440579292,
+        "center": [
+          47.462806668607904,
+          31.76445883056617
+        ]
+      },
+      {
+        "bounds": [
+          55.133748,
+          46.372018,
+          83.327748,
+          47.893478
+        ],
+        "area_mm2": 42.38940160003263,
+        "center": [
+          69.23074777498691,
+          47.13274798726881
+        ]
+      },
+      {
+        "bounds": [
+          12.8524,
+          3.2004,
+          16.1036,
+          6.4516
+        ],
+        "area_mm2": 8.281708923177998,
+        "center": [
+          14.478000000000003,
+          4.825999999999999
+        ]
+      },
+      {
+        "bounds": [
+          88.2904,
+          9.9314,
+          91.5416,
+          13.1826
+        ],
+        "area_mm2": 8.281708923178003,
+        "center": [
+          89.91600000000001,
+          11.557000000000004
+        ]
+      },
+      {
+        "bounds": [
+          49.8094,
+          59.0804,
+          53.0606,
+          62.3316
+        ],
+        "area_mm2": 8.281708923177998,
+        "center": [
+          51.43499999999997,
+          60.705999999999996
+        ]
+      }
+    ],
+    "dxf_audit_errors": 0,
+    "export_roundtrip_max_difference_mm": 0.0
+  },
+  "new_files": [],
+  "comparison": {
+    "reference": "CB3_Bottom.DXF",
+    "transform": "Subtract (2.085,4.505) inches then multiply by 25.4; no rotation or scale fitting",
+    "boundary_hausdorff_mm": 13.385967439072754,
+    "shared_contours_hausdorff_mm": 0.0165100000000038,
+    "difference_explanation": "Internal GM1 slot absent from bottom enclosure drawing; compare shared perimeter and three mounting holes separately",
+    "bottom_holes_mm": [
+      {
+        "x": 89.916,
+        "y": 11.557,
+        "diameter": 3.2512
+      },
+      {
+        "x": 14.477999999999994,
+        "y": 4.826000000000009,
+        "diameter": 3.2512
+      },
+      {
+        "x": 51.43500000000001,
+        "y": 60.70599999999999,
+        "diameter": 3.2512
+      }
+    ]
+  },
+  "date": "2026-11-02",
+  "step_1": "Source audit complete with recorded findings",
+  "step_2": "Digital mechanical reference verification complete; EasyEDA import and physical fit remain unverified"
+}

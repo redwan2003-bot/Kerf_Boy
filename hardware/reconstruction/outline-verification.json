@@ -1,0 +1,11 @@
+{
+  "source": "hardware/reference/original\\Project Outputs\\Project Outputs for CHIP_BOY_Mk_III\\CHIPBOY_Mk_III.GM1",
+  "status": "Recovered reference outline, not fabrication release",
+  "width_mm": 92.71,
+  "height_mm": 63.5,
+  "closed_contours": 5,
+  "self_crossings": 0,
+  "max_source_endpoint_gap_mm": 0.0330200000000076,
+  "arc_chord_error_target_mm": 0.003,
+  "note": "Tiny source drafting gaps joined; arcs approximated by line segments. Validate fabrication tolerances before release."
+}

@@ -1,0 +1,35 @@
+CHIP-BOY Mk III carrier redesign — Rev A work plan
+STATUS: INCOMPLETE ENGINEERING DRAFT — NOT FOR FABRICATION
+
+Scope: Retain XIAO ESP32-S3 Sense and peripheral modules. Improve carrier PCB in EasyEDA Pro. Preserve supplied source files.
+
+1. Source audit — initial review completed
+Source inventory hashed. Schematic visually reviewed. Native editable Altium source and firmware were not present in the supplied folder. Existing zero-violation DRC is not release evidence: rule settings and revision correspondence require review.
+
+2. Mechanical reference — recovered, import not completed
+Reference envelope 92.71 x 63.50 mm, five closed contours. Independent geometry and DXF checks passed. Small source endpoint discrepancies were joined; arcs approximated with 0.003 mm target chord error. Confirm enclosure fit, mounting tolerances, slots, cutter radius, component heights and access before release.
+
+3. Hardware selection — started; see step-3-hardware-register.txt
+Lock exact Sense revision, battery with protection and charge/discharge specifications, OLED, BNO055, BME280, TOF400C, GPS, DFPlayer, laser, speaker, buzzer, encoder and switches. Generic module names are not sufficient footprint specifications. Publish chosen vendor/model/drawing and mark substitutions explicitly.
+Verification: pin-by-pin comparison of each schematic symbol and footprint against manufacturer drawings; connector polarity; pad numbering; bottom/top orientation; 1:1 print fit check against actual modules.
+
+4. Architecture and power — pending
+Original D8/D9/D10 peripheral allocation conflicts with Sense microSD. Candidate remap is in design-baseline.json and is not final. Resolve encoder acquisition without losing transitions during OLED transfers or sensor delays. Review boot strapping, programming, camera, microphone and SD concurrency. Establish load budget for radio bursts, audio, LEDs and laser. Define supply rails, undervoltage behavior, battery protection, charging during operation and USB/battery backfeed prevention. Do not connect competing regulator outputs.
+Verification: voltage/current limits and worst-case budgets, GPIO uniqueness, reset/default states, I2C addresses and total pull-up resistance, ADC tolerance/source impedance and filtering.
+
+5. Schematic capture — pending
+Create organized power, controller, module interface and input/output sheets. Add decoupling, optional pull-ups, protection as appropriate, adequate drivers, programming/test access and explicit unused-pin treatment.
+Verification: ERC plus manual net-by-net review against approved architecture; no unexplained warnings or unintended floating inputs. Verify BOM references and values.
+
+6. PCB placement/routing — pending
+Choose stackup and manufacturer capabilities before setting rules. Place mechanical anchors, module envelopes, antenna keepouts and user controls first. Keep switching/audio currents away from IMU and sensitive signals. Provide continuous return paths, suitable power widths, test pads and readable polarity/orientation markings.
+Verification after placement: module and enclosure collision/access checks. After routing: zero unrouted nets, valid board outline, actual manufacturer clearance/hole/annular-ring/mask rules, copper-to-edge checks, return-path review and schematic-to-PCB agreement. Resolve each violation explicitly; do not weaken rules merely to obtain a pass.
+
+7. Release review — pending
+Export Gerbers, drill files, BOM, assembly drawings, placement data where applicable, schematic and editable EasyEDA project. Reopen manufacturing files in an independent viewer and compare layer count, dimensions, holes, masks, silkscreen, cutouts and connectivity with source design. Record checks and unresolved items.
+
+8. Prototype validation — requires physical hardware
+Current-limited first power-up; rail and temperature checks; USB/battery transitions and charging; low-battery behavior; full concurrent SD/camera/audio/radio/sensor operation; encoder stress testing; compass interference testing; mechanical fit. Industrial/environmental qualification needs explicit operating requirements and measurements. Software checks alone cannot guarantee zero physical errors.
+
+Current EasyEDA blocker: DXF dialog recognizes dimensions but preview/import did not complete on repeated attempts, including editor reload. No electrical schematic, placed components or routed carrier has been completed. No ERC/DRC has been run on a redesigned board.
+Project: https://pro.easyeda.com/editor#id=987575100d2f4542bfc9780160616df2

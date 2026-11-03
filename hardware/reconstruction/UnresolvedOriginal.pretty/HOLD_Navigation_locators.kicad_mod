@@ -1,0 +1,7 @@
+(module "HOLD_Navigation_locators" (layer "F.Cu") (tedit 0)
+(descr "REFERENCE ONLY - electrical pad numbering unresolved; not for fabrication")
+(fp_text reference "B2_LOC" (at 0 -3) (layer "F.SilkS") (effects (font (size 1 1) (thickness .15))))
+(fp_text value "HOLD_PIN_MAP" (at 0 -5) (layer "F.Fab") (effects (font (size 1 1) (thickness .15))))
+(pad "" np_thru_hole circle (at 0.0 0.0) (size 0.8001 0.8001) (drill 0.800100) (layers "*.Cu" "*.Mask") (solder_mask_margin 0.1016))
+(pad "" np_thru_hole circle (at 2.686812 2.686812) (size 1.100074 1.100074) (drill 1.100074) (layers "*.Cu" "*.Mask") (solder_mask_margin 0.1016))
+)

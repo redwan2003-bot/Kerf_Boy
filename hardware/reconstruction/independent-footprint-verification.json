@@ -1,0 +1,11 @@
+{
+  "reader": "KiCad pcbnew 10 independent parser; input format is KiCad 5.1",
+  "footprints": 24,
+  "round_pads": 138,
+  "routed_slots": 2,
+  "duplicate_round_hole_matches": 0,
+  "max_geometry_difference_mm": 1.4210854715202004e-14,
+  "tolerance_mm": 2e-06,
+  "errors": [],
+  "scope": "Coordinate, round pad size, round drill and routed slot geometry. Does not prove electrical mapping or EasyEDA conversion."
+}

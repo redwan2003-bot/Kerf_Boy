@@ -1,0 +1,27 @@
+STEP 3 - ORIGINAL THROUGH-HOLE COMPONENT PRESERVATION
+Status: In progress. User instruction supersedes earlier alternative-vendor candidates.
+
+LOCKED REQUIREMENT
+Preserve original through-hole components and plug-in modules, including original mechanical interface, hole sizes, pad geometry, pitch, orientation and mounting positions. No alternative vendor breakout is selected. Earlier candidate research is archived as superseded; it is not the rebuild BOM.
+
+RECOVERED AND VERIFIED
+189 round holes plus 2 plated routed slots from original Excellon outputs.
+Per-tool counts agree exactly with original DRR report (191 total features).
+All 189 round-hole centers match top-copper Gerber pad centers at rounded 0.000001 mm coordinates.
+44 smallest-tool holes are labeled via candidates, not component pins.
+Routed encoder mounting slots: nominal 2.000 mm wide, 2.299716 mm overall length; retain original quantization rather than rounding to a different footprint.
+Coordinates use original board-reference origin (57.658, 50.8 mm), matching recovered outline.
+
+OUTPUTS
+original-through-hole-geometry.json: positions, sizes, plating and top pad apertures.
+original-through-hole-geometry.csv: inspectable hole list.
+original-through-hole-map.png: positional review map; H labels are hole IDs, not pin numbers.
+through-hole-component-groups.json: provisional assembly-region groupings.
+
+NOT YET VERIFIED
+Full component grouping and schematic pin numbering; bottom-copper/mask pads; exact body/lead dimensions; part identities not specified in source; EasyEDA footprints, library import and physical fit.
+Original shape and location can be recovered from fabrication data, but these do not prove manufacturer part number or electrical ratings. Never infer pin numbers from hole sorting or square pad shape alone.
+BNO055 interface compatibility finding remains relevant; it does not authorize a replacement module.
+
+NEXT ACTION
+Match component regions to assembly and schematic references, verify both copper layers and mask apertures, create per-component footprint geometry, then import and check in EasyEDA Pro. Preserve source material unchanged.

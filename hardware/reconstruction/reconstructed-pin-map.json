@@ -1,0 +1,1702 @@
+[
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "1",
+    "signal": "D0",
+    "hole_id": "H123",
+    "source_x_mm": 17.399,
+    "source_y_mm": 34.163,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "2",
+    "signal": "D1",
+    "hole_id": "H124",
+    "source_x_mm": 17.399,
+    "source_y_mm": 36.703,
+    "local_x_mm": 0.0,
+    "local_y_mm": -2.54,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "3",
+    "signal": "D2",
+    "hole_id": "H125",
+    "source_x_mm": 17.399,
+    "source_y_mm": 39.243,
+    "local_x_mm": 0.0,
+    "local_y_mm": -5.08,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "4",
+    "signal": "D3",
+    "hole_id": "H126",
+    "source_x_mm": 17.399,
+    "source_y_mm": 41.783,
+    "local_x_mm": 0.0,
+    "local_y_mm": -7.62,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "5",
+    "signal": "D4",
+    "hole_id": "H127",
+    "source_x_mm": 17.399,
+    "source_y_mm": 44.323,
+    "local_x_mm": 0.0,
+    "local_y_mm": -10.16,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "6",
+    "signal": "D5",
+    "hole_id": "H128",
+    "source_x_mm": 17.399,
+    "source_y_mm": 46.863,
+    "local_x_mm": 0.0,
+    "local_y_mm": -12.7,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "7",
+    "signal": "D6",
+    "hole_id": "H129",
+    "source_x_mm": 17.399,
+    "source_y_mm": 49.403,
+    "local_x_mm": 0.0,
+    "local_y_mm": -15.24,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "8",
+    "signal": "D7",
+    "hole_id": "H132",
+    "source_x_mm": 2.159,
+    "source_y_mm": 49.403,
+    "local_x_mm": -15.24,
+    "local_y_mm": -15.24,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "9",
+    "signal": "D8",
+    "hole_id": "H133",
+    "source_x_mm": 2.159,
+    "source_y_mm": 46.863,
+    "local_x_mm": -15.24,
+    "local_y_mm": -12.7,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "10",
+    "signal": "D9",
+    "hole_id": "H134",
+    "source_x_mm": 2.159,
+    "source_y_mm": 44.323,
+    "local_x_mm": -15.24,
+    "local_y_mm": -10.16,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "11",
+    "signal": "D10",
+    "hole_id": "H135",
+    "source_x_mm": 2.159,
+    "source_y_mm": 41.783,
+    "local_x_mm": -15.24,
+    "local_y_mm": -7.62,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "12",
+    "signal": "3V3",
+    "hole_id": "H136",
+    "source_x_mm": 2.159,
+    "source_y_mm": 39.243,
+    "local_x_mm": -15.24,
+    "local_y_mm": -5.08,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "13",
+    "signal": "GND",
+    "hole_id": "H137",
+    "source_x_mm": 2.159,
+    "source_y_mm": 36.703,
+    "local_x_mm": -15.24,
+    "local_y_mm": -2.54,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "M1",
+    "footprint": "XIAO_original",
+    "pin": "14",
+    "signal": "5V",
+    "hole_id": "H138",
+    "source_x_mm": 2.159,
+    "source_y_mm": 34.163,
+    "local_x_mm": -15.24,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.599946,
+      1.599946
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "1",
+    "signal": "SCL",
+    "hole_id": "H111",
+    "source_x_mm": 87.757,
+    "source_y_mm": 41.91,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "2",
+    "signal": "SDA",
+    "hole_id": "H110",
+    "source_x_mm": 87.757,
+    "source_y_mm": 39.37,
+    "local_x_mm": 0.0,
+    "local_y_mm": 2.54,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "3",
+    "signal": "A2",
+    "hole_id": "H109",
+    "source_x_mm": 87.757,
+    "source_y_mm": 36.83,
+    "local_x_mm": 0.0,
+    "local_y_mm": 5.08,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "4",
+    "signal": "A1",
+    "hole_id": "H108",
+    "source_x_mm": 87.757,
+    "source_y_mm": 34.29,
+    "local_x_mm": 0.0,
+    "local_y_mm": 7.62,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "5",
+    "signal": "A0",
+    "hole_id": "H107",
+    "source_x_mm": 87.757,
+    "source_y_mm": 31.75,
+    "local_x_mm": 0.0,
+    "local_y_mm": 10.16,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "6",
+    "signal": "RESET",
+    "hole_id": "H106",
+    "source_x_mm": 87.757,
+    "source_y_mm": 29.21,
+    "local_x_mm": 0.0,
+    "local_y_mm": 12.7,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "7",
+    "signal": "NC",
+    "hole_id": "H103",
+    "source_x_mm": 87.757,
+    "source_y_mm": 26.67,
+    "local_x_mm": 0.0,
+    "local_y_mm": 15.24,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "8",
+    "signal": "INT",
+    "hole_id": "H104",
+    "source_x_mm": 87.757,
+    "source_y_mm": 24.13,
+    "local_x_mm": 0.0,
+    "local_y_mm": 17.78,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "9",
+    "signal": "GND",
+    "hole_id": "H105",
+    "source_x_mm": 87.757,
+    "source_y_mm": 21.59,
+    "local_x_mm": 0.0,
+    "local_y_mm": 20.32,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "10",
+    "signal": "GP0",
+    "hole_id": "H100",
+    "source_x_mm": 80.137,
+    "source_y_mm": 21.59,
+    "local_x_mm": -7.62,
+    "local_y_mm": 20.32,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "11",
+    "signal": "GP1",
+    "hole_id": "H101",
+    "source_x_mm": 80.137,
+    "source_y_mm": 24.13,
+    "local_x_mm": -7.62,
+    "local_y_mm": 17.78,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "12",
+    "signal": "GP2",
+    "hole_id": "H102",
+    "source_x_mm": 80.137,
+    "source_y_mm": 26.67,
+    "local_x_mm": -7.62,
+    "local_y_mm": 15.24,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "13",
+    "signal": "GP3",
+    "hole_id": "H117",
+    "source_x_mm": 80.137,
+    "source_y_mm": 29.21,
+    "local_x_mm": -7.62,
+    "local_y_mm": 12.7,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "14",
+    "signal": "GP4",
+    "hole_id": "H116",
+    "source_x_mm": 80.137,
+    "source_y_mm": 31.75,
+    "local_x_mm": -7.62,
+    "local_y_mm": 10.16,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "15",
+    "signal": "GP5",
+    "hole_id": "H115",
+    "source_x_mm": 80.137,
+    "source_y_mm": 34.29,
+    "local_x_mm": -7.62,
+    "local_y_mm": 7.62,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "16",
+    "signal": "GP6",
+    "hole_id": "H114",
+    "source_x_mm": 80.137,
+    "source_y_mm": 36.83,
+    "local_x_mm": -7.62,
+    "local_y_mm": 5.08,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "17",
+    "signal": "GP7",
+    "hole_id": "H113",
+    "source_x_mm": 80.137,
+    "source_y_mm": 39.37,
+    "local_x_mm": -7.62,
+    "local_y_mm": 2.54,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U1",
+    "footprint": "MCP23008_original",
+    "pin": "18",
+    "signal": "VDD",
+    "hole_id": "H112",
+    "source_x_mm": 80.137,
+    "source_y_mm": 41.91,
+    "local_x_mm": -7.62,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.9906,
+    "pad_size_mm": [
+      1.4986,
+      1.4986
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "1",
+    "signal": "VCC",
+    "hole_id": "H060",
+    "source_x_mm": 18.542,
+    "source_y_mm": 23.241,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "2",
+    "signal": "RX",
+    "hole_id": "H061",
+    "source_x_mm": 18.542,
+    "source_y_mm": 20.701,
+    "local_x_mm": 0.0,
+    "local_y_mm": 2.54,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "3",
+    "signal": "TX",
+    "hole_id": "H062",
+    "source_x_mm": 18.542,
+    "source_y_mm": 18.161,
+    "local_x_mm": 0.0,
+    "local_y_mm": 5.08,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "4",
+    "signal": "DAC_R",
+    "hole_id": "H063",
+    "source_x_mm": 18.542,
+    "source_y_mm": 15.621,
+    "local_x_mm": 0.0,
+    "local_y_mm": 7.62,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "5",
+    "signal": "DAC_L",
+    "hole_id": "H064",
+    "source_x_mm": 18.542,
+    "source_y_mm": 13.081,
+    "local_x_mm": 0.0,
+    "local_y_mm": 10.16,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "6",
+    "signal": "SPK1",
+    "hole_id": "H065",
+    "source_x_mm": 18.542,
+    "source_y_mm": 10.541,
+    "local_x_mm": 0.0,
+    "local_y_mm": 12.7,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "7",
+    "signal": "GND",
+    "hole_id": "H066",
+    "source_x_mm": 18.542,
+    "source_y_mm": 8.001,
+    "local_x_mm": 0.0,
+    "local_y_mm": 15.24,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "8",
+    "signal": "SPK2",
+    "hole_id": "H067",
+    "source_x_mm": 18.542,
+    "source_y_mm": 5.461,
+    "local_x_mm": 0.0,
+    "local_y_mm": 17.78,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "9",
+    "signal": "IO1",
+    "hole_id": "H052",
+    "source_x_mm": 36.576,
+    "source_y_mm": 5.461,
+    "local_x_mm": 18.034,
+    "local_y_mm": 17.78,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "10",
+    "signal": "GND",
+    "hole_id": "H053",
+    "source_x_mm": 36.576,
+    "source_y_mm": 8.001,
+    "local_x_mm": 18.034,
+    "local_y_mm": 15.24,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "11",
+    "signal": "IO2",
+    "hole_id": "H054",
+    "source_x_mm": 36.576,
+    "source_y_mm": 10.541,
+    "local_x_mm": 18.034,
+    "local_y_mm": 12.7,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "12",
+    "signal": "ADKEY1",
+    "hole_id": "H055",
+    "source_x_mm": 36.576,
+    "source_y_mm": 13.081,
+    "local_x_mm": 18.034,
+    "local_y_mm": 10.16,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "13",
+    "signal": "ADKEY2",
+    "hole_id": "H056",
+    "source_x_mm": 36.576,
+    "source_y_mm": 15.621,
+    "local_x_mm": 18.034,
+    "local_y_mm": 7.62,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "14",
+    "signal": "USB+",
+    "hole_id": "H057",
+    "source_x_mm": 36.576,
+    "source_y_mm": 18.161,
+    "local_x_mm": 18.034,
+    "local_y_mm": 5.08,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "15",
+    "signal": "USB-",
+    "hole_id": "H058",
+    "source_x_mm": 36.576,
+    "source_y_mm": 20.701,
+    "local_x_mm": 18.034,
+    "local_y_mm": 2.54,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U2",
+    "footprint": "DFPlayer_original",
+    "pin": "16",
+    "signal": "BUSY",
+    "hole_id": "H059",
+    "source_x_mm": 36.576,
+    "source_y_mm": 23.241,
+    "local_x_mm": 18.034,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.8001,
+    "pad_size_mm": [
+      1.3081,
+      1.3081
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U3",
+    "footprint": "GPS_original",
+    "pin": "01",
+    "signal": "VCC",
+    "hole_id": "H160",
+    "source_x_mm": 4.701032,
+    "source_y_mm": 22.835616,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.020064,
+    "pad_size_mm": [
+      1.370076,
+      1.370076
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U3",
+    "footprint": "GPS_original",
+    "pin": "02",
+    "signal": "GND",
+    "hole_id": "H161",
+    "source_x_mm": 7.241032,
+    "source_y_mm": 22.835616,
+    "local_x_mm": 2.54,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.020064,
+    "pad_size_mm": [
+      1.370076,
+      1.370076
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U3",
+    "footprint": "GPS_original",
+    "pin": "03",
+    "signal": "TX",
+    "hole_id": "H162",
+    "source_x_mm": 9.781032,
+    "source_y_mm": 22.835616,
+    "local_x_mm": 5.08,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.020064,
+    "pad_size_mm": [
+      1.370076,
+      1.370076
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U3",
+    "footprint": "GPS_original",
+    "pin": "04",
+    "signal": "RX",
+    "hole_id": "H163",
+    "source_x_mm": 12.321032,
+    "source_y_mm": 22.835616,
+    "local_x_mm": 7.62,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.020064,
+    "pad_size_mm": [
+      1.370076,
+      1.370076
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U3",
+    "footprint": "GPS_original",
+    "pin": "05",
+    "signal": "PPS",
+    "hole_id": "H164",
+    "source_x_mm": 14.861032,
+    "source_y_mm": 22.835616,
+    "local_x_mm": 10.16,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.020064,
+    "pad_size_mm": [
+      1.370076,
+      1.370076
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "1",
+    "signal": "VIN",
+    "hole_id": "H121",
+    "source_x_mm": 59.944,
+    "source_y_mm": 24.892,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "2",
+    "signal": "3VO",
+    "hole_id": "H122",
+    "source_x_mm": 59.944,
+    "source_y_mm": 27.432,
+    "local_x_mm": 0.0,
+    "local_y_mm": -2.54,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "3",
+    "signal": "GND",
+    "hole_id": "H142",
+    "source_x_mm": 59.944,
+    "source_y_mm": 29.972,
+    "local_x_mm": 0.0,
+    "local_y_mm": -5.08,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "4",
+    "signal": "SDA",
+    "hole_id": "H141",
+    "source_x_mm": 59.944,
+    "source_y_mm": 32.512,
+    "local_x_mm": 0.0,
+    "local_y_mm": -7.62,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "5",
+    "signal": "SCL",
+    "hole_id": "H139",
+    "source_x_mm": 59.944,
+    "source_y_mm": 35.052,
+    "local_x_mm": 0.0,
+    "local_y_mm": -10.16,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "6",
+    "signal": "RST",
+    "hole_id": "H140",
+    "source_x_mm": 59.944,
+    "source_y_mm": 37.592,
+    "local_x_mm": 0.0,
+    "local_y_mm": -12.7,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "7",
+    "signal": "ADR",
+    "hole_id": "H145",
+    "source_x_mm": 77.724,
+    "source_y_mm": 35.052,
+    "local_x_mm": 17.78,
+    "local_y_mm": -10.16,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "8",
+    "signal": "INT",
+    "hole_id": "H144",
+    "source_x_mm": 77.724,
+    "source_y_mm": 32.512,
+    "local_x_mm": 17.78,
+    "local_y_mm": -7.62,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "9",
+    "signal": "PS1",
+    "hole_id": "H143",
+    "source_x_mm": 77.724,
+    "source_y_mm": 29.972,
+    "local_x_mm": 17.78,
+    "local_y_mm": -5.08,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "U4",
+    "footprint": "BNO055_original",
+    "pin": "10",
+    "signal": "PS0",
+    "hole_id": "H118",
+    "source_x_mm": 77.724,
+    "source_y_mm": 27.432,
+    "local_x_mm": 17.78,
+    "local_y_mm": -2.54,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.9304,
+      1.9304
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "DS",
+    "footprint": "OLED_original",
+    "pin": "1",
+    "signal": "GND",
+    "hole_id": "H149",
+    "source_x_mm": 65.405,
+    "source_y_mm": 44.069,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.507998,
+      1.507998
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "DS",
+    "footprint": "OLED_original",
+    "pin": "2",
+    "signal": "VCC",
+    "hole_id": "H148",
+    "source_x_mm": 67.945,
+    "source_y_mm": 44.069,
+    "local_x_mm": 2.54,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.507998,
+      1.507998
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "DS",
+    "footprint": "OLED_original",
+    "pin": "3",
+    "signal": "SCL",
+    "hole_id": "H147",
+    "source_x_mm": 70.485,
+    "source_y_mm": 44.069,
+    "local_x_mm": 5.08,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.507998,
+      1.507998
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "DS",
+    "footprint": "OLED_original",
+    "pin": "4",
+    "signal": "SDA",
+    "hole_id": "H146",
+    "source_x_mm": 73.025,
+    "source_y_mm": 44.069,
+    "local_x_mm": 7.62,
+    "local_y_mm": 0.0,
+    "drill_mm": 0.999998,
+    "pad_size_mm": [
+      1.507998,
+      1.507998
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J5",
+    "footprint": "BME280_original",
+    "pin": "1",
+    "signal": "VCC",
+    "hole_id": "H174",
+    "source_x_mm": 34.546032,
+    "source_y_mm": 42.393616,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J5",
+    "footprint": "BME280_original",
+    "pin": "2",
+    "signal": "GND",
+    "hole_id": "H173",
+    "source_x_mm": 32.006032,
+    "source_y_mm": 42.393616,
+    "local_x_mm": -2.54,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J5",
+    "footprint": "BME280_original",
+    "pin": "3",
+    "signal": "SCL",
+    "hole_id": "H172",
+    "source_x_mm": 29.466032,
+    "source_y_mm": 42.393616,
+    "local_x_mm": -5.08,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J5",
+    "footprint": "BME280_original",
+    "pin": "4",
+    "signal": "SDA",
+    "hole_id": "H171",
+    "source_x_mm": 26.926032,
+    "source_y_mm": 42.393616,
+    "local_x_mm": -7.62,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J5",
+    "footprint": "BME280_original",
+    "pin": "5",
+    "signal": "CSB",
+    "hole_id": "H170",
+    "source_x_mm": 24.386032,
+    "source_y_mm": 42.393616,
+    "local_x_mm": -10.16,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J5",
+    "footprint": "BME280_original",
+    "pin": "6",
+    "signal": "SDO",
+    "hole_id": "H169",
+    "source_x_mm": 21.846032,
+    "source_y_mm": 42.393616,
+    "local_x_mm": -12.7,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J4",
+    "footprint": "TOF400C_original",
+    "pin": "1",
+    "signal": "SHUT",
+    "hole_id": "H165",
+    "source_x_mm": 90.424,
+    "source_y_mm": 25.4,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J4",
+    "footprint": "TOF400C_original",
+    "pin": "2",
+    "signal": "INT",
+    "hole_id": "H166",
+    "source_x_mm": 90.424,
+    "source_y_mm": 27.94,
+    "local_x_mm": 0.0,
+    "local_y_mm": -2.54,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J4",
+    "footprint": "TOF400C_original",
+    "pin": "3",
+    "signal": "SCL",
+    "hole_id": "H182",
+    "source_x_mm": 90.424,
+    "source_y_mm": 30.48,
+    "local_x_mm": 0.0,
+    "local_y_mm": -5.08,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J4",
+    "footprint": "TOF400C_original",
+    "pin": "4",
+    "signal": "SDA",
+    "hole_id": "H181",
+    "source_x_mm": 90.424,
+    "source_y_mm": 33.02,
+    "local_x_mm": 0.0,
+    "local_y_mm": -7.62,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J4",
+    "footprint": "TOF400C_original",
+    "pin": "5",
+    "signal": "GND",
+    "hole_id": "H180",
+    "source_x_mm": 90.424,
+    "source_y_mm": 35.56,
+    "local_x_mm": 0.0,
+    "local_y_mm": -10.16,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J4",
+    "footprint": "TOF400C_original",
+    "pin": "6",
+    "signal": "VCC",
+    "hole_id": "H179",
+    "source_x_mm": 90.424,
+    "source_y_mm": 38.1,
+    "local_x_mm": 0.0,
+    "local_y_mm": -12.7,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J1",
+    "footprint": "Battery_original",
+    "pin": "1",
+    "signal": "BAT+",
+    "hole_id": "H175",
+    "source_x_mm": 51.562,
+    "source_y_mm": 47.752,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J1",
+    "footprint": "Battery_original",
+    "pin": "2",
+    "signal": "GND",
+    "hole_id": "H176",
+    "source_x_mm": 51.562,
+    "source_y_mm": 50.292,
+    "local_x_mm": 0.0,
+    "local_y_mm": -2.54,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J2",
+    "footprint": "ESP_battery_original",
+    "pin": "1",
+    "signal": "GND",
+    "hole_id": "H168",
+    "source_x_mm": 18.669,
+    "source_y_mm": 57.15,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J2",
+    "footprint": "ESP_battery_original",
+    "pin": "2",
+    "signal": "VCC",
+    "hole_id": "H167",
+    "source_x_mm": 18.669,
+    "source_y_mm": 54.61,
+    "local_x_mm": 0.0,
+    "local_y_mm": 2.54,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J3",
+    "footprint": "Laser_original",
+    "pin": "1",
+    "signal": "3V3",
+    "hole_id": "H177",
+    "source_x_mm": 51.562,
+    "source_y_mm": 53.848,
+    "local_x_mm": 0.0,
+    "local_y_mm": 0.0,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "rect",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  },
+  {
+    "reference": "J3",
+    "footprint": "Laser_original",
+    "pin": "2",
+    "signal": "LASER_RETURN",
+    "hole_id": "H178",
+    "source_x_mm": 51.562,
+    "source_y_mm": 56.388,
+    "local_x_mm": 0.0,
+    "local_y_mm": -2.54,
+    "drill_mm": 1.070102,
+    "pad_size_mm": [
+      1.605026,
+      1.605026
+    ],
+    "shape": "circle",
+    "mask_margin_mm": 0.1016,
+    "evidence": "Schematic pin functions plus assembly label/location; no original native netlist available",
+    "mapping_status": "Reconstructed; independent original netlist comparison unavailable"
+  }
+]

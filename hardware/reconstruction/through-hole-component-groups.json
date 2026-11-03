@@ -1,0 +1,101 @@
+[
+  {
+    "assembly_region": "M1_XIAO",
+    "hole_ids": [
+      "H123",
+      "H124",
+      "H125",
+      "H126",
+      "H127",
+      "H128",
+      "H129",
+      "H132",
+      "H133",
+      "H134",
+      "H135",
+      "H136",
+      "H137",
+      "H138"
+    ],
+    "count": 14,
+    "drill_diameters_mm": [
+      0.999998
+    ],
+    "smallest_center_distance_mm": 2.54,
+    "status": "Provisional spatial grouping; component boundary and pin mapping require review"
+  },
+  {
+    "assembly_region": "U2_DFPlayer",
+    "hole_ids": [
+      "H052",
+      "H053",
+      "H054",
+      "H055",
+      "H056",
+      "H057",
+      "H058",
+      "H059",
+      "H060",
+      "H061",
+      "H062",
+      "H063",
+      "H064",
+      "H065",
+      "H066",
+      "H067"
+    ],
+    "count": 16,
+    "drill_diameters_mm": [
+      0.8000999999999999
+    ],
+    "smallest_center_distance_mm": 2.54,
+    "status": "Provisional spatial grouping; component boundary and pin mapping require review"
+  },
+  {
+    "assembly_region": "GPS_header",
+    "hole_ids": [
+      "H160",
+      "H161",
+      "H162",
+      "H163",
+      "H164"
+    ],
+    "count": 5,
+    "drill_diameters_mm": [
+      1.020064
+    ],
+    "smallest_center_distance_mm": 2.54,
+    "status": "Provisional spatial grouping; component boundary and pin mapping require review"
+  },
+  {
+    "assembly_region": "OLED_header",
+    "hole_ids": [
+      "H146",
+      "H147",
+      "H148",
+      "H149"
+    ],
+    "count": 4,
+    "drill_diameters_mm": [
+      0.999998
+    ],
+    "smallest_center_distance_mm": 2.54,
+    "status": "Provisional spatial grouping; component boundary and pin mapping require review"
+  },
+  {
+    "assembly_region": "RE1_encoder",
+    "hole_ids": [
+      "H183",
+      "H184",
+      "H185",
+      "H186",
+      "H187"
+    ],
+    "count": 5,
+    "drill_diameters_mm": [
+      1.1998959999999999
+    ],
+    "smallest_center_distance_mm": 2.499868,
+    "status": "Provisional spatial grouping; component boundary and pin mapping require review"
+  }
+]
