@@ -88,4 +88,3 @@ assert all(sorted(round(v['defaultPad'][k]*.0254,5) for k in ['width','height'])
 result={'archive_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),'components':40,'symbol_pin_instances':179,'unchanged_other_footprints':39,'gp7_button_conflict_removed':True,'encoder_button':'M1 pin 7 / D6 / GPIO43; configure input pull-up, disable UART TX on this pin','expander':'RESET to 3V3; INT and GP7 deliberately unconnected; poll GP0-GP6','navigation_locator_drills_mm':[.75,1.05],'grounding_land_size_mm':[2,1.8],'scope':'Native saved-file checks; partial PCB nets only. Full routing/circuit/firmware and hardware qualification remain unfinished.'}
 (Q/'native-fixes-check.json').write_text(json.dumps(result,indent=2)+'\n')
 print('PASS: 40 bindings/179 pins; 181 pads checked separately; GP7 isolated; RE1.1 and M1.7 on D6; reset 3V3; 0.75/1.05 mm navigation locators.')
-
