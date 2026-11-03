@@ -13,6 +13,12 @@ def main():
   p=ROOT/'hardware/reference/original'/Path(item['path'].replace('\\','/'))
   check(p.is_file(),f'Missing source: {item["path"]}')
   if p.is_file():check(p.stat().st_size==item['bytes'] and hashlib.sha256(p.read_bytes()).hexdigest()==item['sha256'],f'Changed source: {item["path"]}')
+ supplemental=read('supplemental-schdoc-inventory.json')
+ source=ROOT/supplemental['source']
+ check(source.stat().st_size==supplemental['bytes'] and hashlib.sha256(source.read_bytes()).hexdigest()==supplemental['sha256'],'Supplemental SchDoc source changed')
+ check(supplemental['component_count']==40 and supplemental['pin_count']==179,'Supplemental SchDoc counts changed')
+ checks=supplemental['existing_85_pad_pin_identifier_checks']
+ check(len(checks)==85 and all(c['pin_present'] for c in checks),'Supplemental pin identifier checks failed')
  original=read('original-through-hole-geometry.json');check(len(original['holes'])==189 and len(original['slots'])==2,'Source drill count mismatch')
  mapping=read('reconstructed-pin-map.json');check(len(mapping)==85,'Mapped pad count mismatch');check(len({x['hole_id'] for x in mapping})==85,'Repeated mapped source hole');check(len({(x['reference'],x['pin']) for x in mapping})==85,'Duplicate component pin')
  held=read('remaining-footprint-checks.json');check(held['all_component_round_holes_accounted']==138 and held['small_unassigned_via_candidates']==51,'Hole accounting mismatch')

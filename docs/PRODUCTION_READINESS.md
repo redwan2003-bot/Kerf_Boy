@@ -15,7 +15,7 @@
 
 ## Electrical holds
 
-- Six-lead switches use three-terminal symbols; second-pole numbering is not established.
+- The supplemental SchDoc reveals six switch pins overlapping in pairs 1/2, 3/4, 5/6. Physical hole numbering remains unverified; no second pole is established.
 - Encoder contact functions have copper-trace evidence; exact contact/shield pad numbering still needs verification.
 - LED ground-side terminals and tactile-button contact groups now have copper-trace evidence. Exact component-native numbering remains unverified.
 - The two-pin audio region traces to the buzzer switch and ground, supporting BZ1 rather than LS1. Symbol binding and physical part verification remain pending.
@@ -30,3 +30,7 @@ Matching native Altium files or an original pin/net list can resolve identities.
 The successful geometry comparison measures conversion fidelity, not electrical function, fabrication tolerance or industrial qualification. See the [full report](reports/complete-reconstruction-report.pdf).
 
 The [Step 3 copper-trace addendum](reports/step-3-copper-verification.md) supersedes the historical report on these specific connectivity findings. It does not close Step 3.
+
+## Supplemental native schematic
+
+The user-supplied Mk II SchDoc was parsed: 40 components, 179 pins and all 85 existing mapped identifiers checked for presence. It supplies encoder and switch model references but has reference-designator differences. See the [inspection](reports/supplemental-schdoc-review.md). Mk III net equivalence and EasyEDA import remain unverified.

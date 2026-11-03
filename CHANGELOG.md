@@ -1,5 +1,13 @@
 # Change history
 
+## 2026-11-03 - Supplemental native schematic
+
+- Preserve the explicitly supplied Mk II SchDoc separately from the original snapshot.
+- Extract and check 1,236 records, 40 components, 179 pins and footprint-model names.
+- Confirm all 85 existing mapped pin identifiers exist in corresponding symbols.
+- Recover overlapping switch pin pairs and encoder/LED/buzzer labels.
+- Record revision differences; no unverified physical pad assignments promoted.
+
 ## 2026-11-03 - Step 3 copper-trace evidence
 
 - Add reproducible external-copper connectivity and internal-plane sampling.

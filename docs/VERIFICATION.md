@@ -47,3 +47,7 @@ python scripts/trace_external_copper.py
 ```
 
 This source-specific parser joins GTL/GBL copper at plated holes and samples negative GP1/GP2 clearance geometry at 16 angular positions, at three offsets from the drill edge (0.02, 0.04 and 0.06 mm). It checks nine known power anchors and rejects conflicting anchored nets. The outputs include source hashes and a sensitivity list. It does not establish global internal-plane connectivity or assign manufacturer pin numbers. Missing labels and partial coverage are unresolved, not proof of no connection. See the [findings](reports/step-3-copper-verification.md).
+
+## Supplemental SchDoc inventory
+
+Install scripts/requirements.txt, then run `python scripts/extract_schdoc_inventory.py`. It checks record boundaries, declared counts, unique pin identifiers and 85 existing mapped identifier references. It reads explicit fields only; it does not compile a netlist or import into EasyEDA. The source hash is checked by repository verification.

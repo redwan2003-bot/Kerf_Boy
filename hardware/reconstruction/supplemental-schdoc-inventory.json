@@ -1,0 +1,3118 @@
+{
+  "source": "hardware/reference/supplemental/CHIPBOY_Mk_II.SchDoc",
+  "sha256": "9872e28f45b1e8e7191b9568461e1852a7f79bb4d7d1ec867469cba9450c42b1",
+  "bytes": 225792,
+  "streams": [
+    "Additional",
+    "FileHeader",
+    "Storage"
+  ],
+  "record_count": 1236,
+  "component_count": 40,
+  "pin_count": 179,
+  "record_types": {
+    "HEADER": 1,
+    "31": 1,
+    "41": 292,
+    "1": 40,
+    "14": 46,
+    "2": 179,
+    "34": 40,
+    "44": 40,
+    "45": 40,
+    "46": 40,
+    "48": 40,
+    "13": 212,
+    "7": 6,
+    "4": 26,
+    "12": 37,
+    "17": 39,
+    "18": 46,
+    "22": 21,
+    "28": 1,
+    "27": 59,
+    "29": 30
+  },
+  "scope": "Explicit fields only. Not a compiled netlist, PCB pad positions, proof of Mk III equivalence, or EasyEDA import verification.",
+  "components": [
+    {
+      "record_index": 29,
+      "designator": "Xiao ESP32S3",
+      "library_reference": "xiao_esp32",
+      "unique_id": "FJCEHJDD",
+      "comment": "",
+      "pins": [
+        {
+          "record_index": 31,
+          "Designator": "1",
+          "Name": "D0",
+          "Location.X": "340",
+          "Location.Y": "370",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 33,
+          "Designator": "2",
+          "Name": "D1",
+          "Location.X": "340",
+          "Location.Y": "360",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 35,
+          "Designator": "3",
+          "Name": "D2",
+          "Location.X": "340",
+          "Location.Y": "350",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 37,
+          "Designator": "4",
+          "Name": "D3",
+          "Location.X": "340",
+          "Location.Y": "340",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 39,
+          "Designator": "5",
+          "Name": "D4",
+          "Location.X": "340",
+          "Location.Y": "330",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 41,
+          "Designator": "6",
+          "Name": "D5",
+          "Location.X": "340",
+          "Location.Y": "320",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 43,
+          "Designator": "14",
+          "Name": "5V",
+          "Location.X": "440",
+          "Location.Y": "400",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 45,
+          "Designator": "12",
+          "Name": "3V3",
+          "Location.X": "440",
+          "Location.Y": "390",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 47,
+          "Designator": "7",
+          "Name": "TX/D6",
+          "Location.X": "440",
+          "Location.Y": "370",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 49,
+          "Designator": "8",
+          "Name": "RX/D7",
+          "Location.X": "440",
+          "Location.Y": "360",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 51,
+          "Designator": "9",
+          "Name": "D8",
+          "Location.X": "440",
+          "Location.Y": "350",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 53,
+          "Designator": "10",
+          "Name": "D9",
+          "Location.X": "440",
+          "Location.Y": "340",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 55,
+          "Designator": "11",
+          "Name": "D10",
+          "Location.X": "440",
+          "Location.Y": "330",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 57,
+          "Designator": "13",
+          "Name": "GND",
+          "Location.X": "440",
+          "Location.Y": "300",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "MODULE_113991254",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "MODULE_113991254",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 65,
+      "designator": "128x64 OLED",
+      "library_reference": "DM-OLED096-636",
+      "unique_id": "AFWOVOIS",
+      "comment": "1.3\" SSD1306",
+      "pins": [
+        {
+          "record_index": 67,
+          "Designator": "2",
+          "Name": "VCC_IN",
+          "Location.X": "130",
+          "Location.Y": "130",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 69,
+          "Designator": "3",
+          "Name": "SCL",
+          "Location.X": "130",
+          "Location.Y": "110",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 71,
+          "Designator": "4",
+          "Name": "SDA",
+          "Location.X": "130",
+          "Location.Y": "100",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 73,
+          "Designator": "1",
+          "Name": "GND",
+          "Location.X": "130",
+          "Location.Y": "80",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "MODULE_DM-OLED096-636",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "MODULE_DM-OLED096-636",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 81,
+      "designator": "J3",
+      "library_reference": "2_pin_header",
+      "unique_id": "URQLGDPV",
+      "comment": "Laser +/-",
+      "pins": [
+        {
+          "record_index": 85,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "760",
+          "Location.Y": "650",
+          "PinLength": "20",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 87,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "760",
+          "Location.Y": "640",
+          "PinLength": "20",
+          "PinConglomerate": "42"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "HARWIN_M20-9990246",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "HARWIN_M20-9990246",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 95,
+      "designator": "R1",
+      "library_reference": "resistor_through_hole",
+      "unique_id": "MSGFOFFC",
+      "comment": "100",
+      "pins": [
+        {
+          "record_index": 105,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "910",
+          "Location.Y": "590",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 107,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "910",
+          "Location.Y": "570",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "RESAD640W45L370D200",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "RESAD640W45L370D200",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 115,
+      "designator": "LED1",
+      "library_reference": "led_through_hole",
+      "unique_id": "MHPODBMX",
+      "comment": "led_through_hole",
+      "pins": [
+        {
+          "record_index": 127,
+          "Designator": "C",
+          "Name": "C",
+          "Location.X": "910",
+          "Location.Y": "500",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        },
+        {
+          "record_index": 129,
+          "Designator": "A",
+          "Name": "A",
+          "Location.X": "910",
+          "Location.Y": "550",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "LED_WP7113ID",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "LED_WP7113ID",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 137,
+      "designator": "MCP23008",
+      "library_reference": "gpio extender",
+      "unique_id": "PIBIQVSJ",
+      "comment": "gpio extender",
+      "pins": [
+        {
+          "record_index": 139,
+          "Designator": "1",
+          "Name": "SCL",
+          "Location.X": "320",
+          "Location.Y": "170",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 141,
+          "Designator": "2",
+          "Name": "SDA",
+          "Location.X": "320",
+          "Location.Y": "160",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 143,
+          "Designator": "3",
+          "Name": "A2",
+          "Location.X": "320",
+          "Location.Y": "150",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 145,
+          "Designator": "4",
+          "Name": "A1",
+          "Location.X": "320",
+          "Location.Y": "140",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 147,
+          "Designator": "5",
+          "Name": "A0",
+          "Location.X": "320",
+          "Location.Y": "130",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 149,
+          "Designator": "6",
+          "Name": "*RESET",
+          "Location.X": "320",
+          "Location.Y": "120",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 151,
+          "Designator": "7",
+          "Name": "NC",
+          "Location.X": "320",
+          "Location.Y": "110",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 153,
+          "Designator": "8",
+          "Name": "INT",
+          "Location.X": "320",
+          "Location.Y": "100",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 155,
+          "Designator": "9",
+          "Name": "VSS",
+          "Location.X": "320",
+          "Location.Y": "90",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 157,
+          "Designator": "18",
+          "Name": "VDD",
+          "Location.X": "460",
+          "Location.Y": "170",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 159,
+          "Designator": "17",
+          "Name": "GP7",
+          "Location.X": "460",
+          "Location.Y": "160",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 161,
+          "Designator": "16",
+          "Name": "GP6",
+          "Location.X": "460",
+          "Location.Y": "150",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 163,
+          "Designator": "15",
+          "Name": "GP5",
+          "Location.X": "460",
+          "Location.Y": "140",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 165,
+          "Designator": "14",
+          "Name": "GP4",
+          "Location.X": "460",
+          "Location.Y": "130",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 167,
+          "Designator": "13",
+          "Name": "GP3",
+          "Location.X": "460",
+          "Location.Y": "120",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 169,
+          "Designator": "12",
+          "Name": "GP2",
+          "Location.X": "460",
+          "Location.Y": "110",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 171,
+          "Designator": "11",
+          "Name": "GP1",
+          "Location.X": "460",
+          "Location.Y": "100",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 173,
+          "Designator": "10",
+          "Name": "GP0",
+          "Location.X": "460",
+          "Location.Y": "90",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "DIP254P762X533-18",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "DIP254P762X533-18",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 181,
+      "designator": "Buzzer",
+      "library_reference": "Buzzer_3V",
+      "unique_id": "DVSXGKMD",
+      "comment": "",
+      "pins": [
+        {
+          "record_index": 193,
+          "Designator": "P",
+          "Name": "P",
+          "Location.X": "870",
+          "Location.Y": "250",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        },
+        {
+          "record_index": 195,
+          "Designator": "N",
+          "Name": "N",
+          "Location.X": "870",
+          "Location.Y": "270",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "CUI_CMI-1295IC-0385T",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "CUI_CMI-1295IC-0385T",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 205,
+      "designator": "R2",
+      "library_reference": "resistor_through_hole",
+      "unique_id": "ZBUFJXPR",
+      "comment": "100",
+      "pins": [
+        {
+          "record_index": 215,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "870",
+          "Location.Y": "590",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 217,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "870",
+          "Location.Y": "570",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "RESAD640W45L370D200",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "RESAD640W45L370D200",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 225,
+      "designator": "LED2",
+      "library_reference": "led_through_hole",
+      "unique_id": "TNFOJBMF",
+      "comment": "led_through_hole",
+      "pins": [
+        {
+          "record_index": 237,
+          "Designator": "C",
+          "Name": "C",
+          "Location.X": "870",
+          "Location.Y": "500",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        },
+        {
+          "record_index": 239,
+          "Designator": "A",
+          "Name": "A",
+          "Location.X": "870",
+          "Location.Y": "550",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "LED_WP7113ID",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "LED_WP7113ID",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 247,
+      "designator": "B0",
+      "library_reference": "SKHHANA010",
+      "unique_id": "ZDVFXJGG",
+      "comment": "SKHHANA010",
+      "pins": [
+        {
+          "record_index": 263,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "100",
+          "Location.Y": "290",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 265,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "100",
+          "Location.Y": "280",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 267,
+          "Designator": "3",
+          "Name": "3",
+          "Location.X": "160",
+          "Location.Y": "290",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 269,
+          "Designator": "4",
+          "Name": "4",
+          "Location.X": "160",
+          "Location.Y": "280",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SW_SKHHANA010",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SW_SKHHANA010",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 277,
+      "designator": "B1",
+      "library_reference": "SKHHANA010",
+      "unique_id": "SDJLOORV",
+      "comment": "SKHHANA010",
+      "pins": [
+        {
+          "record_index": 293,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "100",
+          "Location.Y": "240",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 295,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "100",
+          "Location.Y": "230",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 297,
+          "Designator": "3",
+          "Name": "3",
+          "Location.X": "160",
+          "Location.Y": "240",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 299,
+          "Designator": "4",
+          "Name": "4",
+          "Location.X": "160",
+          "Location.Y": "230",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SW_SKHHANA010",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SW_SKHHANA010",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 307,
+      "designator": "BNO055",
+      "library_reference": "BNO055",
+      "unique_id": "PPDWWYOO",
+      "comment": "BNO055",
+      "pins": [
+        {
+          "record_index": 309,
+          "Designator": "6",
+          "Name": "RST",
+          "Location.X": "380",
+          "Location.Y": "680",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 311,
+          "Designator": "1",
+          "Name": "VIN",
+          "Location.X": "380",
+          "Location.Y": "670",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 313,
+          "Designator": "4",
+          "Name": "SDA",
+          "Location.X": "380",
+          "Location.Y": "660",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 315,
+          "Designator": "5",
+          "Name": "SCL",
+          "Location.X": "380",
+          "Location.Y": "650",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 317,
+          "Designator": "2",
+          "Name": "3VO",
+          "Location.X": "460",
+          "Location.Y": "700",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 319,
+          "Designator": "10",
+          "Name": "PS0",
+          "Location.X": "460",
+          "Location.Y": "680",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 321,
+          "Designator": "9",
+          "Name": "PS1",
+          "Location.X": "460",
+          "Location.Y": "670",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 323,
+          "Designator": "8",
+          "Name": "INT",
+          "Location.X": "460",
+          "Location.Y": "660",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 325,
+          "Designator": "7",
+          "Name": "ADR",
+          "Location.X": "460",
+          "Location.Y": "650",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 327,
+          "Designator": "3",
+          "Name": "GND",
+          "Location.X": "460",
+          "Location.Y": "630",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "MODULE_2472",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "MODULE_2472",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 399,
+      "designator": "Navigation Switch",
+      "library_reference": "nav switch",
+      "unique_id": "PKUPYFKC",
+      "comment": "JS1400BFQ",
+      "pins": [
+        {
+          "record_index": 417,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "150",
+          "Location.Y": "340",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 419,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "150",
+          "Location.Y": "350",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 421,
+          "Designator": "3",
+          "Name": "3",
+          "Location.X": "150",
+          "Location.Y": "360",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 423,
+          "Designator": "SH1",
+          "Name": "SHIELD",
+          "Location.X": "150",
+          "Location.Y": "380",
+          "PinLength": "10",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 425,
+          "Designator": "SH2",
+          "Name": "SHIELD",
+          "Location.X": "150",
+          "Location.Y": "390",
+          "PinLength": "10",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 427,
+          "Designator": "4",
+          "Name": "4",
+          "Location.X": "110",
+          "Location.Y": "340",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 429,
+          "Designator": "5",
+          "Name": "5",
+          "Location.X": "110",
+          "Location.Y": "350",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 431,
+          "Designator": "6",
+          "Name": "6",
+          "Location.X": "110",
+          "Location.Y": "360",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SW_JS1400BFQ",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SW_JS1400BFQ",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 439,
+      "designator": "GY-BME280",
+      "library_reference": "PPTC061LFBNRC",
+      "unique_id": "PLJUYRPI",
+      "comment": "J5",
+      "pins": [
+        {
+          "record_index": 452,
+          "Designator": "1",
+          "Name": "VCC",
+          "Location.X": "440",
+          "Location.Y": "540",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 454,
+          "Designator": "2",
+          "Name": "GND",
+          "Location.X": "440",
+          "Location.Y": "530",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 456,
+          "Designator": "3",
+          "Name": "SCL",
+          "Location.X": "440",
+          "Location.Y": "520",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 458,
+          "Designator": "4",
+          "Name": "SDA",
+          "Location.X": "440",
+          "Location.Y": "510",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 460,
+          "Designator": "5",
+          "Name": "CSB",
+          "Location.X": "440",
+          "Location.Y": "500",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 462,
+          "Designator": "6",
+          "Name": "SBO",
+          "Location.X": "440",
+          "Location.Y": "490",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SULLINS_PPTC061LFBN-RC",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SULLINS_PPTC061LFBN-RC",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 471,
+      "designator": "DF PLAYER",
+      "library_reference": "DFPLAYER",
+      "unique_id": "YPPYEJAT",
+      "comment": "DFPLAYER",
+      "pins": [
+        {
+          "record_index": 473,
+          "Designator": "16",
+          "Name": "BUSY",
+          "Location.X": "620",
+          "Location.Y": "270",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 475,
+          "Designator": "14",
+          "Name": "USB+",
+          "Location.X": "620",
+          "Location.Y": "250",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 477,
+          "Designator": "15",
+          "Name": "USB-",
+          "Location.X": "620",
+          "Location.Y": "240",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 479,
+          "Designator": "12",
+          "Name": "ADKEY1",
+          "Location.X": "620",
+          "Location.Y": "220",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 481,
+          "Designator": "13",
+          "Name": "ADKEY2",
+          "Location.X": "620",
+          "Location.Y": "210",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 483,
+          "Designator": "6",
+          "Name": "SPK1",
+          "Location.X": "620",
+          "Location.Y": "190",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 485,
+          "Designator": "8",
+          "Name": "SPK2",
+          "Location.X": "620",
+          "Location.Y": "180",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 487,
+          "Designator": "1",
+          "Name": "VCC",
+          "Location.X": "700",
+          "Location.Y": "290",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 489,
+          "Designator": "4",
+          "Name": "DAC_R",
+          "Location.X": "700",
+          "Location.Y": "270",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 491,
+          "Designator": "5",
+          "Name": "DAC_L",
+          "Location.X": "700",
+          "Location.Y": "260",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 493,
+          "Designator": "3",
+          "Name": "TX",
+          "Location.X": "700",
+          "Location.Y": "240",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 495,
+          "Designator": "2",
+          "Name": "RX",
+          "Location.X": "700",
+          "Location.Y": "230",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 497,
+          "Designator": "9",
+          "Name": "IO1",
+          "Location.X": "700",
+          "Location.Y": "210",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 499,
+          "Designator": "11",
+          "Name": "IO2",
+          "Location.X": "700",
+          "Location.Y": "200",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 501,
+          "Designator": "7",
+          "Name": "GND",
+          "Location.X": "700",
+          "Location.Y": "160",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        },
+        {
+          "record_index": 503,
+          "Designator": "10",
+          "Name": "GND",
+          "Location.X": "700",
+          "Location.Y": "150",
+          "PinLength": "20",
+          "PinConglomerate": "56"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "MODULE_DFR0299",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "MODULE_DFR0299",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 517,
+      "designator": "R4",
+      "library_reference": "resistor_through_hole",
+      "unique_id": "WBUKGYBP",
+      "comment": "1k",
+      "pins": [
+        {
+          "record_index": 527,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "730",
+          "Location.Y": "230",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        },
+        {
+          "record_index": 529,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "750",
+          "Location.Y": "230",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "RESAD640W45L370D200",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "RESAD640W45L370D200",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 539,
+      "designator": "PEC12R-4217F-S0024",
+      "library_reference": "rotary encoder",
+      "unique_id": "EEZECLWT",
+      "comment": "rotary encoder",
+      "pins": [
+        {
+          "record_index": 545,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "100",
+          "Location.Y": "530",
+          "PinLength": "20",
+          "PinConglomerate": "50"
+        },
+        {
+          "record_index": 547,
+          "Designator": "A",
+          "Name": "CHANNEL_A",
+          "Location.X": "100",
+          "Location.Y": "510",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 549,
+          "Designator": "B",
+          "Name": "CHANNEL_B",
+          "Location.X": "100",
+          "Location.Y": "500",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 551,
+          "Designator": "C",
+          "Name": "COMMON",
+          "Location.X": "100",
+          "Location.Y": "490",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 553,
+          "Designator": "SH1",
+          "Name": "SHIELD",
+          "Location.X": "100",
+          "Location.Y": "470",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 555,
+          "Designator": "SH2",
+          "Name": "SHIELD",
+          "Location.X": "100",
+          "Location.Y": "460",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 557,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "180",
+          "Location.Y": "530",
+          "PinLength": "20",
+          "PinConglomerate": "48"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "XDCR_PEC12R-4217F-S0024",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "XDCR_PEC12R-4217F-S0024",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 575,
+      "designator": "J2",
+      "library_reference": "2_pin_header",
+      "unique_id": "CHJJIFOZ",
+      "comment": "ESP32 +/-",
+      "pins": [
+        {
+          "record_index": 579,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "230",
+          "Location.Y": "630",
+          "PinLength": "20",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 581,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "230",
+          "Location.Y": "620",
+          "PinLength": "20",
+          "PinConglomerate": "42"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "HARWIN_M20-9990246",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "HARWIN_M20-9990246",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 589,
+      "designator": "J1",
+      "library_reference": "2_pin_header",
+      "unique_id": "WKVHGZWM",
+      "comment": "BATTERY +/-",
+      "pins": [
+        {
+          "record_index": 593,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "70",
+          "Location.Y": "620",
+          "PinLength": "20",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 595,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "70",
+          "Location.Y": "630",
+          "PinLength": "20",
+          "PinConglomerate": "40"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "HARWIN_M20-9990246",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "HARWIN_M20-9990246",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 603,
+      "designator": "SPK1",
+      "library_reference": "15mm speaker",
+      "unique_id": "BTKXDAFI",
+      "comment": "15mm speaker",
+      "pins": [
+        {
+          "record_index": 615,
+          "Designator": "P",
+          "Name": "P",
+          "Location.X": "560",
+          "Location.Y": "190",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 617,
+          "Designator": "M",
+          "Name": "M",
+          "Location.X": "560",
+          "Location.Y": "170",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SPKR_CVS-1508",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SPKR_CVS-1508",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 627,
+      "designator": "SW5",
+      "library_reference": "switch top actuated",
+      "unique_id": "MKGFJGZR",
+      "comment": "switch top actuated",
+      "pins": [
+        {
+          "record_index": 634,
+          "Designator": "3",
+          "Name": "2",
+          "Location.X": "860",
+          "Location.Y": "350",
+          "PinLength": "10",
+          "PinConglomerate": "41"
+        },
+        {
+          "record_index": 636,
+          "Designator": "4",
+          "Name": "2",
+          "Location.X": "860",
+          "Location.Y": "350",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 638,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "870",
+          "Location.Y": "310",
+          "PinLength": "10",
+          "PinConglomerate": "43"
+        },
+        {
+          "record_index": 640,
+          "Designator": "2",
+          "Name": "1",
+          "Location.X": "870",
+          "Location.Y": "310",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        },
+        {
+          "record_index": 642,
+          "Designator": "5",
+          "Name": "3",
+          "Location.X": "850",
+          "Location.Y": "310",
+          "PinLength": "10",
+          "PinConglomerate": "43"
+        },
+        {
+          "record_index": 644,
+          "Designator": "6",
+          "Name": "3",
+          "Location.X": "850",
+          "Location.Y": "310",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SW_MHSS1104",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SW_MHSS1104",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": [
+        [
+          "3",
+          "4"
+        ],
+        [
+          "1",
+          "2"
+        ],
+        [
+          "5",
+          "6"
+        ]
+      ]
+    },
+    {
+      "record_index": 652,
+      "designator": "SW1",
+      "library_reference": "switch top actuated",
+      "unique_id": "XAEVNSRM",
+      "comment": "switch top actuated",
+      "pins": [
+        {
+          "record_index": 659,
+          "Designator": "3",
+          "Name": "2",
+          "Location.X": "100",
+          "Location.Y": "630",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        },
+        {
+          "record_index": 661,
+          "Designator": "4",
+          "Name": "2",
+          "Location.X": "100",
+          "Location.Y": "630",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        },
+        {
+          "record_index": 663,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "140",
+          "Location.Y": "640",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 665,
+          "Designator": "2",
+          "Name": "1",
+          "Location.X": "140",
+          "Location.Y": "640",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        },
+        {
+          "record_index": 667,
+          "Designator": "5",
+          "Name": "3",
+          "Location.X": "140",
+          "Location.Y": "620",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 669,
+          "Designator": "6",
+          "Name": "3",
+          "Location.X": "140",
+          "Location.Y": "620",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SW_MHSS1104",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SW_MHSS1104",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": [
+        [
+          "3",
+          "4"
+        ],
+        [
+          "1",
+          "2"
+        ],
+        [
+          "5",
+          "6"
+        ]
+      ]
+    },
+    {
+      "record_index": 677,
+      "designator": "SW4",
+      "library_reference": "switch top actuated",
+      "unique_id": "YAQLSOHR",
+      "comment": "switch top actuated",
+      "pins": [
+        {
+          "record_index": 684,
+          "Designator": "3",
+          "Name": "2",
+          "Location.X": "580",
+          "Location.Y": "580",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 686,
+          "Designator": "4",
+          "Name": "2",
+          "Location.X": "580",
+          "Location.Y": "580",
+          "PinLength": "10",
+          "PinConglomerate": "42"
+        },
+        {
+          "record_index": 688,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "620",
+          "Location.Y": "590",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 690,
+          "Designator": "2",
+          "Name": "1",
+          "Location.X": "620",
+          "Location.Y": "590",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 692,
+          "Designator": "5",
+          "Name": "3",
+          "Location.X": "620",
+          "Location.Y": "570",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        },
+        {
+          "record_index": 694,
+          "Designator": "6",
+          "Name": "3",
+          "Location.X": "620",
+          "Location.Y": "570",
+          "PinLength": "10",
+          "PinConglomerate": "40"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SW_MHSS1104",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SW_MHSS1104",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": [
+        [
+          "3",
+          "4"
+        ],
+        [
+          "1",
+          "2"
+        ],
+        [
+          "5",
+          "6"
+        ]
+      ]
+    },
+    {
+      "record_index": 702,
+      "designator": "SW3",
+      "library_reference": "switch top actuated",
+      "unique_id": "STMHOVXI",
+      "comment": "Main Flashlight",
+      "pins": [
+        {
+          "record_index": 709,
+          "Designator": "3",
+          "Name": "2",
+          "Location.X": "900",
+          "Location.Y": "670",
+          "PinLength": "10",
+          "PinConglomerate": "41"
+        },
+        {
+          "record_index": 711,
+          "Designator": "4",
+          "Name": "2",
+          "Location.X": "900",
+          "Location.Y": "670",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 713,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "910",
+          "Location.Y": "630",
+          "PinLength": "10",
+          "PinConglomerate": "43"
+        },
+        {
+          "record_index": 715,
+          "Designator": "2",
+          "Name": "1",
+          "Location.X": "910",
+          "Location.Y": "630",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        },
+        {
+          "record_index": 717,
+          "Designator": "5",
+          "Name": "3",
+          "Location.X": "890",
+          "Location.Y": "630",
+          "PinLength": "10",
+          "PinConglomerate": "43"
+        },
+        {
+          "record_index": 719,
+          "Designator": "6",
+          "Name": "3",
+          "Location.X": "890",
+          "Location.Y": "630",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SW_MHSS1104",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SW_MHSS1104",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": [
+        [
+          "3",
+          "4"
+        ],
+        [
+          "1",
+          "2"
+        ],
+        [
+          "5",
+          "6"
+        ]
+      ]
+    },
+    {
+      "record_index": 727,
+      "designator": "TOF400C-Vl53l1x",
+      "library_reference": "PPTC061LFBNRC",
+      "unique_id": "NHMVZWJL",
+      "comment": "J4",
+      "pins": [
+        {
+          "record_index": 740,
+          "Designator": "1",
+          "Name": "SHUT",
+          "Location.X": "340",
+          "Location.Y": "490",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 742,
+          "Designator": "2",
+          "Name": "INT",
+          "Location.X": "340",
+          "Location.Y": "500",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 744,
+          "Designator": "3",
+          "Name": "SCL",
+          "Location.X": "340",
+          "Location.Y": "510",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 746,
+          "Designator": "4",
+          "Name": "SDA",
+          "Location.X": "340",
+          "Location.Y": "520",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 748,
+          "Designator": "5",
+          "Name": "GND",
+          "Location.X": "340",
+          "Location.Y": "530",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 750,
+          "Designator": "6",
+          "Name": "VCC",
+          "Location.X": "340",
+          "Location.Y": "540",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SULLINS_PPTC061LFBN-RC",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SULLINS_PPTC061LFBN-RC",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 763,
+      "designator": "ATGM336h",
+      "library_reference": "5 pin header",
+      "unique_id": "JFJDAOZU",
+      "comment": "ATGM336H",
+      "pins": [
+        {
+          "record_index": 765,
+          "Designator": "01",
+          "Name": "3V3",
+          "Location.X": "670",
+          "Location.Y": "460",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 767,
+          "Designator": "02",
+          "Name": "GND",
+          "Location.X": "670",
+          "Location.Y": "450",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 769,
+          "Designator": "03",
+          "Name": "TX",
+          "Location.X": "670",
+          "Location.Y": "440",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 771,
+          "Designator": "04",
+          "Name": "RX",
+          "Location.X": "670",
+          "Location.Y": "430",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        },
+        {
+          "record_index": 773,
+          "Designator": "05",
+          "Name": "PPS",
+          "Location.X": "670",
+          "Location.Y": "420",
+          "PinLength": "20",
+          "PinConglomerate": "58"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SAMTEC_MTSW-105-07-L-S-240-LL",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SAMTEC_MTSW-105-07-L-S-240-LL",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 786,
+      "designator": "C1",
+      "library_reference": "0_1uF100V_CAP_FA14X7R2A104KNU00",
+      "unique_id": "PHCUFUPV",
+      "comment": "0.1 uF",
+      "pins": [
+        {
+          "record_index": 789,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "500",
+          "Location.Y": "210",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        },
+        {
+          "record_index": 791,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "510",
+          "Location.Y": "210",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "CAPRB250W50L450T300H550",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "CAPRB250W50L450T300H550",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 800,
+      "designator": "R3",
+      "library_reference": "resistor_through_hole",
+      "unique_id": "IWQHGYTK",
+      "comment": "100",
+      "pins": [
+        {
+          "record_index": 810,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "830",
+          "Location.Y": "590",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 812,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "830",
+          "Location.Y": "570",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "RESAD640W45L370D200",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "RESAD640W45L370D200",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 820,
+      "designator": "LED3",
+      "library_reference": "led_through_hole",
+      "unique_id": "LCOOKDMR",
+      "comment": "led_through_hole",
+      "pins": [
+        {
+          "record_index": 832,
+          "Designator": "C",
+          "Name": "C",
+          "Location.X": "830",
+          "Location.Y": "500",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        },
+        {
+          "record_index": 834,
+          "Designator": "A",
+          "Name": "A",
+          "Location.X": "830",
+          "Location.Y": "550",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "LED_WP7113ID",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "LED_WP7113ID",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 843,
+      "designator": "SW2",
+      "library_reference": "switch top actuated",
+      "unique_id": "PXJCZIGG",
+      "comment": "Camera Flashlight",
+      "pins": [
+        {
+          "record_index": 850,
+          "Designator": "3",
+          "Name": "2",
+          "Location.X": "820",
+          "Location.Y": "660",
+          "PinLength": "10",
+          "PinConglomerate": "41"
+        },
+        {
+          "record_index": 852,
+          "Designator": "4",
+          "Name": "2",
+          "Location.X": "820",
+          "Location.Y": "660",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 854,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "830",
+          "Location.Y": "620",
+          "PinLength": "10",
+          "PinConglomerate": "43"
+        },
+        {
+          "record_index": 856,
+          "Designator": "2",
+          "Name": "1",
+          "Location.X": "830",
+          "Location.Y": "620",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        },
+        {
+          "record_index": 858,
+          "Designator": "5",
+          "Name": "3",
+          "Location.X": "810",
+          "Location.Y": "620",
+          "PinLength": "10",
+          "PinConglomerate": "43"
+        },
+        {
+          "record_index": 860,
+          "Designator": "6",
+          "Name": "3",
+          "Location.X": "810",
+          "Location.Y": "620",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "SW_MHSS1104",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "SW_MHSS1104",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": [
+        [
+          "3",
+          "4"
+        ],
+        [
+          "1",
+          "2"
+        ],
+        [
+          "5",
+          "6"
+        ]
+      ]
+    },
+    {
+      "record_index": 877,
+      "designator": "R5",
+      "library_reference": "resistor_through_hole",
+      "unique_id": "BHMEAOLA",
+      "comment": "100k",
+      "pins": [
+        {
+          "record_index": 887,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "190",
+          "Location.Y": "680",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 889,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "190",
+          "Location.Y": "660",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "RESAD640W45L370D200",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "RESAD640W45L370D200",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 897,
+      "designator": "R6",
+      "library_reference": "resistor_through_hole",
+      "unique_id": "DNUNBVPA",
+      "comment": "100k",
+      "pins": [
+        {
+          "record_index": 907,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "220",
+          "Location.Y": "700",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        },
+        {
+          "record_index": 909,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "200",
+          "Location.Y": "700",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "RESAD640W45L370D200",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "RESAD640W45L370D200",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 924,
+      "designator": "T1",
+      "library_reference": "mosfet",
+      "unique_id": "BDHVTSWA",
+      "comment": "2N7000",
+      "pins": [
+        {
+          "record_index": 942,
+          "Designator": "2",
+          "Name": "G",
+          "Location.X": "720",
+          "Location.Y": "590",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        },
+        {
+          "record_index": 944,
+          "Designator": "1",
+          "Name": "D",
+          "Location.X": "740",
+          "Location.Y": "600",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 946,
+          "Designator": "3",
+          "Name": "S",
+          "Location.X": "740",
+          "Location.Y": "580",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "TO92",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "TO92",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 958,
+      "designator": "R7",
+      "library_reference": "resistor_through_hole",
+      "unique_id": "WCAQPKGB",
+      "comment": "100",
+      "pins": [
+        {
+          "record_index": 968,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "690",
+          "Location.Y": "590",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        },
+        {
+          "record_index": 970,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "670",
+          "Location.Y": "590",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "RESAD640W45L370D200",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "RESAD640W45L370D200",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 978,
+      "designator": "R8",
+      "library_reference": "resistor_through_hole",
+      "unique_id": "CSSPSRZE",
+      "comment": "100k",
+      "pins": [
+        {
+          "record_index": 988,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "650",
+          "Location.Y": "570",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 990,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "650",
+          "Location.Y": "550",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "RESAD640W45L370D200",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "RESAD640W45L370D200",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 999,
+      "designator": "C2",
+      "library_reference": "0_1uF100V_CAP_FA14X7R2A104KNU00",
+      "unique_id": "YAPVSZQL",
+      "comment": "0.1 uF",
+      "pins": [
+        {
+          "record_index": 1002,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "700",
+          "Location.Y": "680",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 1004,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "700",
+          "Location.Y": "670",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "CAPRB250W50L450T300H550",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "CAPRB250W50L450T300H550",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 1014,
+      "designator": "C5",
+      "library_reference": "0_1uF100V_CAP_FA14X7R2A104KNU00",
+      "unique_id": "SAMELGNT",
+      "comment": "0.1 uF",
+      "pins": [
+        {
+          "record_index": 1017,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "750",
+          "Location.Y": "340",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        },
+        {
+          "record_index": 1019,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "760",
+          "Location.Y": "340",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "CAPRB250W50L450T300H550",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "CAPRB250W50L450T300H550",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 1028,
+      "designator": "C9",
+      "library_reference": "0_1uF100V_CAP_FA14X7R2A104KNU00",
+      "unique_id": "TGPCLNFY",
+      "comment": "0.1 uF",
+      "pins": [
+        {
+          "record_index": 1031,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "720",
+          "Location.Y": "550",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        },
+        {
+          "record_index": 1033,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "710",
+          "Location.Y": "550",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "CAPRB250W50L450T300H550",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "CAPRB250W50L450T300H550",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 1042,
+      "designator": "C4",
+      "library_reference": "47uF_SMD",
+      "unique_id": "RNMZNLBL",
+      "comment": "47 uF",
+      "pins": [
+        {
+          "record_index": 1050,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "750",
+          "Location.Y": "290",
+          "PinLength": "10",
+          "PinConglomerate": "34"
+        },
+        {
+          "record_index": 1052,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "760",
+          "Location.Y": "290",
+          "PinLength": "10",
+          "PinConglomerate": "32"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "CAP_EEETPV470XAV",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "CAP_EEETPV470XAV",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    },
+    {
+      "record_index": 1060,
+      "designator": "C3",
+      "library_reference": "47uF_SMD",
+      "unique_id": "MVERPCKW",
+      "comment": "47 uF",
+      "pins": [
+        {
+          "record_index": 1068,
+          "Designator": "1",
+          "Name": "1",
+          "Location.X": "650",
+          "Location.Y": "680",
+          "PinLength": "10",
+          "PinConglomerate": "33"
+        },
+        {
+          "record_index": 1070,
+          "Designator": "2",
+          "Name": "2",
+          "Location.X": "650",
+          "Location.Y": "670",
+          "PinLength": "10",
+          "PinConglomerate": "35"
+        }
+      ],
+      "models": [
+        {
+          "ModelName": "CAP_EEETPV470XAV",
+          "ModelType": "PCBLIB",
+          "ModelDatafileEntity0": "CAP_EEETPV470XAV",
+          "IsCurrent": "T"
+        }
+      ],
+      "coincident_pin_groups": []
+    }
+  ],
+  "existing_85_pad_pin_identifier_checks": [
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H123",
+      "pin": "1",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D0"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H124",
+      "pin": "2",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D1"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H125",
+      "pin": "3",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D2"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H126",
+      "pin": "4",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D3"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H127",
+      "pin": "5",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D4"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H128",
+      "pin": "6",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D5"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H129",
+      "pin": "7",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "TX/D6"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H132",
+      "pin": "8",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "RX/D7"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H133",
+      "pin": "9",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D8"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H134",
+      "pin": "10",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D9"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H135",
+      "pin": "11",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "D10"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H136",
+      "pin": "12",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "3V3"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H137",
+      "pin": "13",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "GND"
+    },
+    {
+      "mk3_reference": "M1",
+      "source_hole": "H138",
+      "pin": "14",
+      "schdoc_designator": "Xiao ESP32S3",
+      "pin_present": true,
+      "schdoc_pin_name": "5V"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H111",
+      "pin": "1",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "SCL"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H110",
+      "pin": "2",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "SDA"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H109",
+      "pin": "3",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "A2"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H108",
+      "pin": "4",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "A1"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H107",
+      "pin": "5",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "A0"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H106",
+      "pin": "6",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "*RESET"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H103",
+      "pin": "7",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "NC"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H104",
+      "pin": "8",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "INT"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H105",
+      "pin": "9",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "VSS"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H100",
+      "pin": "10",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "GP0"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H101",
+      "pin": "11",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "GP1"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H102",
+      "pin": "12",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "GP2"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H117",
+      "pin": "13",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "GP3"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H116",
+      "pin": "14",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "GP4"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H115",
+      "pin": "15",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "GP5"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H114",
+      "pin": "16",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "GP6"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H113",
+      "pin": "17",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "GP7"
+    },
+    {
+      "mk3_reference": "U1",
+      "source_hole": "H112",
+      "pin": "18",
+      "schdoc_designator": "MCP23008",
+      "pin_present": true,
+      "schdoc_pin_name": "VDD"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H060",
+      "pin": "1",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "VCC"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H061",
+      "pin": "2",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "RX"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H062",
+      "pin": "3",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "TX"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H063",
+      "pin": "4",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "DAC_R"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H064",
+      "pin": "5",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "DAC_L"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H065",
+      "pin": "6",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "SPK1"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H066",
+      "pin": "7",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "GND"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H067",
+      "pin": "8",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "SPK2"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H052",
+      "pin": "9",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "IO1"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H053",
+      "pin": "10",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "GND"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H054",
+      "pin": "11",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "IO2"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H055",
+      "pin": "12",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "ADKEY1"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H056",
+      "pin": "13",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "ADKEY2"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H057",
+      "pin": "14",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "USB+"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H058",
+      "pin": "15",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "USB-"
+    },
+    {
+      "mk3_reference": "U2",
+      "source_hole": "H059",
+      "pin": "16",
+      "schdoc_designator": "DF PLAYER",
+      "pin_present": true,
+      "schdoc_pin_name": "BUSY"
+    },
+    {
+      "mk3_reference": "U3",
+      "source_hole": "H160",
+      "pin": "01",
+      "schdoc_designator": "ATGM336h",
+      "pin_present": true,
+      "schdoc_pin_name": "3V3"
+    },
+    {
+      "mk3_reference": "U3",
+      "source_hole": "H161",
+      "pin": "02",
+      "schdoc_designator": "ATGM336h",
+      "pin_present": true,
+      "schdoc_pin_name": "GND"
+    },
+    {
+      "mk3_reference": "U3",
+      "source_hole": "H162",
+      "pin": "03",
+      "schdoc_designator": "ATGM336h",
+      "pin_present": true,
+      "schdoc_pin_name": "TX"
+    },
+    {
+      "mk3_reference": "U3",
+      "source_hole": "H163",
+      "pin": "04",
+      "schdoc_designator": "ATGM336h",
+      "pin_present": true,
+      "schdoc_pin_name": "RX"
+    },
+    {
+      "mk3_reference": "U3",
+      "source_hole": "H164",
+      "pin": "05",
+      "schdoc_designator": "ATGM336h",
+      "pin_present": true,
+      "schdoc_pin_name": "PPS"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H121",
+      "pin": "1",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "VIN"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H122",
+      "pin": "2",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "3VO"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H142",
+      "pin": "3",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "GND"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H141",
+      "pin": "4",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "SDA"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H139",
+      "pin": "5",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "SCL"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H140",
+      "pin": "6",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "RST"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H145",
+      "pin": "7",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "ADR"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H144",
+      "pin": "8",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "INT"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H143",
+      "pin": "9",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "PS1"
+    },
+    {
+      "mk3_reference": "U4",
+      "source_hole": "H118",
+      "pin": "10",
+      "schdoc_designator": "BNO055",
+      "pin_present": true,
+      "schdoc_pin_name": "PS0"
+    },
+    {
+      "mk3_reference": "DS",
+      "source_hole": "H149",
+      "pin": "1",
+      "schdoc_designator": "128x64 OLED",
+      "pin_present": true,
+      "schdoc_pin_name": "GND"
+    },
+    {
+      "mk3_reference": "DS",
+      "source_hole": "H148",
+      "pin": "2",
+      "schdoc_designator": "128x64 OLED",
+      "pin_present": true,
+      "schdoc_pin_name": "VCC_IN"
+    },
+    {
+      "mk3_reference": "DS",
+      "source_hole": "H147",
+      "pin": "3",
+      "schdoc_designator": "128x64 OLED",
+      "pin_present": true,
+      "schdoc_pin_name": "SCL"
+    },
+    {
+      "mk3_reference": "DS",
+      "source_hole": "H146",
+      "pin": "4",
+      "schdoc_designator": "128x64 OLED",
+      "pin_present": true,
+      "schdoc_pin_name": "SDA"
+    },
+    {
+      "mk3_reference": "J5",
+      "source_hole": "H174",
+      "pin": "1",
+      "schdoc_designator": "GY-BME280",
+      "pin_present": true,
+      "schdoc_pin_name": "VCC"
+    },
+    {
+      "mk3_reference": "J5",
+      "source_hole": "H173",
+      "pin": "2",
+      "schdoc_designator": "GY-BME280",
+      "pin_present": true,
+      "schdoc_pin_name": "GND"
+    },
+    {
+      "mk3_reference": "J5",
+      "source_hole": "H172",
+      "pin": "3",
+      "schdoc_designator": "GY-BME280",
+      "pin_present": true,
+      "schdoc_pin_name": "SCL"
+    },
+    {
+      "mk3_reference": "J5",
+      "source_hole": "H171",
+      "pin": "4",
+      "schdoc_designator": "GY-BME280",
+      "pin_present": true,
+      "schdoc_pin_name": "SDA"
+    },
+    {
+      "mk3_reference": "J5",
+      "source_hole": "H170",
+      "pin": "5",
+      "schdoc_designator": "GY-BME280",
+      "pin_present": true,
+      "schdoc_pin_name": "CSB"
+    },
+    {
+      "mk3_reference": "J5",
+      "source_hole": "H169",
+      "pin": "6",
+      "schdoc_designator": "GY-BME280",
+      "pin_present": true,
+      "schdoc_pin_name": "SBO"
+    },
+    {
+      "mk3_reference": "J4",
+      "source_hole": "H165",
+      "pin": "1",
+      "schdoc_designator": "TOF400C-Vl53l1x",
+      "pin_present": true,
+      "schdoc_pin_name": "SHUT"
+    },
+    {
+      "mk3_reference": "J4",
+      "source_hole": "H166",
+      "pin": "2",
+      "schdoc_designator": "TOF400C-Vl53l1x",
+      "pin_present": true,
+      "schdoc_pin_name": "INT"
+    },
+    {
+      "mk3_reference": "J4",
+      "source_hole": "H182",
+      "pin": "3",
+      "schdoc_designator": "TOF400C-Vl53l1x",
+      "pin_present": true,
+      "schdoc_pin_name": "SCL"
+    },
+    {
+      "mk3_reference": "J4",
+      "source_hole": "H181",
+      "pin": "4",
+      "schdoc_designator": "TOF400C-Vl53l1x",
+      "pin_present": true,
+      "schdoc_pin_name": "SDA"
+    },
+    {
+      "mk3_reference": "J4",
+      "source_hole": "H180",
+      "pin": "5",
+      "schdoc_designator": "TOF400C-Vl53l1x",
+      "pin_present": true,
+      "schdoc_pin_name": "GND"
+    },
+    {
+      "mk3_reference": "J4",
+      "source_hole": "H179",
+      "pin": "6",
+      "schdoc_designator": "TOF400C-Vl53l1x",
+      "pin_present": true,
+      "schdoc_pin_name": "VCC"
+    },
+    {
+      "mk3_reference": "J1",
+      "source_hole": "H175",
+      "pin": "1",
+      "schdoc_designator": "J1",
+      "pin_present": true,
+      "schdoc_pin_name": "1"
+    },
+    {
+      "mk3_reference": "J1",
+      "source_hole": "H176",
+      "pin": "2",
+      "schdoc_designator": "J1",
+      "pin_present": true,
+      "schdoc_pin_name": "2"
+    },
+    {
+      "mk3_reference": "J2",
+      "source_hole": "H168",
+      "pin": "1",
+      "schdoc_designator": "J2",
+      "pin_present": true,
+      "schdoc_pin_name": "1"
+    },
+    {
+      "mk3_reference": "J2",
+      "source_hole": "H167",
+      "pin": "2",
+      "schdoc_designator": "J2",
+      "pin_present": true,
+      "schdoc_pin_name": "2"
+    },
+    {
+      "mk3_reference": "J3",
+      "source_hole": "H177",
+      "pin": "1",
+      "schdoc_designator": "J3",
+      "pin_present": true,
+      "schdoc_pin_name": "1"
+    },
+    {
+      "mk3_reference": "J3",
+      "source_hole": "H178",
+      "pin": "2",
+      "schdoc_designator": "J3",
+      "pin_present": true,
+      "schdoc_pin_name": "2"
+    }
+  ],
+  "comparison_limit": "Pin identifiers exist in corresponding symbols; this does not validate their PCB hole assignment or electrical nets."
+}

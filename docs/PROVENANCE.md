@@ -9,3 +9,5 @@ Reconstruction scripts and review artifacts were created for this Kerf_Boy redes
 The folder/documentation pattern was reviewed from Kerf_Keeb at commit `0e7bc4e28e043792561a5bba7747224009612e2a`. No keyboard hardware or firmware was copied into this project.
 
 Reports under `docs/reports/` are dated engineering records and may contain historical local source paths. `docs/PRODUCTION_READINESS.md` is the current status index. `docs/history/` contains superseded research, not adopted component choices.
+
+The user subsequently supplied CHIPBOY_Mk_II.SchDoc on 2026-11-03. It is preserved separately under hardware/reference/supplemental/, with its hash in supplemental-schdoc-inventory.json. It is not included in the original 50-file manifest. Mk III equivalence is unverified.
