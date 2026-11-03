@@ -18,6 +18,10 @@ def main():
  held=read('remaining-footprint-checks.json');check(held['all_component_round_holes_accounted']==138 and held['small_unassigned_via_candidates']==51,'Hole accounting mismatch')
  roundtrip=read('independent-footprint-verification.json');check(roundtrip['footprints']==24 and roundtrip['round_pads']==138 and roundtrip['routed_slots']==2 and not roundtrip['errors'],'Recorded independent CAD check failed')
  for folder,n in [('OriginalCarrier.pretty',11),('UnresolvedOriginal.pretty',13)]:check(len(list((DATA/folder).glob('*.kicad_mod')))==n,f'Wrong footprint count: {folder}')
+ copper=read('four-layer-connectivity-check.json')
+ check(not copper['conflicts'] and len(copper['known_power_anchor_checks'])==9 and all(r['pass'] for r in copper['known_power_anchor_checks']),'Copper anchor checks failed')
+ source=ROOT/'hardware/reference/original/Project Outputs/Project Outputs for CHIP_BOY_Mk_III'
+ for ext,digest in copper['source_sha256'].items():check(hashlib.sha256((source/f'CHIPBOY_Mk_III.{ext}').read_bytes()).hexdigest()==digest,f'Copper trace source mismatch: {ext}')
  for p in (ROOT/'scripts').glob('*.py'):
   try:ast.parse(p.read_text(encoding='utf-8-sig'))
   except SyntaxError as e:errors.append(f'{p.name}: {e}')

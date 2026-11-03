@@ -666,11 +666,11 @@
     }
   ],
   "hold_reasons": [
-    "Six-lead switches are represented by three-terminal symbols; unused-pole pad numbers not recoverable from drawings alone.",
-    "Two-pin audio footprint cannot conclusively be assigned to LS1 or BZ1 from supplied assembly annotations.",
-    "LED electrical pin numbers/polarity must be traced to original netlist or checked on original hardware.",
-    "B0/B1 contact grouping needs copper/net continuity review; component-native pad numbering absent.",
-    "Encoder electrical labels and shield pad-number assignment require final continuity check.",
-    "B2 is a surface-mount navigation switch with two non-plated locating holes; reconstruction above preserves locating holes only, not its six surface-mount pads."
+    "Six-lead switches use three-terminal schematic symbols; native numbering and H098 partial plane coverage remain unresolved.",
+    "Copper tracing supports BZ1 identity; exact component numbering and symbol binding remain unverified.",
+    "LED ground terminals have trace evidence; native numbering and physical polarity remain unverified.",
+    "B0/B1 contact grouping has copper evidence; native numbering remains unverified.",
+    "Encoder contact functions have copper evidence; native numbering and shield assignment remain unverified.",
+    "Navigation switch SMD contacts are not reconstructed by the two locating holes."
   ]
 }

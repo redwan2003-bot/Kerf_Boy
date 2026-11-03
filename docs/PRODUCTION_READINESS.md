@@ -6,7 +6,7 @@
 |---|---|---|
 | 1. Source audit | Complete with findings | 50 original hashes; source discrepancies recorded. |
 | 2. Digital mechanical reference | Verified with limits | Repaired drafting gaps; no physical fit test or verified EasyEDA import. |
-| 3. Component/footprint reconstruction | Incomplete | 24 geometry groups; 85 reconstructed pad mappings; held electrical identities remain. |
+| 3. Component/footprint reconstruction | Incomplete | 24 geometry groups; 85 reconstructed pad mappings; copper tracing added; native pin identities and EasyEDA verification remain. |
 | 4. Power and GPIO architecture | Pending | Battery ratings, microSD pin conflicts, BNO055 interface and concurrent load budget. |
 | 5. Schematic | Pending | Native capture and full symbol/footprint binding; ERC not run. |
 | 6. PCB | Pending | Placement, routing, real stackup, meaningful rules and DRC. |
@@ -16,9 +16,10 @@
 ## Electrical holds
 
 - Six-lead switches use three-terminal symbols; second-pole numbering is not established.
-- Encoder contact and shield-number verification remains unfinished.
-- LED terminal numbering/polarity and tactile-button contact grouping need verification.
-- The two-pin audio region cannot conclusively be assigned to LS1 or BZ1 from the supplied annotations.
+- Encoder contact functions have copper-trace evidence; exact contact/shield pad numbering still needs verification.
+- LED ground-side terminals and tactile-button contact groups now have copper-trace evidence. Exact component-native numbering remains unverified.
+- The two-pin audio region traces to the buzzer switch and ground, supporting BZ1 rather than LS1. Symbol binding and physical part verification remain pending.
+- S2 hole H098 has partial internal-plane ring coverage. It must not be declared disconnected or assigned by copying the other switches.
 - Navigation-switch SMD pads remain outside the through-hole reconstruction.
 - Original native CAD/netlist equivalence is unavailable; the supplied schematic and manufacturing-output dates differ.
 
@@ -27,3 +28,5 @@
 Matching native Altium files or an original pin/net list can resolve identities. Manufacturer drawings, copper-connectivity reconstruction and actual continuity/polarity checks are alternatives. Physical tests have not been performed. Keep the exact original through-hole parts; no alternate module has been adopted.
 
 The successful geometry comparison measures conversion fidelity, not electrical function, fabrication tolerance or industrial qualification. See the [full report](reports/complete-reconstruction-report.pdf).
+
+The [Step 3 copper-trace addendum](reports/step-3-copper-verification.md) supersedes the historical report on these specific connectivity findings. It does not close Step 3.

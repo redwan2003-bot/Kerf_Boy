@@ -1,0 +1,810 @@
+{
+  "scope": "Positive external GTL/GBL copper only; joins plated drill positions; excludes internal planes and component-internal connections. Absence of a link is not proof of NC.",
+  "groups": [
+    {
+      "holes": [
+        "H001",
+        "H116"
+      ],
+      "anchor_nets": [
+        "GP4"
+      ]
+    },
+    {
+      "holes": [
+        "H002"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H003",
+        "H117"
+      ],
+      "anchor_nets": [
+        "GP3"
+      ]
+    },
+    {
+      "holes": [
+        "H004",
+        "H115"
+      ],
+      "anchor_nets": [
+        "GP5"
+      ]
+    },
+    {
+      "holes": [
+        "H005",
+        "H006",
+        "H101",
+        "H153",
+        "H154"
+      ],
+      "anchor_nets": [
+        "GP1"
+      ]
+    },
+    {
+      "holes": [
+        "H007",
+        "H102"
+      ],
+      "anchor_nets": [
+        "GP2"
+      ]
+    },
+    {
+      "holes": [
+        "H008",
+        "H114"
+      ],
+      "anchor_nets": [
+        "GP6"
+      ]
+    },
+    {
+      "holes": [
+        "H009",
+        "H019",
+        "H022",
+        "H023",
+        "H024",
+        "H035",
+        "H037",
+        "H038",
+        "H041",
+        "H043",
+        "H111",
+        "H124",
+        "H139",
+        "H147",
+        "H172",
+        "H181"
+      ],
+      "anchor_nets": [
+        "SCL"
+      ]
+    },
+    {
+      "holes": [
+        "H010",
+        "H077",
+        "H080",
+        "H125"
+      ],
+      "anchor_nets": [
+        "D2"
+      ]
+    },
+    {
+      "holes": [
+        "H011",
+        "H020",
+        "H067"
+      ],
+      "anchor_nets": [
+        "SPK2"
+      ]
+    },
+    {
+      "holes": [
+        "H012",
+        "H021",
+        "H133",
+        "H183"
+      ],
+      "anchor_nets": [
+        "D8"
+      ]
+    },
+    {
+      "holes": [
+        "H013",
+        "H016",
+        "H017",
+        "H065"
+      ],
+      "anchor_nets": [
+        "SPK1"
+      ]
+    },
+    {
+      "holes": [
+        "H014",
+        "H026",
+        "H104",
+        "H129"
+      ],
+      "anchor_nets": [
+        "D6"
+      ]
+    },
+    {
+      "holes": [
+        "H015",
+        "H132",
+        "H185"
+      ],
+      "anchor_nets": [
+        "D7"
+      ]
+    },
+    {
+      "holes": [
+        "H018",
+        "H025",
+        "H030",
+        "H031",
+        "H036",
+        "H042",
+        "H044",
+        "H110",
+        "H123",
+        "H141",
+        "H146",
+        "H171",
+        "H182"
+      ],
+      "anchor_nets": [
+        "SDA"
+      ]
+    },
+    {
+      "holes": [
+        "H027",
+        "H028",
+        "H039",
+        "H113",
+        "H187"
+      ],
+      "anchor_nets": [
+        "GP7"
+      ]
+    },
+    {
+      "holes": [
+        "H029",
+        "H068",
+        "H076",
+        "H081"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H032"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H033"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H034"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H040"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H045"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H046"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H047"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H048"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H049",
+        "H060",
+        "H070",
+        "H075",
+        "H167"
+      ],
+      "anchor_nets": [
+        "VCC"
+      ]
+    },
+    {
+      "holes": [
+        "H050",
+        "H168",
+        "H176"
+      ],
+      "anchor_nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H051"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H052"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H053"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H054"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H055"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H056"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H057"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H058"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H059"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H061"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H062",
+        "H135"
+      ],
+      "anchor_nets": [
+        "D10"
+      ]
+    },
+    {
+      "holes": [
+        "H063"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H064"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H066"
+      ],
+      "anchor_nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H069"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H071",
+        "H074",
+        "H175"
+      ],
+      "anchor_nets": [
+        "BAT+"
+      ]
+    },
+    {
+      "holes": [
+        "H072",
+        "H073"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H078",
+        "H079"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H082",
+        "H087"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H083"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H084",
+        "H085"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H086"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H088",
+        "H093"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H089"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H090",
+        "H091"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H092"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H094",
+        "H099"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H095"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H096",
+        "H097"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H098"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H100",
+        "H156",
+        "H159"
+      ],
+      "anchor_nets": [
+        "GP0"
+      ]
+    },
+    {
+      "holes": [
+        "H103"
+      ],
+      "anchor_nets": [
+        "D6"
+      ]
+    },
+    {
+      "holes": [
+        "H105"
+      ],
+      "anchor_nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H106"
+      ],
+      "anchor_nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H107"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H108"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H109"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H112"
+      ],
+      "anchor_nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H118"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H119"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H120"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H121"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H122"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H126"
+      ],
+      "anchor_nets": [
+        "D3"
+      ]
+    },
+    {
+      "holes": [
+        "H127",
+        "H163"
+      ],
+      "anchor_nets": [
+        "D4"
+      ]
+    },
+    {
+      "holes": [
+        "H128",
+        "H162"
+      ],
+      "anchor_nets": [
+        "D5"
+      ]
+    },
+    {
+      "holes": [
+        "H130"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H131"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H134"
+      ],
+      "anchor_nets": [
+        "D9"
+      ]
+    },
+    {
+      "holes": [
+        "H136"
+      ],
+      "anchor_nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H137"
+      ],
+      "anchor_nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H138"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H140"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H142"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H143"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H144"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H145"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H148"
+      ],
+      "anchor_nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H149"
+      ],
+      "anchor_nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H150"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H151"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H152"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H155"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H157"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H158"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H160"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H161"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H164"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H165"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H166"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H169"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H170"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H173"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H174"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H177"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H178"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H179"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H180"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H184"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H186"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H188"
+      ],
+      "anchor_nets": []
+    },
+    {
+      "holes": [
+        "H189"
+      ],
+      "anchor_nets": []
+    }
+  ],
+  "anchor_conflicts": [],
+  "polygons_per_layer": {
+    "GTL": 159,
+    "GBL": 146
+  }
+}

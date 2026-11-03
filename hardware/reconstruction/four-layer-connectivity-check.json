@@ -1,0 +1,4555 @@
+{
+  "scope": "Original external copper plus negative internal plane clearance-ring sampling; 16 samples 0.04 mm outside each plated drill. Not component internal continuity or manufacturer numbering verification.",
+  "known_power_anchor_checks": [
+    {
+      "hole": "H136",
+      "expected": "3V3",
+      "pass": true,
+      "samples": {
+        "GP1": 0,
+        "GP2": 16
+      }
+    },
+    {
+      "hole": "H137",
+      "expected": "GND",
+      "pass": true,
+      "samples": {
+        "GP1": 16,
+        "GP2": 0
+      }
+    },
+    {
+      "hole": "H168",
+      "expected": "GND",
+      "pass": true,
+      "samples": {
+        "GP1": 16,
+        "GP2": 0
+      }
+    },
+    {
+      "hole": "H149",
+      "expected": "GND",
+      "pass": true,
+      "samples": {
+        "GP1": 16,
+        "GP2": 0
+      }
+    },
+    {
+      "hole": "H148",
+      "expected": "3V3",
+      "pass": true,
+      "samples": {
+        "GP1": 0,
+        "GP2": 16
+      }
+    },
+    {
+      "hole": "H112",
+      "expected": "3V3",
+      "pass": true,
+      "samples": {
+        "GP1": 0,
+        "GP2": 16
+      }
+    },
+    {
+      "hole": "H105",
+      "expected": "GND",
+      "pass": true,
+      "samples": {
+        "GP1": 16,
+        "GP2": 0
+      }
+    },
+    {
+      "hole": "H106",
+      "expected": "3V3",
+      "pass": true,
+      "samples": {
+        "GP1": 0,
+        "GP2": 16
+      }
+    },
+    {
+      "hole": "H066",
+      "expected": "GND",
+      "pass": true,
+      "samples": {
+        "GP1": 16,
+        "GP2": 0
+      }
+    }
+  ],
+  "plane_samples": [
+    {
+      "hole": "H001",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H002",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H003",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H004",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H005",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H006",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H007",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H008",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H009",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H010",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H011",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H012",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H013",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H014",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H015",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H016",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H017",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H018",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H019",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H020",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H021",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H022",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H023",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H024",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H025",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H026",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H027",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H028",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H029",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H030",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H031",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H032",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H033",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H034",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H035",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H036",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H037",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H038",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H039",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H040",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H041",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H042",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H043",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H044",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H045",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H046",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H047",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H048",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H049",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H050",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H051",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H052",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H053",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H054",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H055",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H056",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H057",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H058",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H059",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H060",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H061",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H062",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H063",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H064",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H065",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H066",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H067",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H068",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H069",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H070",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H071",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H072",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H073",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H074",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H075",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H076",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H077",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H078",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H079",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H080",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H081",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H082",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H083",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H084",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H085",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H086",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H087",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H088",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H089",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H090",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H091",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H092",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H093",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H094",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H095",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H096",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H097",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H098",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 13
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          13,
+          13,
+          11
+        ]
+      }
+    },
+    {
+      "hole": "H099",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H100",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H101",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H102",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H103",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H104",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H105",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H106",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H107",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H108",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H109",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H110",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H111",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H112",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H113",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H114",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H115",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H116",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H117",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H118",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H119",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H120",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H121",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H122",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H123",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H124",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H125",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H126",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H127",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H128",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H129",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H130",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H131",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H132",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H133",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H134",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H135",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H136",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H137",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H138",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H139",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H140",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H141",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H142",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H143",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H144",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H145",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H146",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H147",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H148",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H149",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H150",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H151",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H152",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H153",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H154",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H155",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H156",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H157",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H158",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H159",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H160",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H161",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H162",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H163",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H164",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H165",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H166",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H167",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H168",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H169",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H170",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H171",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H172",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H173",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H174",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H175",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H176",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H177",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 16
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          16,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "hole": "H178",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H179",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H180",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H181",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H182",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H183",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H184",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H185",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H186",
+      "copper_samples_of_16": {
+        "GP1": 16,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          16,
+          16,
+          16
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "hole": "H187",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 0
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  ],
+  "groups": [
+    {
+      "holes": [
+        "H001",
+        "H116"
+      ],
+      "nets": [
+        "GP4"
+      ]
+    },
+    {
+      "holes": [
+        "H002"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H003",
+        "H117"
+      ],
+      "nets": [
+        "GP3"
+      ]
+    },
+    {
+      "holes": [
+        "H004",
+        "H115"
+      ],
+      "nets": [
+        "GP5"
+      ]
+    },
+    {
+      "holes": [
+        "H005",
+        "H006",
+        "H101",
+        "H153",
+        "H154"
+      ],
+      "nets": [
+        "GP1"
+      ]
+    },
+    {
+      "holes": [
+        "H007",
+        "H102"
+      ],
+      "nets": [
+        "GP2"
+      ]
+    },
+    {
+      "holes": [
+        "H008",
+        "H114"
+      ],
+      "nets": [
+        "GP6"
+      ]
+    },
+    {
+      "holes": [
+        "H009",
+        "H019",
+        "H022",
+        "H023",
+        "H024",
+        "H035",
+        "H037",
+        "H038",
+        "H041",
+        "H043",
+        "H111",
+        "H124",
+        "H139",
+        "H147",
+        "H172",
+        "H181"
+      ],
+      "nets": [
+        "SCL"
+      ]
+    },
+    {
+      "holes": [
+        "H010",
+        "H077",
+        "H080",
+        "H125"
+      ],
+      "nets": [
+        "D2"
+      ]
+    },
+    {
+      "holes": [
+        "H011",
+        "H020",
+        "H067"
+      ],
+      "nets": [
+        "SPK2"
+      ]
+    },
+    {
+      "holes": [
+        "H012",
+        "H021",
+        "H133",
+        "H183"
+      ],
+      "nets": [
+        "D8"
+      ]
+    },
+    {
+      "holes": [
+        "H013",
+        "H016",
+        "H017",
+        "H065"
+      ],
+      "nets": [
+        "SPK1"
+      ]
+    },
+    {
+      "holes": [
+        "H014",
+        "H026",
+        "H104",
+        "H129"
+      ],
+      "nets": [
+        "D6"
+      ]
+    },
+    {
+      "holes": [
+        "H015",
+        "H132",
+        "H185"
+      ],
+      "nets": [
+        "D7"
+      ]
+    },
+    {
+      "holes": [
+        "H018",
+        "H025",
+        "H030",
+        "H031",
+        "H036",
+        "H042",
+        "H044",
+        "H110",
+        "H123",
+        "H141",
+        "H146",
+        "H171",
+        "H182"
+      ],
+      "nets": [
+        "SDA"
+      ]
+    },
+    {
+      "holes": [
+        "H027",
+        "H028",
+        "H039",
+        "H113",
+        "H187"
+      ],
+      "nets": [
+        "GP7"
+      ]
+    },
+    {
+      "holes": [
+        "H029",
+        "H068",
+        "H076",
+        "H081"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H032"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H033"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H034"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H040"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H045"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H046"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H047"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H048"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H049",
+        "H060",
+        "H070",
+        "H075",
+        "H167"
+      ],
+      "nets": [
+        "VCC"
+      ]
+    },
+    {
+      "holes": [
+        "H050",
+        "H168",
+        "H176"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H051"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H052"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H053"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H054"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H055"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H056"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H057"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H058"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H059"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H061"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H062",
+        "H135"
+      ],
+      "nets": [
+        "D10"
+      ]
+    },
+    {
+      "holes": [
+        "H063"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H064"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H066"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H069"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H071",
+        "H074",
+        "H175"
+      ],
+      "nets": [
+        "BAT+"
+      ]
+    },
+    {
+      "holes": [
+        "H072",
+        "H073"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H078",
+        "H079"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H082",
+        "H087"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H083"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H084",
+        "H085"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H086"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H088",
+        "H093"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H089"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H090",
+        "H091"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H092"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H094",
+        "H099"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H095"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H096",
+        "H097"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H098"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H100",
+        "H156",
+        "H159"
+      ],
+      "nets": [
+        "GP0"
+      ]
+    },
+    {
+      "holes": [
+        "H103"
+      ],
+      "nets": [
+        "D6"
+      ]
+    },
+    {
+      "holes": [
+        "H105"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H106"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H107"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H108"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H109"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H112"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H118"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H119"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H120"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H121"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H122"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H126"
+      ],
+      "nets": [
+        "D3"
+      ]
+    },
+    {
+      "holes": [
+        "H127",
+        "H163"
+      ],
+      "nets": [
+        "D4"
+      ]
+    },
+    {
+      "holes": [
+        "H128",
+        "H162"
+      ],
+      "nets": [
+        "D5"
+      ]
+    },
+    {
+      "holes": [
+        "H130"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H131"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H134"
+      ],
+      "nets": [
+        "D9"
+      ]
+    },
+    {
+      "holes": [
+        "H136"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H137"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H138"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H140"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H142"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H143"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H144"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H145"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H148"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H149"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H150"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H151"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H152"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H155"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H157"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H158"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H160"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H161"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H164"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H165"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H166"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H169"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H170"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H173"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H174"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H177"
+      ],
+      "nets": [
+        "3V3"
+      ]
+    },
+    {
+      "holes": [
+        "H178"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H179"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H180"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H184"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H186"
+      ],
+      "nets": [
+        "GND"
+      ]
+    },
+    {
+      "holes": [
+        "H188"
+      ],
+      "nets": []
+    },
+    {
+      "holes": [
+        "H189"
+      ],
+      "nets": []
+    }
+  ],
+  "conflicts": [],
+  "sampling_sensitivity_holes": [
+    {
+      "hole": "H098",
+      "copper_samples_of_16": {
+        "GP1": 0,
+        "GP2": 13
+      },
+      "samples_at_offsets_002_004_006_mm": {
+        "GP1": [
+          0,
+          0,
+          0
+        ],
+        "GP2": [
+          13,
+          13,
+          11
+        ]
+      }
+    }
+  ],
+  "source_sha256": {
+    "GTL": "1fe70fdacf740bf136e7c3ea3ff686855db85711fcea1a13bee41be31e8371b2",
+    "GBL": "e070ac917dc9e7980d9654134b62dae4e29a87633ba09b7b09e0589a4753f4a7",
+    "GP1": "2603780d517c5433801c8927afeb6ef8c77a70dbeaedf79e202d72e9af481413",
+    "GP2": "41c2692dbf6891bc8fea782e6a0d5c6f7bf101a802e28702766658bb2c2edd45"
+  },
+  "limitations": [
+    "No net label means unresolved, not isolated or NC.",
+    "Partial ring coverage requires thermal/clearance inspection; H098 is unresolved.",
+    "Only local plane copper is sampled; global plane continuity is not established.",
+    "Exact component numbering and component-internal connections are not reconstructed."
+  ]
+}

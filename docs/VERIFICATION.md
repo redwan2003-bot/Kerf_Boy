@@ -37,3 +37,13 @@ Scripts use repository-relative paths. No local package cache or Python environm
 ## Future updates
 
 Update the relevant files, README/status and CHANGELOG together. Run applicable checks, commit and push to `https://github.com/redwan2003-bot/Kerf_Boy.git`, then verify the remote commit. Never force-push to bypass concurrent changes.
+
+## Source copper tracing
+
+With the dependencies in `scripts/requirements.txt` installed:
+
+```sh
+python scripts/trace_external_copper.py
+```
+
+This source-specific parser joins GTL/GBL copper at plated holes and samples negative GP1/GP2 clearance geometry at 16 angular positions, at three offsets from the drill edge (0.02, 0.04 and 0.06 mm). It checks nine known power anchors and rejects conflicting anchored nets. The outputs include source hashes and a sensitivity list. It does not establish global internal-plane connectivity or assign manufacturer pin numbers. Missing labels and partial coverage are unresolved, not proof of no connection. See the [findings](reports/step-3-copper-verification.md).
