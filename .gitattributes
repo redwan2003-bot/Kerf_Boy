@@ -9,3 +9,8 @@ hardware/reference/original/** -text
 # Preserve CAD line-type text and immutable upstream whitespace.
 *.dxf -whitespace
 hardware/reference/original/** -whitespace
+
+# Preserve exact native CAD evidence bytes and archives.
+*.esch -text
+*.epcb -text
+*.epro2 binary

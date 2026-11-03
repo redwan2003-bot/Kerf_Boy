@@ -1,0 +1,2250 @@
+{
+  "archive_sha256": "64c3b80c32320eae34b614b023ad03b4cbcde781ed30d7d127b3c8f00cca542d",
+  "pads_checked": 140,
+  "tolerance_mm": 0.0003,
+  "max_dimension_difference_mm": 6.400000103212733e-07,
+  "errors": [],
+  "checks": [
+    {
+      "pad": "1",
+      "position_mm": [
+        37.39900064,
+        49.33700064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        37.39900064,
+        46.79700063999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "3",
+      "position_mm": [
+        37.39900064,
+        44.257000639999994
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "4",
+      "position_mm": [
+        37.39900064,
+        41.717000639999995
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "5",
+      "position_mm": [
+        37.39900064,
+        39.177000639999996
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "6",
+      "position_mm": [
+        37.39900064,
+        36.63700064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "7",
+      "position_mm": [
+        37.39900064,
+        34.09700064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "8",
+      "position_mm": [
+        22.15900064,
+        34.09700064
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "9",
+      "position_mm": [
+        22.15900064,
+        36.63700064
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "10",
+      "position_mm": [
+        22.15900064,
+        39.177000639999996
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "11",
+      "position_mm": [
+        22.15900064,
+        41.717000639999995
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "12",
+      "position_mm": [
+        22.15900064,
+        44.257000639999994
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "13",
+      "position_mm": [
+        22.15900064,
+        46.79700063999999
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "14",
+      "position_mm": [
+        22.15900064,
+        49.33700064
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        107.75700064,
+        41.59000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        107.75700064,
+        44.13000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "3",
+      "position_mm": [
+        107.75700064,
+        46.67000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "4",
+      "position_mm": [
+        107.75700064,
+        49.21000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "5",
+      "position_mm": [
+        107.75700064,
+        51.750000639999996
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "6",
+      "position_mm": [
+        107.75700064,
+        54.29000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "7",
+      "position_mm": [
+        107.75700064,
+        56.83000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "8",
+      "position_mm": [
+        107.75700064,
+        59.37000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "9",
+      "position_mm": [
+        107.75700064,
+        61.91000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "10",
+      "position_mm": [
+        100.13700064,
+        61.91000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "11",
+      "position_mm": [
+        100.13700064,
+        59.37000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "12",
+      "position_mm": [
+        100.13700064,
+        56.83000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "13",
+      "position_mm": [
+        100.13700064,
+        54.29000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "14",
+      "position_mm": [
+        100.13700064,
+        51.750000639999996
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "15",
+      "position_mm": [
+        100.13700064,
+        49.21000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "16",
+      "position_mm": [
+        100.13700064,
+        46.67000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "17",
+      "position_mm": [
+        100.13700064,
+        44.13000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "18",
+      "position_mm": [
+        100.13700064,
+        41.59000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        38.54200064,
+        60.259000640000004
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        38.54200064,
+        62.79900064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "3",
+      "position_mm": [
+        38.54200064,
+        65.33900064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "4",
+      "position_mm": [
+        38.54200064,
+        67.87900064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "5",
+      "position_mm": [
+        38.54200064,
+        70.41900064000001
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "6",
+      "position_mm": [
+        38.54200064,
+        72.95900064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "7",
+      "position_mm": [
+        38.54200064,
+        75.49900064
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "8",
+      "position_mm": [
+        38.54200064,
+        78.03900064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "9",
+      "position_mm": [
+        56.576000640000004,
+        78.03900064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "10",
+      "position_mm": [
+        56.576000640000004,
+        75.49900064
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "11",
+      "position_mm": [
+        56.576000640000004,
+        72.95900064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "12",
+      "position_mm": [
+        56.576000640000004,
+        70.41900064000001
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "13",
+      "position_mm": [
+        56.576000640000004,
+        67.87900064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "14",
+      "position_mm": [
+        56.576000640000004,
+        65.33900064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "15",
+      "position_mm": [
+        56.576000640000004,
+        62.79900064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "16",
+      "position_mm": [
+        56.576000640000004,
+        60.259000640000004
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "01",
+      "position_mm": [
+        24.701032639999998,
+        60.66438464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "02",
+      "position_mm": [
+        27.24103264,
+        60.66438464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "03",
+      "position_mm": [
+        29.78103264,
+        60.66438464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "04",
+      "position_mm": [
+        32.32103264,
+        60.66438464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "05",
+      "position_mm": [
+        34.86103264,
+        60.66438464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        79.94400064,
+        58.60800064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        79.94400064,
+        56.06800064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "3",
+      "position_mm": [
+        79.94400064,
+        53.52800064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "4",
+      "position_mm": [
+        79.94400064,
+        50.98800064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "5",
+      "position_mm": [
+        79.94400064,
+        48.448000640000004
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "6",
+      "position_mm": [
+        79.94400064,
+        45.908000640000004
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "7",
+      "position_mm": [
+        97.72400064,
+        48.448000640000004
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "8",
+      "position_mm": [
+        97.72400064,
+        50.98800064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "9",
+      "position_mm": [
+        97.72400064,
+        53.52800064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "10",
+      "position_mm": [
+        97.72400064,
+        56.06800064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        85.40500064,
+        39.43100063999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        87.94500064,
+        39.43100063999999
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "3",
+      "position_mm": [
+        90.48500064,
+        39.43100063999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "4",
+      "position_mm": [
+        93.02500064,
+        39.43100063999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        54.54603264,
+        41.106384639999995
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        52.00603264,
+        41.106384639999995
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "3",
+      "position_mm": [
+        49.46603264,
+        41.106384639999995
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "4",
+      "position_mm": [
+        46.92603264,
+        41.106384639999995
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "5",
+      "position_mm": [
+        44.38603264,
+        41.106384639999995
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "6",
+      "position_mm": [
+        41.84603264,
+        41.106384639999995
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        110.42400064,
+        58.100000640000005
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        110.42400064,
+        55.56000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "3",
+      "position_mm": [
+        110.42400064,
+        53.02000064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "4",
+      "position_mm": [
+        110.42400064,
+        50.48000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "5",
+      "position_mm": [
+        110.42400064,
+        47.94000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "6",
+      "position_mm": [
+        110.42400064,
+        45.40000064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        71.56200064,
+        35.748000639999994
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        71.56200064,
+        33.208000639999995
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        38.66900063999999,
+        26.350000639999998
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        38.66900063999999,
+        28.890000639999997
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "1",
+      "position_mm": [
+        71.56200064,
+        29.652000639999997
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "2",
+      "position_mm": [
+        71.56200064,
+        27.112000639999998
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H183",
+      "position_mm": [
+        61.314878639999996,
+        53.154112639999994
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H184",
+      "position_mm": [
+        63.81500063999999,
+        53.154112639999994
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H185",
+      "position_mm": [
+        66.31486863999999,
+        53.154112639999994
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H187",
+      "position_mm": [
+        61.314878639999996,
+        38.65401464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H186",
+      "position_mm": [
+        66.31486863999999,
+        38.65401464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "SLOT1",
+      "position_mm": [
+        58.21506263999999,
+        45.65400064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "SLOT",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "SLOT2",
+      "position_mm": [
+        69.41493864,
+        45.65400064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "SLOT",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H070",
+      "position_mm": [
+        62.45813264,
+        77.35294664
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H071",
+      "position_mm": [
+        64.95800064,
+        77.35294664
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H072",
+      "position_mm": [
+        67.45786864,
+        77.35294664
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H073",
+      "position_mm": [
+        67.45786864,
+        74.15305464
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H074",
+      "position_mm": [
+        64.95800064,
+        74.15305464
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H075",
+      "position_mm": [
+        62.45813264,
+        74.15305464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H076",
+      "position_mm": [
+        62.45813264,
+        71.00294663999999
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H077",
+      "position_mm": [
+        64.95800064,
+        71.00294663999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H078",
+      "position_mm": [
+        67.45786864,
+        71.00294663999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H079",
+      "position_mm": [
+        67.45786864,
+        67.80305464
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H080",
+      "position_mm": [
+        64.95800064,
+        67.80305464
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H081",
+      "position_mm": [
+        62.45813264,
+        67.80305464
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H082",
+      "position_mm": [
+        62.45813264,
+        64.77994663999999
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H083",
+      "position_mm": [
+        64.95800064,
+        64.77994663999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H084",
+      "position_mm": [
+        67.45786864,
+        64.77994663999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H085",
+      "position_mm": [
+        67.45786864,
+        61.58005463999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H086",
+      "position_mm": [
+        64.95800064,
+        61.58005463999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H087",
+      "position_mm": [
+        62.45813264,
+        61.58005463999999
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H088",
+      "position_mm": [
+        62.45813264,
+        58.55694663999999
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H089",
+      "position_mm": [
+        64.95800064,
+        58.55694663999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H090",
+      "position_mm": [
+        67.45786864,
+        58.55694663999999
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H091",
+      "position_mm": [
+        67.45786864,
+        55.357054639999994
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H092",
+      "position_mm": [
+        64.95800064,
+        55.357054639999994
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H093",
+      "position_mm": [
+        62.45813264,
+        55.357054639999994
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H094",
+      "position_mm": [
+        28.344154639999996,
+        30.260584639999998
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H095",
+      "position_mm": [
+        25.844032639999995,
+        30.260584639999998
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H096",
+      "position_mm": [
+        23.344164639999995,
+        30.260584639999998
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H097",
+      "position_mm": [
+        23.344164639999995,
+        27.060438639999997
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H098",
+      "position_mm": [
+        25.844032639999995,
+        27.060438639999997
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H099",
+      "position_mm": [
+        28.344154639999996,
+        27.060438639999997
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H151",
+      "position_mm": [
+        109.66200064,
+        37.14500064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H150",
+      "position_mm": [
+        109.66200064,
+        39.68500064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H119",
+      "position_mm": [
+        109.66200064,
+        63.81500064
+      ],
+      "max_dimension_difference_mm": 6.400000032158459e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H120",
+      "position_mm": [
+        109.66200064,
+        66.35500064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H131",
+      "position_mm": [
+        32.31900064,
+        28.636000639999995
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H130",
+      "position_mm": [
+        34.85900064,
+        28.636000639999995
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H068",
+      "position_mm": [
+        59.760906639999995,
+        31.55700064
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H069",
+      "position_mm": [
+        67.36109463999999,
+        31.55700064
+      ],
+      "max_dimension_difference_mm": 6.399999996631323e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H156",
+      "position_mm": [
+        80.40120064,
+        76.74360064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H157",
+      "position_mm": [
+        80.40120064,
+        72.22240064
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H158",
+      "position_mm": [
+        73.89880064,
+        72.22240064
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H159",
+      "position_mm": [
+        73.89880064,
+        76.74360064
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H152",
+      "position_mm": [
+        98.02880064,
+        76.74360064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H153",
+      "position_mm": [
+        98.02880064,
+        72.22240064
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H154",
+      "position_mm": [
+        104.53120064,
+        72.22240064
+      ],
+      "max_dimension_difference_mm": 6.400000103212733e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "H155",
+      "position_mm": [
+        104.53120064,
+        76.74360064
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": true,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "",
+      "position_mm": [
+        87.87159464,
+        73.13959464
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": false,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    },
+    {
+      "pad": "",
+      "position_mm": [
+        90.55840664,
+        75.82640664
+      ],
+      "max_dimension_difference_mm": 6.399999961104186e-07,
+      "number_matches": true,
+      "hole_type": "ROUND",
+      "plated": false,
+      "relative_hole_angle": 90,
+      "mask_expansion_mm": [
+        0.1016,
+        0.1016
+      ]
+    }
+  ],
+  "scope": "Native embedded pad coordinates, pad sizes, unordered drill dimensions and identifiers compared with pcbnew input. Slot orientation, solder-mask rendering, full symbol/net mapping and electrical fitness require further checks. Archive predates outline correction; corrected native page is separate."
+}

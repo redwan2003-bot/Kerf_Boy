@@ -5,8 +5,8 @@
 | Stage | Status | Evidence / remaining work |
 |---|---|---|
 | 1. Source audit | Complete with findings | 50 original hashes; source discrepancies recorded. |
-| 2. Digital mechanical reference | Verified with limits | Repaired drafting gaps; no physical fit test; EasyEDA review import visible, native library dimensions pending. |
-| 3. Component/footprint reconstruction | Incomplete | 24 geometry groups; 85 reconstructed pad mappings; copper tracing added; native review pages imported; exact pin identities, library geometry and bindings remain. |
+| 2. Digital mechanical reference | Verified with limits | Repaired drafting gaps; no physical fit test; EasyEDA review import visible, 140 native pad dimensions checked; slot orientation/mask rendering pending. |
+| 3. Component/footprint reconstruction | Incomplete | 24 geometry groups; 85 reconstructed pad mappings; copper tracing added; native review pages imported; 179 symbol pin names/numbers and 140 pad dimensions checked; exact physical numbering and bindings remain. |
 | 4. Power and GPIO architecture | Pending | Battery ratings, microSD pin conflicts, BNO055 interface and concurrent load budget. |
 | 5. Schematic | Pending | 40-component reference imported; 40 missing-footprint fatal findings and one shield-pin warning; full binding pending. |
 | 6. PCB | Pending | Placement, routing, real stackup, meaningful rules and DRC. |

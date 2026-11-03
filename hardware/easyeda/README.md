@@ -12,10 +12,10 @@ Two review documents now exist in this project: `CHIPBOY_Mk_II_ascii_review` und
 | carrier-geometry-review.epcb | Native PCB page read back after correcting the duplicate outline |
 | *check.json | Scoped conversion and count evidence |
 
-The native page files reference library UUIDs; they are **not standalone complete project archives**. Full `.epro2` export was requested but Edge's Save prompt remains pending. An archive requested before the outline correction is historical and must not replace the corrected native page.
+The native page files reference library UUIDs; they are **not standalone complete project archives**. The user completed both downloads. `native-review-before-outline-fix.epro2` contains the full review project and libraries before the outline correction; `schematic-review.epro2` contains the earlier schematic review export. The historical project archive must be used with the corrected native PCB page until a fresh archive is exported.
 
-24 carrier groups and 140 pad references are present. The input has 138 round component/locator pads and two slots; native library dimensions, masks and pad identities still require verification. The board has no connected circuit or routing. Held Hxxx/SLOT identifiers remain reference identifiers, not resolved component pin numbers.
+24 carrier groups and 140 pad references are present. The input has 138 round component/locator pads and two slots; embedded-library coordinates, pad sizes, drill dimensions and identifiers now match the reconstruction for all 140 pads. Slot orientation and rendered masks still require verification. The board has no connected circuit or routing. Held Hxxx/SLOT identifiers remain reference identifiers, not resolved component pin numbers.
 
-The schematic retains all 40 designators and origin footprint names. Its native check reports 40 missing-footprint fatal findings and one shield-pin warning. Shared symbol-library names may have merged different pin-name variants, notably BME280 and TOF400C. No electrical-equivalence claim is made.
+The schematic retains all 40 designators and origin footprint names. Its native check reports 40 missing-footprint fatal findings and one shield-pin warning. Archive inspection confirms all 179 per-instance pin numbers/names survived; BME280 and TOF400C retain distinct symbols. No electrical-equivalence claim is made.
 
 See the [full current report](../../docs/reports/easyeda-import-review.md). Do not fabricate these review files.

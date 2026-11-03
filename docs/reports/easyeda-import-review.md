@@ -6,7 +6,7 @@ Date: 2026-11-03. **Step 3 is incomplete; these are review artifacts.**
 
 The supplied Mk II schematic was converted to an experimental ASCII review copy and imported into the user's existing EasyEDA Pro project. The conversion removes binary length prefixes and terminators from 1,236 FileHeader records, changing only the file-format header. This is not a native Altium Save As export. Import rendered the circuit and retained all 40 component designators and all 40 original footprint-name attributes. Native identifiers were regenerated.
 
-EasyEDA imported 30 device definitions and 19 symbols. Six duplicate-name variants were reported as bound to existing definitions. In particular, BME280 and TOF400C share the original `PPTC061LFBNRC` library reference despite differing pin names. Full pin/net fidelity has not been established. Automatic footprint association and automatic 3D assignment were disabled; existing library definitions were not overwritten.
+EasyEDA imported 30 device definitions and 19 symbols. Six duplicate-name variants were reported as bound to existing definitions. In particular, BME280 and TOF400C share the original `PPTC061LFBNRC` library reference despite differing pin names. Subsequent archive inspection confirms all 179 pin number/name pairs across all 40 component instances match the source. BME280 and TOF400C retained separate symbols despite the shared source name. Wire connectivity and electrical pin types have not yet been verified. Automatic footprint association and automatic 3D assignment were disabled; existing library definitions were not overwritten.
 
 The reconstructed carrier was imported into the same project. The native PCB page contains 24 component groups and 140 pad references. The source reconstruction accounts for 138 round component/locator holes and two routed slots. The separate 51 small via candidates are not component pads. No routes or meaningful electrical nets have been added.
 
@@ -21,10 +21,11 @@ An independent input check found the first import copy contained two identical c
 | Native schematic reference/name retention | 40/40 designators and 40/40 origin footprint names pass |
 | Native PCB document counts | 24 groups, 140 pad references, one outer outline, four cutouts |
 | Native schematic DRC during netlist export | 40 fatal missing-footprint findings, zero other errors, one shield-pin warning; export did not complete |
-| Native footprint dimensions and pin mapping | Pending embedded-library archive inspection |
+| Embedded footprint dimensional comparison | 140/140 positions, pad sizes, unordered drill dimensions and identifiers pass; maximum difference 0.00000064 mm |
+| Native symbol pin number/name retention | All 179 pin instances across 40 components pass |
 | Electrical net equivalence, manufacturing DRC, hardware tests | Not verified |
 
-The native `.esch` and `.epcb` files were read from the editor's visible File Source. They reference external library UUIDs and are not a complete portable project. Full project export reached Edge's pending Save prompt; browser control could not access the downloads page, so user action was requested. Any archive saved from the earlier export predates the outline correction.
+The native `.esch` and `.epcb` files were read from the editor's visible File Source. They reference external library UUIDs and are not a complete portable project. The user completed both archive downloads after browser control could not access the downloads page. Both ZIP containers are readable. The project archive predates the outline correction and is explicitly named `native-review-before-outline-fix.epro2`; the corrected native page is stored separately. Its embedded libraries enabled the dimensional and symbol-pin checks.
 
 ## H098 plane finding
 
@@ -32,8 +33,8 @@ A new topology check clips the internal negative-Gerber copper to the reconstruc
 
 ## Remaining Step 3 work
 
-1. Obtain the completed native archive and compare embedded footprint dimensions, drill/slot geometry, masks and pin identifiers against the reconstruction.
-2. Resolve importer symbol-name collisions and verify every imported symbol pin and net against the supplied schematic.
+1. Complete native slot-orientation and solder-mask checks; export a fresh full archive containing the corrected outline.
+2. Verify imported electrical pin types and wire connectivity; pin numbers and names now pass for every source instance.
 3. Establish exact physical switch, encoder and button numbering, including shield pins, without promoting source hole IDs to guessed pin numbers.
 4. Bind verified original modules and through-hole footprints; retain Mk II/Mk III revision differences explicitly.
 5. Rerun native electrical checks and export a complete corrected project with its libraries.

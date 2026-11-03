@@ -1,5 +1,12 @@
 # Change history
 
+## 2026-11-03 - Saved native archive verification
+
+- Preserve the two user-saved native archives, labelling the full project archive as predating the outline correction.
+- Compare all 140 embedded pad positions, sizes, drill dimensions and identifiers with the independently parsed input; all pass.
+- Verify all 179 symbol pin number/name instances across 40 components; all pass, including separate BME280 and TOF400C symbols.
+- Preserve native page byte identity across Git checkouts.
+
 ## 2026-11-03 - Native EasyEDA review imports
 
 - Import the supplemental schematic and reconstructed carrier into the existing EasyEDA project.

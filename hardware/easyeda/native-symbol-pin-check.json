@@ -1,0 +1,686 @@
+{
+  "components": 40,
+  "source_pin_instances": 179,
+  "passed": 40,
+  "checks": [
+    {
+      "designator": "Xiao ESP32S3",
+      "source_pins": {
+        "1": "D0",
+        "2": "D1",
+        "3": "D2",
+        "4": "D3",
+        "5": "D4",
+        "6": "D5",
+        "14": "5V",
+        "12": "3V3",
+        "7": "TX/D6",
+        "8": "RX/D7",
+        "9": "D8",
+        "10": "D9",
+        "11": "D10",
+        "13": "GND"
+      },
+      "imported_pins": {
+        "1": "D0",
+        "2": "D1",
+        "3": "D2",
+        "4": "D3",
+        "5": "D4",
+        "6": "D5",
+        "14": "5V",
+        "12": "3V3",
+        "7": "TX/D6",
+        "8": "RX/D7",
+        "9": "D8",
+        "10": "D9",
+        "11": "D10",
+        "13": "GND"
+      },
+      "match": true
+    },
+    {
+      "designator": "128x64 OLED",
+      "source_pins": {
+        "2": "VCC_IN",
+        "3": "SCL",
+        "4": "SDA",
+        "1": "GND"
+      },
+      "imported_pins": {
+        "2": "VCC_IN",
+        "3": "SCL",
+        "4": "SDA",
+        "1": "GND"
+      },
+      "match": true
+    },
+    {
+      "designator": "J3",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "R1",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "LED1",
+      "source_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "imported_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "match": true
+    },
+    {
+      "designator": "MCP23008",
+      "source_pins": {
+        "1": "SCL",
+        "2": "SDA",
+        "3": "A2",
+        "4": "A1",
+        "5": "A0",
+        "6": "*RESET",
+        "7": "NC",
+        "8": "INT",
+        "9": "VSS",
+        "18": "VDD",
+        "17": "GP7",
+        "16": "GP6",
+        "15": "GP5",
+        "14": "GP4",
+        "13": "GP3",
+        "12": "GP2",
+        "11": "GP1",
+        "10": "GP0"
+      },
+      "imported_pins": {
+        "1": "SCL",
+        "2": "SDA",
+        "3": "A2",
+        "4": "A1",
+        "5": "A0",
+        "6": "*RESET",
+        "7": "NC",
+        "8": "INT",
+        "9": "VSS",
+        "18": "VDD",
+        "17": "GP7",
+        "16": "GP6",
+        "15": "GP5",
+        "14": "GP4",
+        "13": "GP3",
+        "12": "GP2",
+        "11": "GP1",
+        "10": "GP0"
+      },
+      "match": true
+    },
+    {
+      "designator": "Buzzer",
+      "source_pins": {
+        "P": "P",
+        "N": "N"
+      },
+      "imported_pins": {
+        "P": "P",
+        "N": "N"
+      },
+      "match": true
+    },
+    {
+      "designator": "R2",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "LED2",
+      "source_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "imported_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "match": true
+    },
+    {
+      "designator": "B0",
+      "source_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "match": true
+    },
+    {
+      "designator": "B1",
+      "source_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "match": true
+    },
+    {
+      "designator": "BNO055",
+      "source_pins": {
+        "6": "RST",
+        "1": "VIN",
+        "4": "SDA",
+        "5": "SCL",
+        "2": "3VO",
+        "10": "PS0",
+        "9": "PS1",
+        "8": "INT",
+        "7": "ADR",
+        "3": "GND"
+      },
+      "imported_pins": {
+        "6": "RST",
+        "1": "VIN",
+        "4": "SDA",
+        "5": "SCL",
+        "2": "3VO",
+        "10": "PS0",
+        "9": "PS1",
+        "8": "INT",
+        "7": "ADR",
+        "3": "GND"
+      },
+      "match": true
+    },
+    {
+      "designator": "Navigation Switch",
+      "source_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "SH1": "SHIELD",
+        "SH2": "SHIELD",
+        "4": "4",
+        "5": "5",
+        "6": "6"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "SH1": "SHIELD",
+        "SH2": "SHIELD",
+        "4": "4",
+        "5": "5",
+        "6": "6"
+      },
+      "match": true
+    },
+    {
+      "designator": "GY-BME280",
+      "source_pins": {
+        "1": "VCC",
+        "2": "GND",
+        "3": "SCL",
+        "4": "SDA",
+        "5": "CSB",
+        "6": "SBO"
+      },
+      "imported_pins": {
+        "1": "VCC",
+        "2": "GND",
+        "3": "SCL",
+        "4": "SDA",
+        "5": "CSB",
+        "6": "SBO"
+      },
+      "match": true
+    },
+    {
+      "designator": "DF PLAYER",
+      "source_pins": {
+        "16": "BUSY",
+        "14": "USB+",
+        "15": "USB-",
+        "12": "ADKEY1",
+        "13": "ADKEY2",
+        "6": "SPK1",
+        "8": "SPK2",
+        "1": "VCC",
+        "4": "DAC_R",
+        "5": "DAC_L",
+        "3": "TX",
+        "2": "RX",
+        "9": "IO1",
+        "11": "IO2",
+        "7": "GND",
+        "10": "GND"
+      },
+      "imported_pins": {
+        "16": "BUSY",
+        "14": "USB+",
+        "15": "USB-",
+        "12": "ADKEY1",
+        "13": "ADKEY2",
+        "6": "SPK1",
+        "8": "SPK2",
+        "1": "VCC",
+        "4": "DAC_R",
+        "5": "DAC_L",
+        "3": "TX",
+        "2": "RX",
+        "9": "IO1",
+        "11": "IO2",
+        "7": "GND",
+        "10": "GND"
+      },
+      "match": true
+    },
+    {
+      "designator": "R4",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "PEC12R-4217F-S0024",
+      "source_pins": {
+        "1": "1",
+        "A": "CHANNEL_A",
+        "B": "CHANNEL_B",
+        "C": "COMMON",
+        "SH1": "SHIELD",
+        "SH2": "SHIELD",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "A": "CHANNEL_A",
+        "B": "CHANNEL_B",
+        "C": "COMMON",
+        "SH1": "SHIELD",
+        "SH2": "SHIELD",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "J2",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "J1",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "SPK1",
+      "source_pins": {
+        "P": "P",
+        "M": "M"
+      },
+      "imported_pins": {
+        "P": "P",
+        "M": "M"
+      },
+      "match": true
+    },
+    {
+      "designator": "SW5",
+      "source_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "imported_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "match": true
+    },
+    {
+      "designator": "SW1",
+      "source_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "imported_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "match": true
+    },
+    {
+      "designator": "SW4",
+      "source_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "imported_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "match": true
+    },
+    {
+      "designator": "SW3",
+      "source_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "imported_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "match": true
+    },
+    {
+      "designator": "TOF400C-Vl53l1x",
+      "source_pins": {
+        "1": "SHUT",
+        "2": "INT",
+        "3": "SCL",
+        "4": "SDA",
+        "5": "GND",
+        "6": "VCC"
+      },
+      "imported_pins": {
+        "1": "SHUT",
+        "2": "INT",
+        "3": "SCL",
+        "4": "SDA",
+        "5": "GND",
+        "6": "VCC"
+      },
+      "match": true
+    },
+    {
+      "designator": "ATGM336h",
+      "source_pins": {
+        "01": "3V3",
+        "02": "GND",
+        "03": "TX",
+        "04": "RX",
+        "05": "PPS"
+      },
+      "imported_pins": {
+        "01": "3V3",
+        "02": "GND",
+        "03": "TX",
+        "04": "RX",
+        "05": "PPS"
+      },
+      "match": true
+    },
+    {
+      "designator": "C1",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "R3",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "LED3",
+      "source_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "imported_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "match": true
+    },
+    {
+      "designator": "SW2",
+      "source_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "imported_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "match": true
+    },
+    {
+      "designator": "R5",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "R6",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "T1",
+      "source_pins": {
+        "2": "G",
+        "1": "D",
+        "3": "S"
+      },
+      "imported_pins": {
+        "2": "G",
+        "1": "D",
+        "3": "S"
+      },
+      "match": true
+    },
+    {
+      "designator": "R7",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "R8",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "C2",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "C5",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "C9",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "C4",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    },
+    {
+      "designator": "C3",
+      "source_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "imported_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "match": true
+    }
+  ],
+  "scope": "Pin number/name retention only. Does not prove wire connectivity, electrical pin types or physical hole mapping."
+}

@@ -34,7 +34,7 @@ result = {
     'source_sha256': {n: hashlib.sha256((E/n).read_bytes()).hexdigest() for n in
                       ['carrier-geometry-review.epcb', 'imported-review-page.esch']},
     'scope': 'Native document counts and schematic reference/model-name retention. Does not validate external library geometry, pin mapping, nets, masks or electrical design.',
-    'library_geometry_verification': 'Pending complete native project archive',
+    'library_geometry_verification': '140 embedded pads dimensionally compared; see native-library-geometry-check.json for scope',
     'observed_schematic_drc': {'fatal_missing_footprints': 40, 'errors': 0, 'warnings': 1},
 }
 (E / 'native-review-check.json').write_text(json.dumps(result, indent=2) + '\n')
