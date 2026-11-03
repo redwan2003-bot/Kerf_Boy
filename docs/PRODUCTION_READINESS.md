@@ -1,5 +1,7 @@
 # Production readiness
 
+Latest manufacturer review: [part qualification](reports/part-qualification-review.md). The user selected Bourns PEC12R-4217F-S0024; its corrected 13.20 mm slot spacing is verified in the saved native PCB and schematic. All 40 bindings and 181 pads passed digital checks. **Full qualification is incomplete.** MCP23008 GP7 is output-only under the current specification but is assigned an encoder input in the reference circuit. Navigation land-pattern deviations, exact module/battery identities, body clearances and physical tests remain open. The user has no parts yet.
+
 **Engineering reconstruction only. Do not fabricate the review board.** Updated 2026-11-03.
 
 | Stage | Status | Evidence / remaining work |

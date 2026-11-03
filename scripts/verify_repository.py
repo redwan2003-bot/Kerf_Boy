@@ -44,6 +44,14 @@ def main():
  check(not copper['conflicts'] and len(copper['known_power_anchor_checks'])==9 and all(r['pass'] for r in copper['known_power_anchor_checks']),'Copper anchor checks failed')
  source=ROOT/'hardware/reference/original/Project Outputs/Project Outputs for CHIP_BOY_Mk_III'
  for ext,digest in copper['source_sha256'].items():check(hashlib.sha256((source/f'CHIPBOY_Mk_III.{ext}').read_bytes()).hexdigest()==digest,f'Copper trace source mismatch: {ext}')
+ q=ROOT/'hardware/easyeda/qualification'
+ for report in ['native-qualification-check.json','native-qualification-geometry.json']:
+  e=json.loads((q/report).read_text())
+  check(hashlib.sha256((q/'native-qualification-review.epro2').read_bytes()).hexdigest()==e['archive_sha256'],'Qualification archive changed')
+ e=json.loads((q/'native-qualification-geometry.json').read_text())
+ check(e['footprints']==40 and e['pads']==181 and not e['errors'],'Qualification geometry failed')
+ e=json.loads((q/'native-qualification-check.json').read_text())
+ check(e['components']==40 and e['symbol_pin_instances']==179 and e['unchanged_other_footprints']==39,'Qualification bindings failed')
  for p in (ROOT/'scripts').glob('*.py'):
   try:ast.parse(p.read_text(encoding='utf-8-sig'))
   except SyntaxError as e:errors.append(f'{p.name}: {e}')

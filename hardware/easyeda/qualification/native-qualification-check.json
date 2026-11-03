@@ -1,0 +1,210 @@
+{
+  "archive_sha256": "5fa00af9a0ab249bd087979620286784eb27dccd5fa611df19d3aa0a056b85b7",
+  "components": 40,
+  "symbol_pin_instances": 179,
+  "unchanged_other_footprints": 39,
+  "placements_unchanged": true,
+  "checks": [
+    {
+      "reference": "M1",
+      "footprint_uuid": "4f2575a9dd0fabed",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "DS",
+      "footprint_uuid": "65ba59152b4f9359",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "J3",
+      "footprint_uuid": "2b8216fef70a6391",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "R2",
+      "footprint_uuid": "184be08ed964467d",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "LED1",
+      "footprint_uuid": "69886c5093943ae0",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "U1",
+      "footprint_uuid": "e871f514d3bf137a",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "AUDIO",
+      "footprint_uuid": "d51ff871a8919281",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "R3",
+      "footprint_uuid": "9850c6055ee5ce11",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "LED2",
+      "footprint_uuid": "83d5bb4b5f186373",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "B0",
+      "footprint_uuid": "b240b79dbaca6c08",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "B1",
+      "footprint_uuid": "c432da6ea7977d68",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "U4",
+      "footprint_uuid": "6c5400d1005dac4e",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "B2_LOC",
+      "footprint_uuid": "72bd38ef5d7c86d2",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "J5",
+      "footprint_uuid": "33eca2adbfd0c152",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "U2",
+      "footprint_uuid": "d2de32c7e939ab9e",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "R4",
+      "footprint_uuid": "52930bf2715573f8",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "RE1",
+      "footprint_uuid": "7248999c7ca7edd8",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "J2",
+      "footprint_uuid": "cfb21810fcef53e5",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "J1",
+      "footprint_uuid": "05613dab143d85fb",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "LS1",
+      "footprint_uuid": "a70bbe55f8931676",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "S5",
+      "footprint_uuid": "086f4c3cc30bc30f",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "S4",
+      "footprint_uuid": "23132c20b84ae84b",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "S3",
+      "footprint_uuid": "e91044fc2f6a06a0",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "S1",
+      "footprint_uuid": "fb7ae2136036b7ab",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "J4",
+      "footprint_uuid": "97932d7dec111b3c",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "U3",
+      "footprint_uuid": "4092cc6717ab61cd",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "C1",
+      "footprint_uuid": "342061562b75a29e",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "R1",
+      "footprint_uuid": "5d1180e253aef549",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "LED3",
+      "footprint_uuid": "497e636c3dd28302",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "S2",
+      "footprint_uuid": "874350ce31eead11",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "R5",
+      "footprint_uuid": "a364708102c279c9",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "R6",
+      "footprint_uuid": "32da60874f117563",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "T1",
+      "footprint_uuid": "eb11164405c61dec",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "R7",
+      "footprint_uuid": "caeac7437fed5b93",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "R8",
+      "footprint_uuid": "526cb63d9aaaf2a6",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "C2",
+      "footprint_uuid": "629981d2cb7e9536",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "C5",
+      "footprint_uuid": "45af3cbf1f4c30b8",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "C9",
+      "footprint_uuid": "27c2a85e6226a72d",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "C4",
+      "footprint_uuid": "060c5805280cb38f",
+      "matching_pin_pad_sets": true
+    },
+    {
+      "reference": "C3",
+      "footprint_uuid": "512f605be6560db5",
+      "matching_pin_pad_sets": true
+    }
+  ],
+  "scope": "Saved native geometry, binding and placement checks only; full qualification remains open."
+}

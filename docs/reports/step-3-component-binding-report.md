@@ -1,5 +1,7 @@
 # Step 3 component reconstruction and binding report
 
+Historical reconstruction checkpoint: RE1 has since been corrected for the user-selected Bourns part. See the [current manufacturer review](part-qualification-review.md); source-faithful geometry did not establish compatibility with that named encoder.
+
 Updated 2026-11-03. **Digital reconstruction and native binding verified; physical/package qualification remains open. Do not manufacture this review.**
 
 ## Delivered

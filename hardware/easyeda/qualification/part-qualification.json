@@ -1,0 +1,654 @@
+{
+  "date": "2026-11-03",
+  "user_has_parts": false,
+  "full_qualification": false,
+  "sources": {
+    "bourns": "https://www.bourns.com/docs/product-datasheets/pec12r.pdf",
+    "alps": "https://tech.alpsalpine.com/e/products/detail/SKHHANA010/",
+    "alps_drawing": "https://tech.alpsalpine.com/cms.media/product_catalog_ta_01_skhh_en_bf15276fa8.pdf",
+    "nav": "https://configured-product-images.s3.amazonaws.com/2D/specs/JS1400BFQ.pdf",
+    "microchip": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23008-and-MCP23008-Data-Sheet-DS20001919.pdf",
+    "seeed": "https://wiki.seeedstudio.com/xiao_esp32s3_sense_filesystem/",
+    "aos": "https://www.aosmd.com/sites/default/files/res/data_sheets/AO3400A.pdf",
+    "slide": "https://www.mouser.com/datasheet/2/26/APEM_Microminiature_slide_switches_MHSS_MS-3396147.pdf"
+  },
+  "dimension_checks": [
+    {
+      "reference": "B0",
+      "measurement": "row width",
+      "measured_mm": 6.5024,
+      "nominal_mm": 6.5,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B0",
+      "measurement": "row separation",
+      "measured_mm": 4.5212,
+      "nominal_mm": 4.5,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B0",
+      "measurement": "finished drill 1",
+      "measured_mm": 1.016,
+      "nominal_mm": 1,
+      "tolerance_mm": 0.05,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B0",
+      "measurement": "finished drill 3",
+      "measured_mm": 1.016,
+      "nominal_mm": 1,
+      "tolerance_mm": 0.05,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B0",
+      "measurement": "finished drill 4",
+      "measured_mm": 1.016,
+      "nominal_mm": 1,
+      "tolerance_mm": 0.05,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B0",
+      "measurement": "finished drill 2",
+      "measured_mm": 1.016,
+      "nominal_mm": 1,
+      "tolerance_mm": 0.05,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B1",
+      "measurement": "row width",
+      "measured_mm": 6.5024,
+      "nominal_mm": 6.5,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B1",
+      "measurement": "row separation",
+      "measured_mm": 4.5212,
+      "nominal_mm": 4.5,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B1",
+      "measurement": "finished drill 3",
+      "measured_mm": 1.016,
+      "nominal_mm": 1,
+      "tolerance_mm": 0.05,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B1",
+      "measurement": "finished drill 1",
+      "measured_mm": 1.016,
+      "nominal_mm": 1,
+      "tolerance_mm": 0.05,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B1",
+      "measurement": "finished drill 2",
+      "measured_mm": 1.016,
+      "nominal_mm": 1,
+      "tolerance_mm": 0.05,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "B1",
+      "measurement": "finished drill 4",
+      "measured_mm": 1.016,
+      "nominal_mm": 1,
+      "tolerance_mm": 0.05,
+      "pass_check": true,
+      "source": "alps_drawing"
+    },
+    {
+      "reference": "U1",
+      "measurement": "pin pitch",
+      "measured_mm": 2.54,
+      "nominal_mm": 2.54,
+      "tolerance_mm": 1e-05,
+      "pass_check": true,
+      "source": "microchip"
+    },
+    {
+      "reference": "U1",
+      "measurement": "formed row pitch",
+      "measured_mm": 7.62,
+      "nominal_mm": 7.62,
+      "tolerance_mm": 1e-05,
+      "pass_check": true,
+      "source": "microchip"
+    },
+    {
+      "reference": "RE1_original",
+      "measurement": "mounting slot centers",
+      "measured_mm": 11.199876,
+      "nominal_mm": 13.2,
+      "tolerance_mm": 0.0003,
+      "pass_check": false,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "SH1 to SH2",
+      "measured_mm": 13.2,
+      "nominal_mm": 13.2,
+      "tolerance_mm": 1e-06,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "A to B",
+      "measured_mm": 5.0,
+      "nominal_mm": 5,
+      "tolerance_mm": 1e-06,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "1 to 2",
+      "measured_mm": 5.0,
+      "nominal_mm": 5,
+      "tolerance_mm": 1e-06,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "A to 1",
+      "measured_mm": 14.5,
+      "nominal_mm": 14.5,
+      "tolerance_mm": 1e-06,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "C to A",
+      "measured_mm": 2.5,
+      "nominal_mm": 2.5,
+      "tolerance_mm": 1e-06,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "A finished drill",
+      "measured_mm": 1.1,
+      "nominal_mm": 1.1,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "C finished drill",
+      "measured_mm": 1.1,
+      "nominal_mm": 1.1,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "B finished drill",
+      "measured_mm": 1.1,
+      "nominal_mm": 1.1,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "1 finished drill",
+      "measured_mm": 1.1,
+      "nominal_mm": 1.1,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "2 finished drill",
+      "measured_mm": 1.1,
+      "nominal_mm": 1.1,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "SH1 slot width",
+      "measured_mm": 2.0,
+      "nominal_mm": 2,
+      "tolerance_mm": 1e-06,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "SH1 slot length",
+      "measured_mm": 2.2,
+      "nominal_mm": 2.2,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "SH2 slot width",
+      "measured_mm": 2.0,
+      "nominal_mm": 2,
+      "tolerance_mm": 1e-06,
+      "pass_check": true,
+      "source": "bourns"
+    },
+    {
+      "reference": "RE1_corrected",
+      "measurement": "SH2 slot length",
+      "measured_mm": 2.2,
+      "nominal_mm": 2.2,
+      "tolerance_mm": 0.1,
+      "pass_check": true,
+      "source": "bourns"
+    }
+  ],
+  "components": [
+    {
+      "reference": "M1",
+      "source_label": "Xiao ESP32S3",
+      "source_comment": "",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_EXACT_SENSE_REVISION_AND_PIN_BUDGET",
+      "required_evidence": "Freeze XIAO base/Sense expansion revisions; reserve SD D8/D9/D10 and revision-specific CS, camera/microphone pins, antenna and USB/SD access.",
+      "source": "seeed"
+    },
+    {
+      "reference": "DS",
+      "source_label": "128x64 OLED",
+      "source_comment": "1.3\" SSD1306",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "J3",
+      "source_label": "J3",
+      "source_comment": "Laser +/-",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "R2",
+      "source_label": "R1",
+      "source_comment": "100",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package with resistance, tolerance, power and voltage rating; pad shape alone does not identify rated part."
+    },
+    {
+      "reference": "LED1",
+      "source_label": "LED1",
+      "source_comment": "led_through_hole",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "U1",
+      "source_label": "MCP23008",
+      "source_comment": "gpio extender",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "ELECTRICAL_FAIL_GP7_INPUT",
+      "required_evidence": "Move encoder push input off GP7; GP7 is output-only in current datasheet. Confirm purchased PDIP suffix and body/lead envelope.",
+      "selected_part": "MCP23008, 18-pin PDIP; ordering suffix not frozen",
+      "source": "microchip"
+    },
+    {
+      "reference": "AUDIO",
+      "source_label": "Buzzer",
+      "source_comment": "",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "R3",
+      "source_label": "R2",
+      "source_comment": "100",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package with resistance, tolerance, power and voltage rating; pad shape alone does not identify rated part."
+    },
+    {
+      "reference": "LED2",
+      "source_label": "LED2",
+      "source_comment": "led_through_hole",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "B0",
+      "source_label": "B0",
+      "source_comment": "SKHHANA010",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "DRAWING_PATTERN_PASS_PHYSICAL_PENDING",
+      "required_evidence": "Confirm purchased SKHHANA010; fit 9.5 mm actuator to enclosure and record finished-hole tolerance.",
+      "selected_part": "Alps SKHHANA010",
+      "body_mm": [
+        6,
+        6,
+        9.5
+      ],
+      "rating": "50 mA at 12 VDC maximum; low-level minimum 10 uA at 1 VDC",
+      "source": "alps"
+    },
+    {
+      "reference": "B1",
+      "source_label": "B1",
+      "source_comment": "SKHHANA010",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "DRAWING_PATTERN_PASS_PHYSICAL_PENDING",
+      "required_evidence": "Confirm purchased SKHHANA010; fit 9.5 mm actuator to enclosure and record finished-hole tolerance.",
+      "selected_part": "Alps SKHHANA010",
+      "body_mm": [
+        6,
+        6,
+        9.5
+      ],
+      "rating": "50 mA at 12 VDC maximum; low-level minimum 10 uA at 1 VDC",
+      "source": "alps"
+    },
+    {
+      "reference": "U4",
+      "source_label": "BNO055",
+      "source_comment": "BNO055",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "B2_LOC",
+      "source_label": "Navigation Switch",
+      "source_comment": "JS1400BFQ",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "LAND_PATTERN_DEVIATIONS_REVIEW",
+      "required_evidence": "Original locating holes 0.8001/1.100074 mm vs drawing 0.75/1.05; original grounding-pad short side 1.8 vs recommended 1.85 mm. Resolve deviations and define grounded chassis tabs, actuator cap and courtyard.",
+      "selected_part": "E-Switch JS1400BFQ (source comment)",
+      "body_mm": [
+        7.7,
+        7.4,
+        5
+      ],
+      "source": "nav",
+      "rating": "50 mA at 12 VDC"
+    },
+    {
+      "reference": "J5",
+      "source_label": "GY-BME280",
+      "source_comment": "J5",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "U2",
+      "source_label": "DF PLAYER",
+      "source_comment": "DFPLAYER",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "R4",
+      "source_label": "R4",
+      "source_comment": "1k",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package with resistance, tolerance, power and voltage rating; pad shape alone does not identify rated part."
+    },
+    {
+      "reference": "RE1",
+      "source_label": "PEC12R-4217F-S0024",
+      "source_comment": "rotary encoder",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "CORRECTED_PATTERN_PHYSICAL_PENDING",
+      "required_evidence": "Use corrected 13.2 mm slot pattern; fit actual part and knob, check actuator/enclosure clearance and finished-hole tolerances.",
+      "selected_part": "Bourns PEC12R-4217F-S0024",
+      "source": "bourns",
+      "rating": "Encoder and push contacts: 10 mA at 5 VDC"
+    },
+    {
+      "reference": "J2",
+      "source_label": "J2",
+      "source_comment": "ESP32 +/-",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "J1",
+      "source_label": "J1",
+      "source_comment": "BATTERY +/-",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "LS1",
+      "source_label": "SPK1",
+      "source_comment": "15mm speaker",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "S5",
+      "source_label": "SW5",
+      "source_comment": "switch top actuated",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_MHSS1104_IDENTITY_AND_LOAD",
+      "required_evidence": "Match actual switch and drawing; verify contact pairs and actuator height; prove load/inrush below rating or use switch as control input.",
+      "candidate": "APEM MHSS1104 from all five upstream PCB footprint names",
+      "source": "slide",
+      "rating": "Conditional on MHSS1104 identity: 300 mA at 6 VDC"
+    },
+    {
+      "reference": "S4",
+      "source_label": "SW1",
+      "source_comment": "switch top actuated",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_MHSS1104_IDENTITY_AND_LOAD",
+      "required_evidence": "Match actual switch and drawing; verify contact pairs and actuator height; prove load/inrush below rating or use switch as control input.",
+      "candidate": "APEM MHSS1104 from all five upstream PCB footprint names",
+      "source": "slide",
+      "rating": "Conditional on MHSS1104 identity: 300 mA at 6 VDC"
+    },
+    {
+      "reference": "S3",
+      "source_label": "SW4",
+      "source_comment": "switch top actuated",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_MHSS1104_IDENTITY_AND_LOAD",
+      "required_evidence": "Match actual switch and drawing; verify contact pairs and actuator height; prove load/inrush below rating or use switch as control input.",
+      "candidate": "APEM MHSS1104 from all five upstream PCB footprint names",
+      "source": "slide",
+      "rating": "Conditional on MHSS1104 identity: 300 mA at 6 VDC"
+    },
+    {
+      "reference": "S1",
+      "source_label": "SW3",
+      "source_comment": "Main Flashlight",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_MHSS1104_IDENTITY_AND_LOAD",
+      "required_evidence": "Match actual switch and drawing; verify contact pairs and actuator height; prove load/inrush below rating or use switch as control input.",
+      "candidate": "APEM MHSS1104 from all five upstream PCB footprint names",
+      "source": "slide",
+      "rating": "Conditional on MHSS1104 identity: 300 mA at 6 VDC"
+    },
+    {
+      "reference": "J4",
+      "source_label": "TOF400C-Vl53l1x",
+      "source_comment": "J4",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "U3",
+      "source_label": "ATGM336h",
+      "source_comment": "ATGM336H",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "C1",
+      "source_label": "C1",
+      "source_comment": "0.1 uF",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package, voltage rating, dielectric/polarity, tolerance and ESR; C3/C4 are 100 uF in Mk III."
+    },
+    {
+      "reference": "R1",
+      "source_label": "R3",
+      "source_comment": "100",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package with resistance, tolerance, power and voltage rating; pad shape alone does not identify rated part."
+    },
+    {
+      "reference": "LED3",
+      "source_label": "LED3",
+      "source_comment": "led_through_hole",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Exact part/order code, matching drawing, ratings, body/height/clearance, and physical fit."
+    },
+    {
+      "reference": "S2",
+      "source_label": "SW2",
+      "source_comment": "Camera Flashlight",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_MHSS1104_IDENTITY_AND_LOAD",
+      "required_evidence": "Match actual switch and drawing; verify contact pairs and actuator height; prove load/inrush below rating or use switch as control input.",
+      "candidate": "APEM MHSS1104 from all five upstream PCB footprint names",
+      "source": "slide",
+      "rating": "Conditional on MHSS1104 identity: 300 mA at 6 VDC"
+    },
+    {
+      "reference": "R5",
+      "source_label": "R5",
+      "source_comment": "100k",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package with resistance, tolerance, power and voltage rating; pad shape alone does not identify rated part."
+    },
+    {
+      "reference": "R6",
+      "source_label": "R6",
+      "source_comment": "100k",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package with resistance, tolerance, power and voltage rating; pad shape alone does not identify rated part."
+    },
+    {
+      "reference": "T1",
+      "source_label": "T1",
+      "source_comment": "2N7000",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "PINOUT_VERIFIED_LOAD_THERMAL_PENDING",
+      "required_evidence": "Verify G1/S2/D3, source-ground and laser-return net; qualify exact load/current, gate drive, loss and temperature.",
+      "selected_part": "AO3400A",
+      "source": "aos"
+    },
+    {
+      "reference": "R7",
+      "source_label": "R7",
+      "source_comment": "100",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package with resistance, tolerance, power and voltage rating; pad shape alone does not identify rated part."
+    },
+    {
+      "reference": "R8",
+      "source_label": "R8",
+      "source_comment": "100k",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package with resistance, tolerance, power and voltage rating; pad shape alone does not identify rated part."
+    },
+    {
+      "reference": "C2",
+      "source_label": "C2",
+      "source_comment": "0.1 uF",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package, voltage rating, dielectric/polarity, tolerance and ESR; C3/C4 are 100 uF in Mk III."
+    },
+    {
+      "reference": "C5",
+      "source_label": "C5",
+      "source_comment": "0.1 uF",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package, voltage rating, dielectric/polarity, tolerance and ESR; C3/C4 are 100 uF in Mk III."
+    },
+    {
+      "reference": "C9",
+      "source_label": "C9",
+      "source_comment": "0.1 uF",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package, voltage rating, dielectric/polarity, tolerance and ESR; C3/C4 are 100 uF in Mk III."
+    },
+    {
+      "reference": "C4",
+      "source_label": "C4",
+      "source_comment": "47 uF",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package, voltage rating, dielectric/polarity, tolerance and ESR; C3/C4 are 100 uF in Mk III."
+    },
+    {
+      "reference": "C3",
+      "source_label": "C3",
+      "source_comment": "47 uF",
+      "physical_test": "NOT_RUN_NO_PARTS",
+      "qualification": "HOLD_IDENTITY_OR_RATINGS",
+      "required_evidence": "Select exact original-compatible SMD package, voltage rating, dielectric/polarity, tolerance and ESR; C3/C4 are 100 uF in Mk III."
+    }
+  ],
+  "external_holds": [
+    "Battery exact chemistry/model/capacity/protection/charge limits and connector polarity",
+    "Laser module model/current/driver/interface",
+    "Speaker impedance/power and buzzer active/passive identity",
+    "Enclosure clearance and actual assembled stack height"
+  ],
+  "physical_tests": "Not performed; user reports no parts available."
+}

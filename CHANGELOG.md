@@ -1,5 +1,12 @@
 # Change history
 
+## 2026-11-03 — Manufacturer qualification review
+
+- Corrected RE1 for the user-selected Bourns PEC12R-4217F-S0024 in EasyEDA PCB and schematic; retained historical reconstruction.
+- Saved and checked the native qualification archive: 40 bindings, 179 electrical pins, 181 pads; other 39 footprints unchanged.
+- Added a 40-component qualification register, 28 passing manufacturer dimensional subchecks, and the confirmed historical encoder mismatch.
+- Recorded the MCP23008 GP7 input conflict, navigation pattern deviations, unresolved identities and physical tests that cannot run without parts. Full qualification remains open.
+
 ## 2026-11-03 - Complete digital component and binding review
 
 - Recover separately attributed author-native Mk II PCB evidence whose companion schematic exactly matches the supplied SchDoc.

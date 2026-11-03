@@ -1,5 +1,7 @@
 # Current EasyEDA Pro result
 
+Latest saved project: [qualification review](qualification/README.md), including the user-approved Bourns encoder correction. Older step3-numbered artifacts preserve historical source fidelity.
+
 See [Step 3 component and binding review](step3-numbered/README.md) for the latest full native archive, 40 footprints and all 179 pin/pad matches. The current binding review has zero fatal errors, zero errors and one shield warning. Exact-part qualification and circuit redesign remain open.
 
 The following describes the **historical pre-binding checkpoint**, not the latest result.

@@ -12,6 +12,9 @@ The requirement is to **retain the original through-hole components and plug-in 
 
 ## Start here
 
+- [Latest manufacturer qualification report](docs/reports/part-qualification-review.md)
+- [Current EasyEDA archive and corrected encoder](hardware/easyeda/qualification/README.md)
+
 - [Latest Step 3 component and binding report](docs/reports/step-3-component-binding-report.md)
 - [Hardware and footprint guide](hardware/README.md)
 - [Complete reconstruction report (PDF)](docs/reports/complete-reconstruction-report.pdf)
