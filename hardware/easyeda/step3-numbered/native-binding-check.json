@@ -1,0 +1,548 @@
+{
+  "archive_sha256": "71d594b0e87b42b10411d0d80125c0372a558fe787c935e2df8026d6f0e4fd95",
+  "components": 40,
+  "symbol_pin_instances": 179,
+  "matched_footprint_bindings": 40,
+  "checks": [
+    {
+      "reference": "M1",
+      "footprint_uuid": "4f2575a9dd0fabed",
+      "symbol_pins": {
+        "1": "D0",
+        "2": "D1",
+        "3": "D2",
+        "4": "D3",
+        "5": "D4",
+        "6": "D5",
+        "14": "5V",
+        "12": "3V3",
+        "7": "TX/D6",
+        "8": "RX/D7",
+        "9": "D8",
+        "10": "D9",
+        "11": "D10",
+        "13": "GND"
+      },
+      "numbered_pad_count": 14,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "DS",
+      "footprint_uuid": "65ba59152b4f9359",
+      "symbol_pins": {
+        "2": "VCC_IN",
+        "3": "SCL",
+        "4": "SDA",
+        "1": "GND"
+      },
+      "numbered_pad_count": 4,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "J3",
+      "footprint_uuid": "2b8216fef70a6391",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "R2",
+      "footprint_uuid": "184be08ed964467d",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "LED1",
+      "footprint_uuid": "69886c5093943ae0",
+      "symbol_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "U1",
+      "footprint_uuid": "e871f514d3bf137a",
+      "symbol_pins": {
+        "1": "SCL",
+        "2": "SDA",
+        "3": "A2",
+        "4": "A1",
+        "5": "A0",
+        "6": "*RESET",
+        "7": "NC",
+        "8": "INT",
+        "9": "VSS",
+        "18": "VDD",
+        "17": "GP7",
+        "16": "GP6",
+        "15": "GP5",
+        "14": "GP4",
+        "13": "GP3",
+        "12": "GP2",
+        "11": "GP1",
+        "10": "GP0"
+      },
+      "numbered_pad_count": 18,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "AUDIO",
+      "footprint_uuid": "d51ff871a8919281",
+      "symbol_pins": {
+        "P": "P",
+        "N": "N"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "R3",
+      "footprint_uuid": "9850c6055ee5ce11",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "LED2",
+      "footprint_uuid": "83d5bb4b5f186373",
+      "symbol_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "B0",
+      "footprint_uuid": "b240b79dbaca6c08",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "numbered_pad_count": 4,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "B1",
+      "footprint_uuid": "c432da6ea7977d68",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "numbered_pad_count": 4,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "U4",
+      "footprint_uuid": "6c5400d1005dac4e",
+      "symbol_pins": {
+        "6": "RST",
+        "1": "VIN",
+        "4": "SDA",
+        "5": "SCL",
+        "2": "3VO",
+        "10": "PS0",
+        "9": "PS1",
+        "8": "INT",
+        "7": "ADR",
+        "3": "GND"
+      },
+      "numbered_pad_count": 10,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "B2_LOC",
+      "footprint_uuid": "72bd38ef5d7c86d2",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "SH1": "SHIELD",
+        "SH2": "SHIELD",
+        "4": "4",
+        "5": "5",
+        "6": "6"
+      },
+      "numbered_pad_count": 8,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "J5",
+      "footprint_uuid": "33eca2adbfd0c152",
+      "symbol_pins": {
+        "1": "VCC",
+        "2": "GND",
+        "3": "SCL",
+        "4": "SDA",
+        "5": "CSB",
+        "6": "SBO"
+      },
+      "numbered_pad_count": 6,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "U2",
+      "footprint_uuid": "d2de32c7e939ab9e",
+      "symbol_pins": {
+        "16": "BUSY",
+        "14": "USB+",
+        "15": "USB-",
+        "12": "ADKEY1",
+        "13": "ADKEY2",
+        "6": "SPK1",
+        "8": "SPK2",
+        "1": "VCC",
+        "4": "DAC_R",
+        "5": "DAC_L",
+        "3": "TX",
+        "2": "RX",
+        "9": "IO1",
+        "11": "IO2",
+        "7": "GND",
+        "10": "GND"
+      },
+      "numbered_pad_count": 16,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "R4",
+      "footprint_uuid": "52930bf2715573f8",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "RE1",
+      "footprint_uuid": "26f105a7d4fb48bb",
+      "symbol_pins": {
+        "1": "1",
+        "A": "CHANNEL_A",
+        "B": "CHANNEL_B",
+        "C": "COMMON",
+        "SH1": "SHIELD",
+        "SH2": "SHIELD",
+        "2": "2"
+      },
+      "numbered_pad_count": 7,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "J2",
+      "footprint_uuid": "cfb21810fcef53e5",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "J1",
+      "footprint_uuid": "05613dab143d85fb",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "LS1",
+      "footprint_uuid": "a70bbe55f8931676",
+      "symbol_pins": {
+        "1": "P",
+        "2": "M"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "S5",
+      "footprint_uuid": "086f4c3cc30bc30f",
+      "symbol_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "numbered_pad_count": 6,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "S4",
+      "footprint_uuid": "23132c20b84ae84b",
+      "symbol_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "numbered_pad_count": 6,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "S3",
+      "footprint_uuid": "e91044fc2f6a06a0",
+      "symbol_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "numbered_pad_count": 6,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "S1",
+      "footprint_uuid": "fb7ae2136036b7ab",
+      "symbol_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "numbered_pad_count": 6,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "J4",
+      "footprint_uuid": "97932d7dec111b3c",
+      "symbol_pins": {
+        "1": "SHUT",
+        "2": "INT",
+        "3": "SCL",
+        "4": "SDA",
+        "5": "GND",
+        "6": "VCC"
+      },
+      "numbered_pad_count": 6,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "U3",
+      "footprint_uuid": "4092cc6717ab61cd",
+      "symbol_pins": {
+        "01": "3V3",
+        "02": "GND",
+        "03": "TX",
+        "04": "RX",
+        "05": "PPS"
+      },
+      "numbered_pad_count": 5,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "C1",
+      "footprint_uuid": "342061562b75a29e",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "R1",
+      "footprint_uuid": "5d1180e253aef549",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "LED3",
+      "footprint_uuid": "497e636c3dd28302",
+      "symbol_pins": {
+        "C": "C",
+        "A": "A"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "S2",
+      "footprint_uuid": "874350ce31eead11",
+      "symbol_pins": {
+        "3": "2",
+        "4": "2",
+        "1": "1",
+        "2": "1",
+        "5": "3",
+        "6": "3"
+      },
+      "numbered_pad_count": 6,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "R5",
+      "footprint_uuid": "a364708102c279c9",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "R6",
+      "footprint_uuid": "32da60874f117563",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "T1",
+      "footprint_uuid": "eb11164405c61dec",
+      "symbol_pins": {
+        "1": "G",
+        "3": "D",
+        "2": "S"
+      },
+      "numbered_pad_count": 3,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "R7",
+      "footprint_uuid": "caeac7437fed5b93",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "R8",
+      "footprint_uuid": "526cb63d9aaaf2a6",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "C2",
+      "footprint_uuid": "629981d2cb7e9536",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "C5",
+      "footprint_uuid": "45af3cbf1f4c30b8",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "C9",
+      "footprint_uuid": "27c2a85e6226a72d",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "C4",
+      "footprint_uuid": "060c5805280cb38f",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    },
+    {
+      "reference": "C3",
+      "footprint_uuid": "512f605be6560db5",
+      "symbol_pins": {
+        "1": "1",
+        "2": "2"
+      },
+      "numbered_pad_count": 2,
+      "matching_pin_pad_sets": true,
+      "geometry_unchanged_from_checked_archive": true
+    }
+  ],
+  "scope": "Every final native symbol pin name/number, footprint UUID and electrical pad set checked. Does not prove retained Mk II circuit wires are suitable for Mk III or production."
+}

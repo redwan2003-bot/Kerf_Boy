@@ -57,3 +57,21 @@ Install scripts/requirements.txt, then run `python scripts/extract_schdoc_invent
 Run `python scripts/check_easyeda_review.py` for saved native document counts and origin-name retention. `python scripts/prepare_easyeda_review_imports.py` regenerates the experimental imports (requires olefile). `python scripts/check_plane_topology.py` checks clipped internal-plane connectivity (requires Shapely). These do not prove native library geometry or electrical equivalence. See [current report](reports/easyeda-import-review.md).
 
 After the user saved the archives, `check_native_library_geometry.py` passed under KiCad pcbnew Python for all 140 pads (see its scoped JSON report). `check_native_symbol_pins.py` passed for all 179 pin number/name instances. The archived project predates the outline correction; use the separately saved corrected PCB page.
+
+
+## Current Step 3 checks
+
+Run with the repository as working directory. `pcbnew` checks need KiCad 10's Python; the navigation check needs Shapely. No scripts certify production readiness.
+
+```sh
+python scripts/verify_repository.py
+# With KiCad's Python:
+python scripts/check_footprint_roundtrip.py
+python scripts/check_step3_source_geometry.py
+python scripts/check_step3_native_components.py
+# With standard Python (Shapely needed for navigation):
+python scripts/check_step3_navigation.py
+python scripts/check_step3_bindings.py
+```
+
+`build_remaining_smd_footprints.py` regenerates the current 40-component input/library; `prepare_step3_schematic.py` regenerates the explicitly labelled binding-review import. They do not upload to EasyEDA. Native archives and screenshots are evidence from the actual UI, not generated substitutes. The report describes tolerances and open qualification work.

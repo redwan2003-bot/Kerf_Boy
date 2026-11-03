@@ -8,11 +8,11 @@ Kerf_Boy is a carrier-PCB redesign for a wrist-mounted device built around the S
 
 The requirement is to **retain the original through-hole components and plug-in modules**, while improving the carrier circuitry and routing. This repository preserves source evidence, reconstructed footprints, mechanical references, verification results and the remaining design work.
 
-> **Not ready to manufacture.** Hole geometry has been recovered, but complete electrical mapping, native EasyEDA integration, circuit design, routing and prototype validation are unfinished. The review board contains no routed circuit. See [production readiness](docs/PRODUCTION_READINESS.md).
+> **Not ready to manufacture.** All 40 component footprints and native schematic bindings have been digitally checked. Exact-part qualification, circuit design, routing and prototype validation remain unfinished. The review board contains no routed circuit. See [production readiness](docs/PRODUCTION_READINESS.md).
 
 ## Start here
 
-- [Latest EasyEDA import report](docs/reports/easyeda-import-review.md)
+- [Latest Step 3 component and binding report](docs/reports/step-3-component-binding-report.md)
 - [Hardware and footprint guide](hardware/README.md)
 - [Complete reconstruction report (PDF)](docs/reports/complete-reconstruction-report.pdf)
 - [Production readiness and unresolved work](docs/PRODUCTION_READINESS.md)
@@ -66,13 +66,13 @@ Kerf_Boy/
 | Original copper layers | Four: top, internal GND, internal 3V3, bottom |
 | Review board | Two-layer geometry carrier only; no traces/netlist |
 | Source files | 50 originals preserved with SHA-256 fingerprints |
-| Geometry groups | 24: 11 mapped reconstructions plus 13 held reference groups |
+| Component library | 40 footprints in the current EasyEDA review; historical 24-group evidence retained |
 | Component/locator features | 138 round holes and two plated routed slots |
 | Additional small holes | 51 via candidates, outside component footprints |
-| Reconstructed mappings | 85 pads; original-native-netlist equivalence not established |
+| Current bindings | 179 electrical pins/pads, 40 symbols/footprints; full circuit equivalence unverified |
 | Independent geometry read-back | Passed at 0.000002 mm comparison tolerance |
-| EasyEDA review | Schematic and carrier imported; native counts checked; library geometry and binding pending |
-| Electrical checks / hardware test | 40 missing-footprint fatal findings, one shield-pin warning / not performed |
+| EasyEDA review | Complete component import and binding sheet saved; embedded libraries independently checked |
+| Binding-review DRC / hardware test | 0 fatal, 0 errors, 1 shield-pin warning / physical test not performed |
 
 ![Mechanical reference comparison](docs/images/mechanical-verification.png)
 
@@ -91,8 +91,8 @@ Open `hardware/reconstruction/complete-geometry-review.kicad_pcb` for positional
 - [x] Source audit and digital mechanical-reference checks
 - [x] Through-hole geometry recovery and independent CAD read-back
 - [x] Reconstruction report and structured repository
-- [ ] Resolve held pin identities and component details
-- [ ] Import, bind symbols/footprints, save and reopen in EasyEDA Pro
+- [x] Reconstruct and check 40 footprint bindings and 179 pin/pad matches in saved EasyEDA archive
+- [ ] Finish exact-part qualification, body/courtyard geometry and physical fit checks
 - [ ] Finalize power and GPIO architecture, including microSD conflicts
 - [ ] Complete schematic, layout, routing and meaningful ERC/DRC
 - [ ] Verify manufacturing exports and test a physical prototype

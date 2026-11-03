@@ -1,0 +1,3451 @@
+{
+  "archive_sha256": "3f595ceb70217a23908f5d67e0488b242ecd88637427c260f8fd59cd3c67d010",
+  "footprints": 40,
+  "pads": 181,
+  "electrical_pads": 179,
+  "tolerance_mm": 0.0003,
+  "max_geometry_difference_mm": 1.260000175307141e-07,
+  "errors": [],
+  "checks": [
+    {
+      "reference": "M1",
+      "pin": "1",
+      "position_mm": [
+        37.399,
+        49.337
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "2",
+      "position_mm": [
+        37.399,
+        46.797000000000004
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "3",
+      "position_mm": [
+        37.399,
+        44.257000000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "4",
+      "position_mm": [
+        37.399,
+        41.717
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "5",
+      "position_mm": [
+        37.399,
+        39.177
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "6",
+      "position_mm": [
+        37.399,
+        36.637
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "7",
+      "position_mm": [
+        37.399,
+        34.097
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "8",
+      "position_mm": [
+        22.159000000000002,
+        34.097
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "9",
+      "position_mm": [
+        22.159000000000002,
+        36.637
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "10",
+      "position_mm": [
+        22.159000000000002,
+        39.177
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "11",
+      "position_mm": [
+        22.159000000000002,
+        41.717
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "12",
+      "position_mm": [
+        22.159000000000002,
+        44.257000000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "13",
+      "position_mm": [
+        22.159000000000002,
+        46.797000000000004
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "M1",
+      "pin": "14",
+      "position_mm": [
+        22.159000000000002,
+        49.337
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "1",
+      "position_mm": [
+        107.757,
+        41.59
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "2",
+      "position_mm": [
+        107.757,
+        44.13
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "3",
+      "position_mm": [
+        107.757,
+        46.67
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "4",
+      "position_mm": [
+        107.757,
+        49.21
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "5",
+      "position_mm": [
+        107.757,
+        51.75
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "6",
+      "position_mm": [
+        107.757,
+        54.29
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "7",
+      "position_mm": [
+        107.757,
+        56.83
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "8",
+      "position_mm": [
+        107.757,
+        59.370000000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "9",
+      "position_mm": [
+        107.757,
+        61.910000000000004
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "10",
+      "position_mm": [
+        100.137,
+        61.910000000000004
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "11",
+      "position_mm": [
+        100.137,
+        59.370000000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "12",
+      "position_mm": [
+        100.137,
+        56.83
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "13",
+      "position_mm": [
+        100.137,
+        54.29
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "14",
+      "position_mm": [
+        100.137,
+        51.75
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "15",
+      "position_mm": [
+        100.137,
+        49.21
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "16",
+      "position_mm": [
+        100.137,
+        46.67
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "17",
+      "position_mm": [
+        100.137,
+        44.13
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U1",
+      "pin": "18",
+      "position_mm": [
+        100.137,
+        41.59
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39,
+        "height": 39
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "1",
+      "position_mm": [
+        38.542,
+        60.259
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "2",
+      "position_mm": [
+        38.542,
+        62.799
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "3",
+      "position_mm": [
+        38.542,
+        65.339
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "4",
+      "position_mm": [
+        38.542,
+        67.879
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "5",
+      "position_mm": [
+        38.542,
+        70.419
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "6",
+      "position_mm": [
+        38.542,
+        72.959
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "7",
+      "position_mm": [
+        38.542,
+        75.499
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "8",
+      "position_mm": [
+        38.542,
+        78.039
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "9",
+      "position_mm": [
+        56.576,
+        78.039
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "10",
+      "position_mm": [
+        56.576,
+        75.499
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "11",
+      "position_mm": [
+        56.576,
+        72.959
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "12",
+      "position_mm": [
+        56.576,
+        70.419
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "13",
+      "position_mm": [
+        56.576,
+        67.879
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "14",
+      "position_mm": [
+        56.576,
+        65.339
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "15",
+      "position_mm": [
+        56.576,
+        62.799
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U2",
+      "pin": "16",
+      "position_mm": [
+        56.576,
+        60.259
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U3",
+      "pin": "01",
+      "position_mm": [
+        24.701031999999998,
+        60.664384000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40.16,
+        "height": 40.16
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U3",
+      "pin": "02",
+      "position_mm": [
+        27.241032,
+        60.664384000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40.16,
+        "height": 40.16
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U3",
+      "pin": "03",
+      "position_mm": [
+        29.781032,
+        60.664384000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40.16,
+        "height": 40.16
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U3",
+      "pin": "04",
+      "position_mm": [
+        32.321032,
+        60.664384000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40.16,
+        "height": 40.16
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U3",
+      "pin": "05",
+      "position_mm": [
+        34.861032,
+        60.664384000000005
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40.16,
+        "height": 40.16
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "1",
+      "position_mm": [
+        79.944,
+        58.608000000000004
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "2",
+      "position_mm": [
+        79.944,
+        56.068
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "3",
+      "position_mm": [
+        79.944,
+        53.528
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "4",
+      "position_mm": [
+        79.944,
+        50.988
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "5",
+      "position_mm": [
+        79.944,
+        48.448
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "6",
+      "position_mm": [
+        79.944,
+        45.908
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "7",
+      "position_mm": [
+        97.724,
+        48.448
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "8",
+      "position_mm": [
+        97.724,
+        50.988
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "9",
+      "position_mm": [
+        97.724,
+        53.528
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "U4",
+      "pin": "10",
+      "position_mm": [
+        97.724,
+        56.068
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "DS",
+      "pin": "1",
+      "position_mm": [
+        85.405,
+        39.431
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "DS",
+      "pin": "2",
+      "position_mm": [
+        87.945,
+        39.431
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "DS",
+      "pin": "3",
+      "position_mm": [
+        90.485,
+        39.431
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "DS",
+      "pin": "4",
+      "position_mm": [
+        93.025,
+        39.431
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J5",
+      "pin": "1",
+      "position_mm": [
+        54.546032,
+        41.106384
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J5",
+      "pin": "2",
+      "position_mm": [
+        52.006032,
+        41.106384
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J5",
+      "pin": "3",
+      "position_mm": [
+        49.466032,
+        41.106384
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J5",
+      "pin": "4",
+      "position_mm": [
+        46.926032,
+        41.106384
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J5",
+      "pin": "5",
+      "position_mm": [
+        44.386032,
+        41.106384
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J5",
+      "pin": "6",
+      "position_mm": [
+        41.846032,
+        41.106384
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J4",
+      "pin": "1",
+      "position_mm": [
+        110.42399999999999,
+        58.1
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J4",
+      "pin": "2",
+      "position_mm": [
+        110.42399999999999,
+        55.56
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J4",
+      "pin": "3",
+      "position_mm": [
+        110.42399999999999,
+        53.02
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J4",
+      "pin": "4",
+      "position_mm": [
+        110.42399999999999,
+        50.480000000000004
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J4",
+      "pin": "5",
+      "position_mm": [
+        110.42399999999999,
+        47.940000000000005
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J4",
+      "pin": "6",
+      "position_mm": [
+        110.42399999999999,
+        45.4
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J1",
+      "pin": "1",
+      "position_mm": [
+        71.562,
+        35.748
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J1",
+      "pin": "2",
+      "position_mm": [
+        71.562,
+        33.208
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J2",
+      "pin": "1",
+      "position_mm": [
+        38.669,
+        26.35
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J2",
+      "pin": "2",
+      "position_mm": [
+        38.669,
+        28.89
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J3",
+      "pin": "1",
+      "position_mm": [
+        71.562,
+        29.652
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "J3",
+      "pin": "2",
+      "position_mm": [
+        71.562,
+        27.112000000000002
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 42.13,
+        "height": 42.13
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "RE1",
+      "pin": "A",
+      "position_mm": [
+        61.31487800000001,
+        53.154112
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 47.24,
+        "height": 47.24
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "RE1",
+      "pin": "C",
+      "position_mm": [
+        63.815,
+        53.154112
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 47.24,
+        "height": 47.24
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "RE1",
+      "pin": "B",
+      "position_mm": [
+        66.314868,
+        53.154112
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 47.24,
+        "height": 47.24
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "RE1",
+      "pin": "1",
+      "position_mm": [
+        61.31487800000001,
+        38.654014
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 47.24,
+        "height": 47.24
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "RE1",
+      "pin": "2",
+      "position_mm": [
+        66.314868,
+        38.654014
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 47.24,
+        "height": 47.24
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "RE1",
+      "pin": "SH1",
+      "position_mm": [
+        58.215062,
+        45.653999999999996
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "SLOT",
+        "width": 90.54,
+        "height": 78.74
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0.0
+    },
+    {
+      "reference": "RE1",
+      "pin": "SH2",
+      "position_mm": [
+        69.414938,
+        45.653999999999996
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "SLOT",
+        "width": 90.54,
+        "height": 78.74
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0.0
+    },
+    {
+      "reference": "S4",
+      "pin": "1",
+      "position_mm": [
+        62.458132,
+        77.352946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S4",
+      "pin": "3",
+      "position_mm": [
+        64.958,
+        77.352946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S4",
+      "pin": "5",
+      "position_mm": [
+        67.457868,
+        77.352946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S4",
+      "pin": "6",
+      "position_mm": [
+        67.457868,
+        74.15305400000001
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S4",
+      "pin": "4",
+      "position_mm": [
+        64.958,
+        74.15305400000001
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S4",
+      "pin": "2",
+      "position_mm": [
+        62.458132,
+        74.15305400000001
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S5",
+      "pin": "1",
+      "position_mm": [
+        62.458132,
+        71.002946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S5",
+      "pin": "3",
+      "position_mm": [
+        64.958,
+        71.002946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S5",
+      "pin": "5",
+      "position_mm": [
+        67.457868,
+        71.002946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S5",
+      "pin": "6",
+      "position_mm": [
+        67.457868,
+        67.80305399999999
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S5",
+      "pin": "4",
+      "position_mm": [
+        64.958,
+        67.80305399999999
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S5",
+      "pin": "2",
+      "position_mm": [
+        62.458132,
+        67.80305399999999
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S1",
+      "pin": "1",
+      "position_mm": [
+        62.458132,
+        64.779946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S1",
+      "pin": "3",
+      "position_mm": [
+        64.958,
+        64.779946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S1",
+      "pin": "5",
+      "position_mm": [
+        67.457868,
+        64.779946
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S1",
+      "pin": "6",
+      "position_mm": [
+        67.457868,
+        61.580054
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S1",
+      "pin": "4",
+      "position_mm": [
+        64.958,
+        61.580054
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S1",
+      "pin": "2",
+      "position_mm": [
+        62.458132,
+        61.580054
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S3",
+      "pin": "1",
+      "position_mm": [
+        62.458132,
+        58.556945999999996
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S3",
+      "pin": "3",
+      "position_mm": [
+        64.958,
+        58.556945999999996
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S3",
+      "pin": "5",
+      "position_mm": [
+        67.457868,
+        58.556945999999996
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S3",
+      "pin": "6",
+      "position_mm": [
+        67.457868,
+        55.357054
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S3",
+      "pin": "4",
+      "position_mm": [
+        64.958,
+        55.357054
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S3",
+      "pin": "2",
+      "position_mm": [
+        62.458132,
+        55.357054
+      ],
+      "max_geometry_difference_mm": 2.220446049250313e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S2",
+      "pin": "5",
+      "position_mm": [
+        28.344154000000003,
+        30.260584
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S2",
+      "pin": "3",
+      "position_mm": [
+        25.844032000000002,
+        30.260584
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S2",
+      "pin": "1",
+      "position_mm": [
+        23.344164000000003,
+        30.260584
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S2",
+      "pin": "2",
+      "position_mm": [
+        23.344164000000003,
+        27.060438
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S2",
+      "pin": "4",
+      "position_mm": [
+        25.844032000000002,
+        27.060438
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "S2",
+      "pin": "6",
+      "position_mm": [
+        28.344154000000003,
+        27.060438
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 33.46,
+        "height": 33.46
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "LED1",
+      "pin": "C",
+      "position_mm": [
+        109.66199999999999,
+        37.145
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "LED1",
+      "pin": "A",
+      "position_mm": [
+        109.66199999999999,
+        39.685
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "LED2",
+      "pin": "C",
+      "position_mm": [
+        109.66199999999999,
+        63.815
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "LED2",
+      "pin": "A",
+      "position_mm": [
+        109.66199999999999,
+        66.355
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "LED3",
+      "pin": "C",
+      "position_mm": [
+        32.319,
+        28.636000000000003
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "LED3",
+      "pin": "A",
+      "position_mm": [
+        34.859,
+        28.636000000000003
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 39.37,
+        "height": 39.37
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "AUDIO",
+      "pin": "P",
+      "position_mm": [
+        59.760906,
+        31.557000000000002
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "AUDIO",
+      "pin": "N",
+      "position_mm": [
+        67.361094,
+        31.557000000000002
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B0",
+      "pin": "1",
+      "position_mm": [
+        80.4012,
+        76.7436
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40,
+        "height": 40
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B0",
+      "pin": "3",
+      "position_mm": [
+        80.4012,
+        72.22240000000001
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40,
+        "height": 40
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B0",
+      "pin": "4",
+      "position_mm": [
+        73.8988,
+        72.22240000000001
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40,
+        "height": 40
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B0",
+      "pin": "2",
+      "position_mm": [
+        73.8988,
+        76.7436
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40,
+        "height": 40
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B1",
+      "pin": "3",
+      "position_mm": [
+        98.0288,
+        76.7436
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40,
+        "height": 40
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B1",
+      "pin": "1",
+      "position_mm": [
+        98.0288,
+        72.22240000000001
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40,
+        "height": 40
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B1",
+      "pin": "2",
+      "position_mm": [
+        104.5312,
+        72.22240000000001
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40,
+        "height": 40
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B1",
+      "pin": "4",
+      "position_mm": [
+        104.5312,
+        76.7436
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 40,
+        "height": 40
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "",
+      "position_mm": [
+        87.871594,
+        73.139594
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 31.5,
+        "height": 31.5
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "",
+      "position_mm": [
+        90.558406,
+        75.826406
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 43.31,
+        "height": 43.31
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "1",
+      "position_mm": [
+        85.379043994,
+        76.303893996
+      ],
+      "max_geometry_difference_mm": 6.399999996631323e-08,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "2",
+      "position_mm": [
+        86.386664026,
+        77.31152393400001
+      ],
+      "max_geometry_difference_mm": 6.599999835543713e-08,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "3",
+      "position_mm": [
+        87.394293964,
+        78.319143966
+      ],
+      "max_geometry_difference_mm": 6.399999996631323e-08,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "4",
+      "position_mm": [
+        91.035893996,
+        70.64703408800001
+      ],
+      "max_geometry_difference_mm": 8.800000728115265e-08,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "5",
+      "position_mm": [
+        92.043523934,
+        71.654664026
+      ],
+      "max_geometry_difference_mm": 6.599999835543713e-08,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "6",
+      "position_mm": [
+        93.05115412600001,
+        72.662293964
+      ],
+      "max_geometry_difference_mm": 1.260000175307141e-07,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "SH1",
+      "position_mm": [
+        86.351314084,
+        71.619314084
+      ],
+      "max_geometry_difference_mm": 8.399999273933645e-08,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "B2_LOC",
+      "pin": "SH2",
+      "position_mm": [
+        92.078873876,
+        77.346873876
+      ],
+      "max_geometry_difference_mm": 1.239999960489513e-07,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R1",
+      "pin": "1",
+      "position_mm": [
+        27.6581,
+        34.478
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R1",
+      "pin": "2",
+      "position_mm": [
+        29.6139,
+        34.478
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R2",
+      "pin": "1",
+      "position_mm": [
+        105.0011,
+        38.923
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R2",
+      "pin": "2",
+      "position_mm": [
+        106.9569,
+        38.923
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R3",
+      "pin": "1",
+      "position_mm": [
+        103.3501,
+        65.974
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R3",
+      "pin": "2",
+      "position_mm": [
+        105.3059,
+        65.974
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R4",
+      "pin": "1",
+      "position_mm": [
+        35.0241,
+        55.179
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R4",
+      "pin": "2",
+      "position_mm": [
+        36.979899999999994,
+        55.179
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R5",
+      "pin": "1",
+      "position_mm": [
+        45.5651,
+        49.972
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R5",
+      "pin": "2",
+      "position_mm": [
+        47.520900000000005,
+        49.972
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R6",
+      "pin": "1",
+      "position_mm": [
+        47.5971,
+        47.051
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R6",
+      "pin": "2",
+      "position_mm": [
+        49.552899999999994,
+        47.051
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R7",
+      "pin": "1",
+      "position_mm": [
+        79.2201,
+        33.081
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R7",
+      "pin": "2",
+      "position_mm": [
+        81.1759,
+        33.081
+      ],
+      "max_geometry_difference_mm": 1.1102230246251565e-16,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R8",
+      "pin": "1",
+      "position_mm": [
+        75.245,
+        31.759945999999996
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "R8",
+      "pin": "2",
+      "position_mm": [
+        75.245,
+        33.715999999999994
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C1",
+      "pin": "1",
+      "position_mm": [
+        44.003,
+        61.42994
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C1",
+      "pin": "2",
+      "position_mm": [
+        44.003,
+        63.18
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C2",
+      "pin": "1",
+      "position_mm": [
+        99.89697,
+        38.669
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C2",
+      "pin": "2",
+      "position_mm": [
+        101.64703,
+        38.669
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C5",
+      "pin": "1",
+      "position_mm": [
+        80.84697,
+        29.397999999999996
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C5",
+      "pin": "2",
+      "position_mm": [
+        82.59702999999999,
+        29.397999999999996
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C9",
+      "pin": "1",
+      "position_mm": [
+        67.61103,
+        26.096000000000004
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C9",
+      "pin": "2",
+      "position_mm": [
+        65.86097,
+        26.096000000000004
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C3",
+      "pin": "1",
+      "position_mm": [
+        55.266121999999996,
+        55.052
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C3",
+      "pin": "2",
+      "position_mm": [
+        50.266132,
+        55.052
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C4",
+      "pin": "1",
+      "position_mm": [
+        45.741122,
+        55.052
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "C4",
+      "pin": "2",
+      "position_mm": [
+        40.741132,
+        55.052
+      ],
+      "max_geometry_difference_mm": 0.0,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "T1",
+      "pin": "1",
+      "position_mm": [
+        77.97296,
+        29.355073999999995
+      ],
+      "max_geometry_difference_mm": 3.552713678800501e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "T1",
+      "pin": "2",
+      "position_mm": [
+        76.07303999999999,
+        29.355073999999995
+      ],
+      "max_geometry_difference_mm": 1.4210854715202004e-14,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "T1",
+      "pin": "3",
+      "position_mm": [
+        77.023,
+        27.154925999999993
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "LS1",
+      "pin": "1",
+      "position_mm": [
+        54.186113999999996,
+        27.927086
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    },
+    {
+      "reference": "LS1",
+      "pin": "2",
+      "position_mm": [
+        54.186113999999996,
+        37.726914
+      ],
+      "max_geometry_difference_mm": 7.105427357601002e-15,
+      "angle_difference_deg": 0.0,
+      "number_matches": true,
+      "plating_matches": true,
+      "native_hole": {
+        "holeType": "ROUND",
+        "width": 0,
+        "height": 0
+      },
+      "native_relative_hole_angle": 90,
+      "slot_axis_difference_deg": 0
+    }
+  ],
+  "scope": "Native library vs independently parsed input: coordinates, pad sizes, drill dimensions, pad numbers, pad angles and plating. Does not establish circuit correctness or physical fit."
+}

@@ -1,0 +1,6 @@
+(module "Kerf_R1_original" (layer "B.Cu") (tedit 0)
+(fp_text reference "R1" (at 0 -3) (layer "B.SilkS") (effects (font (size 1 1) (thickness .15))))
+(fp_text value "Kerf_R1_original" (at 0 -4) (layer "B.Fab") (effects (font (size .7 .7) (thickness .1))))
+(pad "1" smd rect (at 0.000000 0.000000) (size 0.96012 1.469898) (layers B.Cu B.Paste B.Mask) (solder_mask_margin 0.101981) (solder_paste_margin 0.000000))
+(pad "2" smd rect (at 1.955800 0.000000) (size 0.96012 1.469898) (layers B.Cu B.Paste B.Mask) (solder_mask_margin 0.101981) (solder_paste_margin 0.000000))
+)

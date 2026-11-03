@@ -1,0 +1,151 @@
+{
+  "pads": 8,
+  "tolerance_mm": 0.001,
+  "checks": [
+    {
+      "pin": "1",
+      "center_mm": [
+        65.379043994,
+        7.196106004000001
+      ],
+      "layer_checks": {
+        "GTL": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTS": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTP": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        }
+      }
+    },
+    {
+      "pin": "2",
+      "center_mm": [
+        66.386664026,
+        6.188476065999993
+      ],
+      "layer_checks": {
+        "GTL": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTS": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTP": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        }
+      }
+    },
+    {
+      "pin": "3",
+      "center_mm": [
+        67.394293964,
+        5.180856034000001
+      ],
+      "layer_checks": {
+        "GTL": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTS": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTP": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        }
+      }
+    },
+    {
+      "pin": "4",
+      "center_mm": [
+        71.035893996,
+        12.852965911999988
+      ],
+      "layer_checks": {
+        "GTL": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTS": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTP": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        }
+      }
+    },
+    {
+      "pin": "5",
+      "center_mm": [
+        72.043523934,
+        11.845335973999994
+      ],
+      "layer_checks": {
+        "GTL": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTS": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTP": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        }
+      }
+    },
+    {
+      "pin": "6",
+      "center_mm": [
+        73.05115412600001,
+        10.837706036
+      ],
+      "layer_checks": {
+        "GTL": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTS": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTP": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        }
+      }
+    },
+    {
+      "pin": "SH1",
+      "center_mm": [
+        66.351314084,
+        11.880685916000004
+      ],
+      "layer_checks": {
+        "GTL": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTS": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTP": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        }
+      }
+    },
+    {
+      "pin": "SH2",
+      "center_mm": [
+        72.078873876,
+        6.153126123999996
+      ],
+      "layer_checks": {
+        "GTL": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTS": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        },
+        "GTP": {
+          "outside_area_mm2_at_1um_tolerance": 0.0
+        }
+      }
+    }
+  ],
+  "scope": "Eight rotated rectangular copper/paste and expanded mask shapes contained in original Gerbers within 1 micrometre. This is source conversion evidence, not a fabrication tolerance or mechanical fit approval."
+}

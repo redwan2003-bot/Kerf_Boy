@@ -1,0 +1,155 @@
+Browser tab: 14137942, Title: "CHIP-BOY Mk III - EasyEDA Pro Redesign Rev A | Kerf_Step3_Binding_Review.step3-binding-review | EasyEDA Pro - V3.2.209", URL: "https://pro.easyeda.com/editor#id=987575100d2f4542bfc9780160616df2,tab=9445dab2bebb8e5c@987575100d2f4542bfc9780160616df2|485d56280d644118@987575100d2f4542bfc9780160616df2|*6edbb0a5db6d0bd1@987575100d2f4542bfc9780160616df2|d9e9d23f0604e918@987575100d2f4542bfc9780160616df2|*1d37e42034445c5d@987575100d2f4542bfc9780160616df2|*36ec364628955ba9@987575100d2f4542bfc9780160616df2".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 1467-1469
++						1467 text Name
++						1468 text field (disabled) Kerf_Step3_Binding_Review
++						1469 text Drawing
+~						1308 text field Altium_A
++						1470 text ···
++						1471 text Border
+~							1310 checkbox (settable, integer) Description: ✔, Value: 1
++							1472 text ✔
++						1473 text Show
++						1474 text Title Block Position
++						1475 container
++							1476 text Right Bottom
++						1477 text Size
++						1478 container
++							1479 text Customize
+~						1312 text field (settable) 9.5inch
+~						1313 text field (settable) 7.5inch
++						1480 text Region Start
++						1481 container
++							1482 text Left Top
++						1483 text X Region Count
+~						1314 text field (settable) 4
++						1484 text Y Region Count
+~						1315 text field (settable) 4
++						1485 text Blade Width
+~						1316 text field (settable) 0.2inch
++						1486 text Color
+~							1319 text field #A00000(Default)
++						1487 text Title Block
+~							1321 checkbox (settable, integer) Description: ✔, Value: 1
++							1488 text ✔
++						1489 text Show
+~							1323 checkbox (settable, integer) Value: 0, ID: sch_property_panelAdd into BOM
++						1490 text Add into BOM
+~							1325 checkbox (settable, integer) 0
+~						1326 text field (settable) yes
+~							1328 checkbox (settable, integer) Value: 0, ID: sch_property_panelAddress1
++						1491 text Address1
+~							1330 checkbox (settable, integer) 0
+~						1331 text field (settable) *
+~							1333 checkbox (settable, integer) Value: 0, ID: sch_property_panelAddress2
++						1492 text Address2
+~							1335 checkbox (settable, integer) 0
+~						1336 text field (settable) *
+~							1338 checkbox (settable, integer) Value: 0, ID: sch_property_panelAddress3
++						1493 text Address3
+~							1340 checkbox (settable, integer) 0
+~						1341 text field (settable) *
+~							1343 checkbox (settable, integer) Value: 0, ID: sch_property_panelAddress4
++						1494 text Address4
+~							1345 checkbox (settable, integer) 0
+~						1346 text field (settable) *
+~							1348 checkbox (settable, integer) Value: 0, ID: sch_property_panelApplication_BuildNumber
++						1495 text Application_BuildNumber
+~							1350 checkbox (settable, integer) 0
+~						1351 text field (settable) *
+~							1353 checkbox (settable, integer) Value: 0, ID: sch_property_panelApprovedBy
++						1496 text ApprovedBy
+~							1355 checkbox (settable, integer) 0
+~						1356 text field (settable) *
+~							1358 checkbox (settable, integer) Value: 0, ID: sch_property_panelAuthor
++						1497 text Author
+~							1360 checkbox (settable, integer) 0
+~						1361 text field (settable) *
+~							1363 checkbox (settable, integer) Value: 0, ID: sch_property_panelCheckedBy
++						1498 text CheckedBy
+~							1365 checkbox (settable, integer) 0
+~						1366 text field (settable) *
+~							1368 checkbox (settable, integer) Value: 0, ID: sch_property_panelCompanyName
++						1499 text CompanyName
+~							1370 checkbox (settable, integer) 0
+~						1371 text field (settable) *
+~							1373 checkbox (settable, integer) Value: 0, ID: sch_property_panelCurrentDate
++						1500 text CurrentDate
+~							1375 checkbox (settable, integer) 0
+~						1376 text field (settable) *
+~							1378 checkbox (settable, integer) Value: 0, ID: sch_property_panelCurrentTime
++						1501 text CurrentTime
+~							1380 checkbox (settable, integer) 0
+~						1381 text field (settable) *
+~							1383 checkbox (settable, integer) Value: 0, ID: sch_property_panelDate
++						1502 text Date
+~							1385 checkbox (settable, integer) 0
+~						1386 text field (settable) *
+~							1388 checkbox (settable, integer) Value: 0, ID: sch_property_panelDescription
++						1503 text Description
+~							1390 checkbox (settable, integer) 0
+~							1393 checkbox (settable, integer) Value: 0, ID: sch_property_panelDocumentFullPathAndName
++						1504 text DocumentFullPathAndName
+~							1395 checkbox (settable, integer) 0
+~						1396 text field (settable) *
+~							1398 checkbox (settable, integer) Value: 0, ID: sch_property_panelDocumentName
++						1505 text DocumentName
+~							1400 checkbox (settable, integer) 0
+~						1401 text field (settable) *
+~							1403 checkbox (settable, integer) Value: 0, ID: sch_property_panelDocumentNumber
++						1506 text DocumentNumber
+~							1405 checkbox (settable, integer) 0
+~						1406 text field (settable) *
+~							1408 checkbox (settable, integer) Value: 0, ID: sch_property_panelDrawnBy
++						1507 text DrawnBy
+~							1410 checkbox (settable, integer) 0
+~						1411 text field (settable) *
+~							1413 checkbox (settable, integer) Value: 0, ID: sch_property_panelEngineer
++						1508 text Engineer
+~							1415 checkbox (settable, integer) 0
+~						1416 text field (settable) *
+~							1418 checkbox (settable, integer) Value: 0, ID: sch_property_panelImagePath
++						1509 text ImagePath
+~							1420 checkbox (settable, integer) 0
+~						1421 text field (settable) *
+~							1423 checkbox (settable, integer) Value: 0, ID: sch_property_panelModifiedDate
++						1510 text ModifiedDate
+~							1425 checkbox (settable, integer) 0
+~						1426 text field (settable) *
+~							1428 checkbox (settable, integer) Value: 0, ID: sch_property_panelOrganization
++						1511 text Organization
+~							1430 checkbox (settable, integer) 0
+~						1431 text field (settable) *
+~							1433 checkbox (settable, integer) Value: 0, ID: sch_property_panelProjectName
++						1512 text ProjectName
+~							1435 checkbox (settable, integer) 0
+~						1436 text field (settable) *
+~							1438 checkbox (settable, integer) Value: 0, ID: sch_property_panelRevision
++						1513 text Revision
+~							1440 checkbox (settable, integer) 0
+~						1441 text field (settable) *
+~							1443 checkbox (settable, integer) Value: 0, ID: sch_property_panelRule
++						1514 text Rule
+~							1445 checkbox (settable, integer) 0
+~						1446 text field (settable) *
+~							1448 checkbox (settable, integer) Value: 0, ID: sch_property_panelSheetNumber
++						1515 text SheetNumber
+~							1450 checkbox (settable, integer) 0
+~						1451 text field (settable) 1
+~							1453 checkbox (settable, integer) Value: 0, ID: sch_property_panelSheetTotal
++						1516 text SheetTotal
+~							1455 checkbox (settable, integer) 0
+~						1456 text field (settable) 1
+~							1458 checkbox (settable, integer) Value: 0, ID: sch_property_panelTime
++						1517 text Time
+~							1460 checkbox (settable, integer) 0
+~						1461 text field (settable) *
+~							1463 checkbox (settable, integer) Value: 0, ID: sch_property_panelTitle
++						1518 text Title
+~							1465 checkbox (settable, integer) 0
+~						1466 text field (settable) *
+~						811 text All ( 7 )
+~						817 text Warn ( 1 )
+~						819 text Info ( 6 )
++						1519 text 2026-11-03 13:09:22 [ Info ] :  Start Design Rule Checking. 2026-11-03 13:09:22 [ Info ] :  The property "Designator" of Component  $1I41  doesn't match the suggestion rule. Suggesting the Designator value combine into: English letters + numeric or question mark. 2026-11-03 13:09:22 [ Info ] :  The property "Designator" of Component  $1I46  doesn't match the suggestion rule. Suggesting the Designator value combine into: English letters + numeric or question mark. 2026-11-03 13:09:22 [ Info ] :  The property "Designator" of Component  $1I52  doesn't match the suggestion rule. Suggesting the Designator value combine into: English letters + numeric or question mark. 2026-11-03 13:09:22 [ Warn ] :  Found some components Pins floating, suggest placing No Connect Flag on the Pins :  B2_LOC.SH1 , B2_LOC.SH2 , RE1.SH1 , RE1.SH2 2026-11-03 13:09:22 [ Info ] :  The pin of the component Kerf_B2_LOC_review_symbol does not correspond to the pad (Pad has no corresponding pin: ):  $1I52 2026-11-03 13:09:22 [ Info ] :  Finish Design Rule Checking. Fatal Error: 0, Error: 0, Warning: 1, Info: 4.
+The focused UI element is 806 button Check DRC

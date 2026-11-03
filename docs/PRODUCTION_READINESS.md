@@ -5,31 +5,25 @@
 | Stage | Status | Evidence / remaining work |
 |---|---|---|
 | 1. Source audit | Complete with findings | 50 original hashes; source discrepancies recorded. |
-| 2. Digital mechanical reference | Verified with limits | Repaired drafting gaps; no physical fit test; EasyEDA review import visible, 140 native pad dimensions checked; slot orientation/mask rendering pending. |
-| 3. Component/footprint reconstruction | Incomplete | 24 geometry groups; 85 reconstructed pad mappings; copper tracing added; native review pages imported; 179 symbol pin names/numbers and 140 pad dimensions checked; exact physical numbering and bindings remain. |
+| 2. Digital mechanical reference | Verified with limits | Repaired drafting gaps; no physical fit test; EasyEDA review import visible, 181 current native pads checked, including slot axes and SMD mask expansion; physical fit remains pending. |
+| 3. Component/footprint reconstruction | Digital reconstruction and binding verified; qualification incomplete | 40 footprints; 179 electrical pad mappings; 181 native pads checked; manufacturer/body/courtyard and physical qualification remain. |
 | 4. Power and GPIO architecture | Pending | Battery ratings, microSD pin conflicts, BNO055 interface and concurrent load budget. |
-| 5. Schematic | Pending | 40-component reference imported; 40 missing-footprint fatal findings and one shield-pin warning; full binding pending. |
+| 5. Schematic | Circuit redesign pending | 40-component binding review saved; 0 fatal / 0 errors / 1 shield warning; retained reference wires have known revision differences. |
 | 6. PCB | Pending | Placement, routing, real stackup, meaningful rules and DRC. |
 | 7. Manufacturing review | Pending | Redesign Gerbers/drills/BOM/assembly outputs and independent inspection. |
 | 8. Prototype | Pending | Physical fit, continuity, power, temperature and simultaneous-function testing. |
 
-## Electrical holds
+## Current holds
 
-- The supplemental SchDoc reveals six switch pins overlapping in pairs 1/2, 3/4, 5/6. Physical hole numbering remains unverified; no second pole is established.
-- Encoder contact functions have copper-trace evidence; exact contact/shield pad numbering still needs verification.
-- LED ground-side terminals and tactile-button contact groups now have copper-trace evidence. Exact component-native numbering remains unverified.
-- The two-pin audio region traces to the buzzer switch and ground, supporting BZ1 rather than LS1. Symbol binding and physical part verification remain pending.
-- S2 hole H098 is connected to the 3V3 plane in the new polygon-topology check. Exact switch pin numbering remains held.
-- Navigation-switch SMD pads remain outside the through-hole reconstruction.
-- Original native CAD/netlist equivalence is unavailable; the supplied schematic and manufacturing-output dates differ.
+- Exact component revisions, orderable identities, body/actuator heights, full courtyards/keepouts and electrical ratings remain unqualified.
+- The current library resolves digital switch/encoder/LED/button pin numbering using matching upstream native PCB geometry. Historical held files are retained as evidence, not current mapping instructions.
+- The navigation footprint now includes eight SMD pads and two mechanical locating holes; blank locator numbers produce an informational native finding.
+- Encoder/navigation shield grounding is undecided; the native warning remains visible.
+- Buzzer and J2 polarity differ between revisions. The reference schematic is not approved for fabrication.
+- Battery specification, power budget, GPIO/microSD conflicts, interface configuration, full circuit connectivity, placement/routing and PCB rules remain pending.
+- Physical fit, continuity, thermal and functional tests have not been performed.
 
-## Evidence needed
-
-Matching native Altium files or an original pin/net list can resolve identities. Manufacturer drawings, copper-connectivity reconstruction and actual continuity/polarity checks are alternatives. Physical tests have not been performed. Keep the exact original through-hole parts; no alternate module has been adopted.
-
-The successful geometry comparison measures conversion fidelity, not electrical function, fabrication tolerance or industrial qualification. See the [full report](reports/complete-reconstruction-report.pdf).
-
-The [Step 3 copper-trace addendum](reports/step-3-copper-verification.md) supersedes the historical report on these specific connectivity findings. It does not close Step 3.
+See the [current Step 3 report](reports/step-3-component-binding-report.md). Digital library verification is not industrial qualification. Historical reports below describe earlier checkpoints.
 
 ## Supplemental native schematic
 

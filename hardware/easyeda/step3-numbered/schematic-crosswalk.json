@@ -1,0 +1,245 @@
+{
+  "components": [
+    {
+      "source_designator": "Xiao ESP32S3",
+      "review_designator": "M1",
+      "symbol_reference": "Kerf_M1_review_symbol",
+      "footprint_name": "Kerf_M1_original"
+    },
+    {
+      "source_designator": "128x64 OLED",
+      "review_designator": "DS",
+      "symbol_reference": "Kerf_DS_review_symbol",
+      "footprint_name": "Kerf_DS_original"
+    },
+    {
+      "source_designator": "J3",
+      "review_designator": "J3",
+      "symbol_reference": "Kerf_J3_review_symbol",
+      "footprint_name": "Kerf_J3_original"
+    },
+    {
+      "source_designator": "R1",
+      "review_designator": "R2",
+      "symbol_reference": "Kerf_R2_review_symbol",
+      "footprint_name": "Kerf_R2_original"
+    },
+    {
+      "source_designator": "LED1",
+      "review_designator": "LED1",
+      "symbol_reference": "Kerf_LED1_review_symbol",
+      "footprint_name": "Kerf_LED1_original"
+    },
+    {
+      "source_designator": "MCP23008",
+      "review_designator": "U1",
+      "symbol_reference": "Kerf_U1_review_symbol",
+      "footprint_name": "Kerf_U1_original"
+    },
+    {
+      "source_designator": "Buzzer",
+      "review_designator": "AUDIO",
+      "symbol_reference": "Kerf_AUDIO_review_symbol",
+      "footprint_name": "Kerf_AUDIO_original"
+    },
+    {
+      "source_designator": "R2",
+      "review_designator": "R3",
+      "symbol_reference": "Kerf_R3_review_symbol",
+      "footprint_name": "Kerf_R3_original"
+    },
+    {
+      "source_designator": "LED2",
+      "review_designator": "LED2",
+      "symbol_reference": "Kerf_LED2_review_symbol",
+      "footprint_name": "Kerf_LED2_original"
+    },
+    {
+      "source_designator": "B0",
+      "review_designator": "B0",
+      "symbol_reference": "Kerf_B0_review_symbol",
+      "footprint_name": "Kerf_B0_original"
+    },
+    {
+      "source_designator": "B1",
+      "review_designator": "B1",
+      "symbol_reference": "Kerf_B1_review_symbol",
+      "footprint_name": "Kerf_B1_original"
+    },
+    {
+      "source_designator": "BNO055",
+      "review_designator": "U4",
+      "symbol_reference": "Kerf_U4_review_symbol",
+      "footprint_name": "Kerf_U4_original"
+    },
+    {
+      "source_designator": "Navigation Switch",
+      "review_designator": "B2_LOC",
+      "symbol_reference": "Kerf_B2_LOC_review_symbol",
+      "footprint_name": "Kerf_B2_LOC_original"
+    },
+    {
+      "source_designator": "GY-BME280",
+      "review_designator": "J5",
+      "symbol_reference": "Kerf_J5_review_symbol",
+      "footprint_name": "Kerf_J5_original"
+    },
+    {
+      "source_designator": "DF PLAYER",
+      "review_designator": "U2",
+      "symbol_reference": "Kerf_U2_review_symbol",
+      "footprint_name": "Kerf_U2_original"
+    },
+    {
+      "source_designator": "R4",
+      "review_designator": "R4",
+      "symbol_reference": "Kerf_R4_review_symbol",
+      "footprint_name": "Kerf_R4_original"
+    },
+    {
+      "source_designator": "PEC12R-4217F-S0024",
+      "review_designator": "RE1",
+      "symbol_reference": "Kerf_RE1_review_symbol",
+      "footprint_name": "Kerf_RE1_original"
+    },
+    {
+      "source_designator": "J2",
+      "review_designator": "J2",
+      "symbol_reference": "Kerf_J2_review_symbol",
+      "footprint_name": "Kerf_J2_original"
+    },
+    {
+      "source_designator": "J1",
+      "review_designator": "J1",
+      "symbol_reference": "Kerf_J1_review_symbol",
+      "footprint_name": "Kerf_J1_original"
+    },
+    {
+      "source_designator": "SPK1",
+      "review_designator": "LS1",
+      "symbol_reference": "Kerf_LS1_review_symbol",
+      "footprint_name": "Kerf_LS1_original"
+    },
+    {
+      "source_designator": "SW5",
+      "review_designator": "S5",
+      "symbol_reference": "Kerf_S5_review_symbol",
+      "footprint_name": "Kerf_S5_original"
+    },
+    {
+      "source_designator": "SW1",
+      "review_designator": "S4",
+      "symbol_reference": "Kerf_S4_review_symbol",
+      "footprint_name": "Kerf_S4_original"
+    },
+    {
+      "source_designator": "SW4",
+      "review_designator": "S3",
+      "symbol_reference": "Kerf_S3_review_symbol",
+      "footprint_name": "Kerf_S3_original"
+    },
+    {
+      "source_designator": "SW3",
+      "review_designator": "S1",
+      "symbol_reference": "Kerf_S1_review_symbol",
+      "footprint_name": "Kerf_S1_original"
+    },
+    {
+      "source_designator": "TOF400C-Vl53l1x",
+      "review_designator": "J4",
+      "symbol_reference": "Kerf_J4_review_symbol",
+      "footprint_name": "Kerf_J4_original"
+    },
+    {
+      "source_designator": "ATGM336h",
+      "review_designator": "U3",
+      "symbol_reference": "Kerf_U3_review_symbol",
+      "footprint_name": "Kerf_U3_original"
+    },
+    {
+      "source_designator": "C1",
+      "review_designator": "C1",
+      "symbol_reference": "Kerf_C1_review_symbol",
+      "footprint_name": "Kerf_C1_original"
+    },
+    {
+      "source_designator": "R3",
+      "review_designator": "R1",
+      "symbol_reference": "Kerf_R1_review_symbol",
+      "footprint_name": "Kerf_R1_original"
+    },
+    {
+      "source_designator": "LED3",
+      "review_designator": "LED3",
+      "symbol_reference": "Kerf_LED3_review_symbol",
+      "footprint_name": "Kerf_LED3_original"
+    },
+    {
+      "source_designator": "SW2",
+      "review_designator": "S2",
+      "symbol_reference": "Kerf_S2_review_symbol",
+      "footprint_name": "Kerf_S2_original"
+    },
+    {
+      "source_designator": "R5",
+      "review_designator": "R5",
+      "symbol_reference": "Kerf_R5_review_symbol",
+      "footprint_name": "Kerf_R5_original"
+    },
+    {
+      "source_designator": "R6",
+      "review_designator": "R6",
+      "symbol_reference": "Kerf_R6_review_symbol",
+      "footprint_name": "Kerf_R6_original"
+    },
+    {
+      "source_designator": "T1",
+      "review_designator": "T1",
+      "symbol_reference": "Kerf_T1_review_symbol",
+      "footprint_name": "Kerf_T1_original"
+    },
+    {
+      "source_designator": "R7",
+      "review_designator": "R7",
+      "symbol_reference": "Kerf_R7_review_symbol",
+      "footprint_name": "Kerf_R7_original"
+    },
+    {
+      "source_designator": "R8",
+      "review_designator": "R8",
+      "symbol_reference": "Kerf_R8_review_symbol",
+      "footprint_name": "Kerf_R8_original"
+    },
+    {
+      "source_designator": "C2",
+      "review_designator": "C2",
+      "symbol_reference": "Kerf_C2_review_symbol",
+      "footprint_name": "Kerf_C2_original"
+    },
+    {
+      "source_designator": "C5",
+      "review_designator": "C5",
+      "symbol_reference": "Kerf_C5_review_symbol",
+      "footprint_name": "Kerf_C5_original"
+    },
+    {
+      "source_designator": "C9",
+      "review_designator": "C9",
+      "symbol_reference": "Kerf_C9_review_symbol",
+      "footprint_name": "Kerf_C9_original"
+    },
+    {
+      "source_designator": "C4",
+      "review_designator": "C4",
+      "symbol_reference": "Kerf_C4_review_symbol",
+      "footprint_name": "Kerf_C4_original"
+    },
+    {
+      "source_designator": "C3",
+      "review_designator": "C3",
+      "symbol_reference": "Kerf_C3_review_symbol",
+      "footprint_name": "Kerf_C3_original"
+    }
+  ],
+  "scope": "Component-binding review derived from Mk II. T1 G1/S2/D3 and speaker 1/2 adapted to Mk III. R1-R3 references follow Mk III LED positions. Wires are retained for reference and NOT approved; power/header/buzzer polarity and full circuit reconciliation remain Stage 4/5 work."
+}

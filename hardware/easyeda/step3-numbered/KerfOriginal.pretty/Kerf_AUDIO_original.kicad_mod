@@ -1,0 +1,7 @@
+(module "Kerf_AUDIO_original" (layer "F.Cu") (tedit 0)
+(descr "REFERENCE ONLY - electrical pad numbering unresolved; not for fabrication")
+(fp_text reference "AUDIO" (at 0 -3) (layer "F.SilkS") (effects (font (size 1 1) (thickness .15))))
+(fp_text value "NUMBERED_ORIGINAL" (at 0 -5) (layer "F.Fab") (effects (font (size 1 1) (thickness .15))))
+(pad "P" thru_hole circle (at 0.0 0.0) (size 1.999996 1.999996) (drill 0.800100) (layers "*.Cu" "*.Mask") (solder_mask_margin 0.1016))
+(pad "N" thru_hole circle (at 7.600188 0.0) (size 1.999996 1.999996) (drill 0.800100) (layers "*.Cu" "*.Mask") (solder_mask_margin 0.1016))
+)

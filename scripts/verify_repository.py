@@ -27,6 +27,18 @@ def main():
  for name,digest in native['source_sha256'].items():
   check(hashlib.sha256((ROOT/'hardware/easyeda'/name).read_bytes()).hexdigest()==digest,f'Native review evidence changed: {name}')
  check(native['native_pcb_components']==24 and native['native_pad_net_records']==140 and native['original_footprint_name_checks']==40,'Native review counts changed')
+ step=ROOT/'hardware/easyeda/step3-numbered'
+ for report,archive in [('native-component-check.json','native-components-review.epro2'),('native-binding-check.json','native-bound-review.epro2')]:
+  evidence=json.loads((step/report).read_text())
+  check(hashlib.sha256((step/archive).read_bytes()).hexdigest()==evidence['archive_sha256'],f'Step 3 archive changed: {archive}')
+ geometry=json.loads((step/'native-component-check.json').read_text())
+ binding=json.loads((step/'native-binding-check.json').read_text())
+ check(geometry['footprints']==40 and geometry['pads']==181 and not geometry['errors'],'Step 3 native geometry check failed')
+ check(binding['matched_footprint_bindings']==40 and binding['symbol_pin_instances']==179,'Step 3 binding check failed')
+ check(len(list((step/'KerfOriginal.pretty').glob('*.kicad_mod')))==40,'Step 3 library count changed')
+ upstream=ROOT/'hardware/reference/supplemental/upstream-mk-ii'
+ for name,digest in [('CHIPBOY_Mk_II.PcbDoc','107c5b3b804c07fea307ae68e92e743ecbd569efdfb9130db129b22545f85964'),('CHIPBOY_Mk_II.SchDoc','9872e28f45b1e8e7191b9568461e1852a7f79bb4d7d1ec867469cba9450c42b1')]:
+  check(hashlib.sha256((upstream/name).read_bytes()).hexdigest()==digest,f'Upstream native source changed: {name}')
  for folder,n in [('OriginalCarrier.pretty',11),('UnresolvedOriginal.pretty',13)]:check(len(list((DATA/folder).glob('*.kicad_mod')))==n,f'Wrong footprint count: {folder}')
  copper=read('four-layer-connectivity-check.json')
  check(not copper['conflicts'] and len(copper['known_power_anchor_checks'])==9 and all(r['pass'] for r in copper['known_power_anchor_checks']),'Copper anchor checks failed')
@@ -43,4 +55,5 @@ def main():
  if errors:raise SystemExit('\n'.join(errors))
  print('PASS: 50 source hashes; 189 round holes + 2 slots; 24 footprint groups; 85 unique mapped pads; saved independent checks; Python syntax; local documentation links.')
  print('Scope: repository integrity and recorded geometry evidence, not electrical/production certification.')
+ print('PASS: current 40-footprint library, 181-pad native geometry evidence, 179-pin/40-binding evidence and supplemental upstream hashes.')
 if __name__=='__main__':main()

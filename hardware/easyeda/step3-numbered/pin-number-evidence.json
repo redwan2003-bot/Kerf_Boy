@@ -1,0 +1,464 @@
+{
+  "checks": [
+    {
+      "reference": "RE1",
+      "hole": "H183",
+      "pin": "A",
+      "upstream_reference": "ENCODER",
+      "rotation_deg": 180,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "RE1",
+      "hole": "H184",
+      "pin": "C",
+      "upstream_reference": "ENCODER",
+      "rotation_deg": 180,
+      "max_position_difference_mm": 0.00012200000000461841,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "RE1",
+      "hole": "H185",
+      "pin": "B",
+      "upstream_reference": "ENCODER",
+      "rotation_deg": 180,
+      "max_position_difference_mm": 9.999999996068709e-06,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "RE1",
+      "hole": "H187",
+      "pin": "1",
+      "upstream_reference": "ENCODER",
+      "rotation_deg": 180,
+      "max_position_difference_mm": 9.800000000126374e-05,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "RE1",
+      "hole": "H186",
+      "pin": "2",
+      "upstream_reference": "ENCODER",
+      "rotation_deg": 180,
+      "max_position_difference_mm": 9.800000000126374e-05,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S4",
+      "hole": "H070",
+      "pin": "1",
+      "upstream_reference": "POWER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S4",
+      "hole": "H071",
+      "pin": "3",
+      "upstream_reference": "POWER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00013200000000779255,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S4",
+      "hole": "H072",
+      "pin": "5",
+      "upstream_reference": "POWER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0002640000000084797,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S4",
+      "hole": "H073",
+      "pin": "6",
+      "upstream_reference": "POWER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0002640000000084797,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S4",
+      "hole": "H074",
+      "pin": "4",
+      "upstream_reference": "POWER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00013200000000779255,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S4",
+      "hole": "H075",
+      "pin": "2",
+      "upstream_reference": "POWER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0001079999999831216,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S5",
+      "hole": "H076",
+      "pin": "1",
+      "upstream_reference": "TONE SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S5",
+      "hole": "H077",
+      "pin": "3",
+      "upstream_reference": "TONE SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00013200000000779255,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S5",
+      "hole": "H078",
+      "pin": "5",
+      "upstream_reference": "TONE SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0002640000000084797,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S5",
+      "hole": "H079",
+      "pin": "6",
+      "upstream_reference": "TONE SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0002640000000084797,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S5",
+      "hole": "H080",
+      "pin": "4",
+      "upstream_reference": "TONE SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00013200000000779255,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S5",
+      "hole": "H081",
+      "pin": "2",
+      "upstream_reference": "TONE SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0001080000000115433,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S1",
+      "hole": "H082",
+      "pin": "1",
+      "upstream_reference": "FLASH SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S1",
+      "hole": "H083",
+      "pin": "3",
+      "upstream_reference": "FLASH SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00013200000000779255,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S1",
+      "hole": "H084",
+      "pin": "5",
+      "upstream_reference": "FLASH SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0002640000000084797,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S1",
+      "hole": "H085",
+      "pin": "6",
+      "upstream_reference": "FLASH SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0002640000000084797,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S1",
+      "hole": "H086",
+      "pin": "4",
+      "upstream_reference": "FLASH SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00013200000000779255,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S1",
+      "hole": "H087",
+      "pin": "2",
+      "upstream_reference": "FLASH SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00010799999999733245,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S3",
+      "hole": "H088",
+      "pin": "1",
+      "upstream_reference": "LASER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S3",
+      "hole": "H089",
+      "pin": "3",
+      "upstream_reference": "LASER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00013200000000779255,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S3",
+      "hole": "H090",
+      "pin": "5",
+      "upstream_reference": "LASER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0002640000000084797,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S3",
+      "hole": "H091",
+      "pin": "6",
+      "upstream_reference": "LASER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0002640000000084797,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S3",
+      "hole": "H092",
+      "pin": "4",
+      "upstream_reference": "LASER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00013200000000779255,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S3",
+      "hole": "H093",
+      "pin": "2",
+      "upstream_reference": "LASER SW",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0001080000000115433,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S2",
+      "hole": "H094",
+      "pin": "5",
+      "upstream_reference": "CAM FLASH",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 3.552713678800501e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S2",
+      "hole": "H095",
+      "pin": "3",
+      "upstream_reference": "CAM FLASH",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00012200000000461841,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S2",
+      "hole": "H096",
+      "pin": "1",
+      "upstream_reference": "CAM FLASH",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 9.999999996068709e-06,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S2",
+      "hole": "H097",
+      "pin": "2",
+      "upstream_reference": "CAM FLASH",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00014600000000086766,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S2",
+      "hole": "H098",
+      "pin": "4",
+      "upstream_reference": "CAM FLASH",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00014600000000086766,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "S2",
+      "hole": "H099",
+      "pin": "6",
+      "upstream_reference": "CAM FLASH",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.00014600000000086766,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "LED1",
+      "hole": "H151",
+      "pin": "C",
+      "upstream_reference": "D1",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "LED1",
+      "hole": "H150",
+      "pin": "A",
+      "upstream_reference": "D1",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "LED2",
+      "hole": "H119",
+      "pin": "C",
+      "upstream_reference": "D1",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "LED2",
+      "hole": "H120",
+      "pin": "A",
+      "upstream_reference": "D1",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "LED3",
+      "hole": "H131",
+      "pin": "C",
+      "upstream_reference": "D1",
+      "rotation_deg": -90,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "LED3",
+      "hole": "H130",
+      "pin": "A",
+      "upstream_reference": "D1",
+      "rotation_deg": -90,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "AUDIO",
+      "hole": "H068",
+      "pin": "P",
+      "upstream_reference": "TONE",
+      "rotation_deg": 180,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match; Mk III copper/assembly orientation considered. Buzzer polarity deliberately corrected."
+    },
+    {
+      "reference": "AUDIO",
+      "hole": "H069",
+      "pin": "N",
+      "upstream_reference": "TONE",
+      "rotation_deg": 180,
+      "max_position_difference_mm": 0.00018800000000140926,
+      "evidence": "Rigid footprint-coordinate match; Mk III copper/assembly orientation considered. Buzzer polarity deliberately corrected."
+    },
+    {
+      "reference": "B0",
+      "hole": "H156",
+      "pin": "1",
+      "upstream_reference": "B0",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "B0",
+      "hole": "H157",
+      "pin": "3",
+      "upstream_reference": "B0",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 1.4210854715202004e-14,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "B0",
+      "hole": "H158",
+      "pin": "4",
+      "upstream_reference": "B0",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 1.4210854715202004e-14,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "B0",
+      "hole": "H159",
+      "pin": "2",
+      "upstream_reference": "B0",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 7.105427357601002e-15,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "B1",
+      "hole": "H152",
+      "pin": "3",
+      "upstream_reference": "B1",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "B1",
+      "hole": "H153",
+      "pin": "1",
+      "upstream_reference": "B1",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 1.4210854715202004e-14,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "B1",
+      "hole": "H154",
+      "pin": "2",
+      "upstream_reference": "B1",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 1.4210854715202004e-14,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    },
+    {
+      "reference": "B1",
+      "hole": "H155",
+      "pin": "4",
+      "upstream_reference": "B1",
+      "rotation_deg": 0,
+      "max_position_difference_mm": 0.0,
+      "evidence": "Rigid footprint-coordinate match to supplied-schematic-matching upstream PCB; not full net equivalence."
+    }
+  ],
+  "scope": "51 formerly held round pads numbered with rigid-transform evidence. Encoder shield and navigation SMD details need separate review; no electrical release."
+}

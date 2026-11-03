@@ -1,5 +1,15 @@
 # Change history
 
+## 2026-11-03 - Complete digital component and binding review
+
+- Recover separately attributed author-native Mk II PCB evidence whose companion schematic exactly matches the supplied SchDoc.
+- Resolve 51 formerly held round-pad numbers; preserve original Mk III holes/slots and all original through-hole modules.
+- Add eight navigation SMD pads and 16 remaining Mk III SMD footprints, reaching 40 components / 179 electrical pads plus two locator holes.
+- Verify original source geometry and native EasyEDA pad geometry, angles, slot axes, plating and SMD mask/paste expansion.
+- Add a separate 40-component binding-review sheet with Mk III AO3400A and speaker pin labels; verify the saved native archive and all 179 pin/pad matches.
+- Record 0 fatal errors, 0 errors and 1 shield warning. Keep part qualification, body/courtyard completion and circuit redesign explicitly open.
+
+
 ## 2026-11-03 - Saved native archive verification
 
 - Preserve the two user-saved native archives, labelling the full project archive as predating the outline correction.

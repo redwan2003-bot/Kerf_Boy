@@ -1,3 +1,7 @@
+# Latest component review
+
+The [current EasyEDA component review](easyeda/step3-numbered/README.md) contains 40 reconstructed footprints and 179 verified symbol-to-pad bindings. The earlier 24-group and held-map files below remain historical evidence. Body/courtyard completion, ratings, physical qualification and circuit design remain open.
+
 # Hardware
 
 The target deliverable is an EasyEDA Pro carrier PCB using the original modules. This folder currently contains source evidence and an intermediate reconstruction, not a production design.

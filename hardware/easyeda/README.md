@@ -1,3 +1,9 @@
+# Current EasyEDA Pro result
+
+See [Step 3 component and binding review](step3-numbered/README.md) for the latest full native archive, 40 footprints and all 179 pin/pad matches. The current binding review has zero fatal errors, zero errors and one shield warning. Exact-part qualification and circuit redesign remain open.
+
+The following describes the **historical pre-binding checkpoint**, not the latest result.
+
 # EasyEDA Pro review files
 
 [Open existing project](https://pro.easyeda.com/editor#id=987575100d2f4542bfc9780160616df2)
