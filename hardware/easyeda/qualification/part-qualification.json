@@ -397,7 +397,7 @@
       "source_comment": "JS1400BFQ",
       "physical_test": "NOT_RUN_NO_PARTS",
       "qualification": "LAND_PATTERN_DEVIATIONS_REVIEW",
-      "required_evidence": "Original locating holes 0.8001/1.100074 mm vs drawing 0.75/1.05; original grounding-pad short side 1.8 vs recommended 1.85 mm. Resolve deviations and define grounded chassis tabs, actuator cap and courtyard.",
+      "required_evidence": "Original locating holes 0.8001/1.100074 mm vs drawing 0.75/1.05; grounding lands 2.0 x 1.8 mm are correct; 1.85 mm is a signal-land gap. Resolve deviations and define grounded chassis tabs, actuator cap and courtyard.",
       "selected_part": "E-Switch JS1400BFQ (source comment)",
       "body_mm": [
         7.7,

@@ -12,6 +12,9 @@ The requirement is to **retain the original through-hole components and plug-in 
 
 ## Start here
 
+- [Latest GP7/navigation verification report](docs/reports/gp7-navigation-checkpoint.md)
+- [Latest saved EasyEDA project](hardware/easyeda/qualification-fixes/native-gp7-navigation-review.epro2)
+
 - [Latest manufacturer qualification report](docs/reports/part-qualification-review.md)
 - [Current EasyEDA archive and corrected encoder](hardware/easyeda/qualification/README.md)
 

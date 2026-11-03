@@ -1,0 +1,162 @@
+{
+  "M1": {
+    "footprint_uuid": "4f2575a9dd0fabed",
+    "device_uuid": "ab491f9acbbc1749"
+  },
+  "U1": {
+    "footprint_uuid": "e871f514d3bf137a",
+    "device_uuid": "569db632e5bed948"
+  },
+  "U2": {
+    "footprint_uuid": "d2de32c7e939ab9e",
+    "device_uuid": "5e319997bf70bc1b"
+  },
+  "U3": {
+    "footprint_uuid": "4092cc6717ab61cd",
+    "device_uuid": "5cc797db436515ca"
+  },
+  "U4": {
+    "footprint_uuid": "6c5400d1005dac4e",
+    "device_uuid": "e0c1b0c27d7312dc"
+  },
+  "DS": {
+    "footprint_uuid": "65ba59152b4f9359",
+    "device_uuid": "6448fd4d14288a61"
+  },
+  "J5": {
+    "footprint_uuid": "33eca2adbfd0c152",
+    "device_uuid": "6dbd12c0e8475725"
+  },
+  "J4": {
+    "footprint_uuid": "97932d7dec111b3c",
+    "device_uuid": "a3e9d24d991dce86"
+  },
+  "J1": {
+    "footprint_uuid": "05613dab143d85fb",
+    "device_uuid": "a43fef8913a69f6e"
+  },
+  "J2": {
+    "footprint_uuid": "cfb21810fcef53e5",
+    "device_uuid": "e095e53455873020"
+  },
+  "J3": {
+    "footprint_uuid": "2b8216fef70a6391",
+    "device_uuid": "9a66046ff13c3baf"
+  },
+  "RE1": {
+    "footprint_uuid": "7248999c7ca7edd8",
+    "device_uuid": "6aa9d54d9053fcbd"
+  },
+  "S4": {
+    "footprint_uuid": "23132c20b84ae84b",
+    "device_uuid": "cb16ee45d9816c87"
+  },
+  "S5": {
+    "footprint_uuid": "086f4c3cc30bc30f",
+    "device_uuid": "fd0333696f35f46f"
+  },
+  "S1": {
+    "footprint_uuid": "fb7ae2136036b7ab",
+    "device_uuid": "1ced0a468269978d"
+  },
+  "S3": {
+    "footprint_uuid": "e91044fc2f6a06a0",
+    "device_uuid": "10b0bbd383754900"
+  },
+  "S2": {
+    "footprint_uuid": "874350ce31eead11",
+    "device_uuid": "eae0944f02d42c72"
+  },
+  "LED1": {
+    "footprint_uuid": "69886c5093943ae0",
+    "device_uuid": "4ace9ff1b51352f7"
+  },
+  "LED2": {
+    "footprint_uuid": "83d5bb4b5f186373",
+    "device_uuid": "4a8b903ed120ca5c"
+  },
+  "LED3": {
+    "footprint_uuid": "497e636c3dd28302",
+    "device_uuid": "41efcac5adad27fb"
+  },
+  "AUDIO": {
+    "footprint_uuid": "d51ff871a8919281",
+    "device_uuid": "8cfa888aa6a20702"
+  },
+  "B0": {
+    "footprint_uuid": "b240b79dbaca6c08",
+    "device_uuid": "e41c670d0f80f813"
+  },
+  "B1": {
+    "footprint_uuid": "c432da6ea7977d68",
+    "device_uuid": "7388aba7ee93aa2b"
+  },
+  "B2_LOC": {
+    "footprint_uuid": "78b8685372ea381c",
+    "device_uuid": "a6c10a76c8b567c1"
+  },
+  "R1": {
+    "footprint_uuid": "5d1180e253aef549",
+    "device_uuid": "f14730bc91bc71e0"
+  },
+  "R2": {
+    "footprint_uuid": "184be08ed964467d",
+    "device_uuid": "2ea7227fcad0d673"
+  },
+  "R3": {
+    "footprint_uuid": "9850c6055ee5ce11",
+    "device_uuid": "96b58e2a8cdb0695"
+  },
+  "R4": {
+    "footprint_uuid": "52930bf2715573f8",
+    "device_uuid": "14f24a94306ebec9"
+  },
+  "R5": {
+    "footprint_uuid": "a364708102c279c9",
+    "device_uuid": "02ad6506023ce394"
+  },
+  "R6": {
+    "footprint_uuid": "32da60874f117563",
+    "device_uuid": "133cfb6b35897849"
+  },
+  "R7": {
+    "footprint_uuid": "caeac7437fed5b93",
+    "device_uuid": "e3b9ae4b9dfc5530"
+  },
+  "R8": {
+    "footprint_uuid": "526cb63d9aaaf2a6",
+    "device_uuid": "4319dc6dcabcc63d"
+  },
+  "C1": {
+    "footprint_uuid": "342061562b75a29e",
+    "device_uuid": "8b25ea7dda2253db"
+  },
+  "C2": {
+    "footprint_uuid": "629981d2cb7e9536",
+    "device_uuid": "1acc29aa34d6698c"
+  },
+  "C5": {
+    "footprint_uuid": "45af3cbf1f4c30b8",
+    "device_uuid": "36f40b1c9074ab6a"
+  },
+  "C9": {
+    "footprint_uuid": "27c2a85e6226a72d",
+    "device_uuid": "6abe61410b5466b3"
+  },
+  "C3": {
+    "footprint_uuid": "512f605be6560db5",
+    "device_uuid": "97fb0d1f06803b15"
+  },
+  "C4": {
+    "footprint_uuid": "060c5805280cb38f",
+    "device_uuid": "25f38da7a0ae05b8"
+  },
+  "T1": {
+    "footprint_uuid": "eb11164405c61dec",
+    "device_uuid": "d69a53257713ddc9"
+  },
+  "LS1": {
+    "footprint_uuid": "a70bbe55f8931676",
+    "device_uuid": "14685ab254ba68c0"
+  }
+}

@@ -1,5 +1,9 @@
 # Verification and reproduction
 
+## Latest correction checks
+
+Run `scripts/build_qualified_navigation.py`, `scripts/check_fixes_native_geometry.py` and `scripts/check_fixes_bindings.py` with KiCad Python. They check the saved native geometry, bindings, button net endpoints, reset and deliberate no-connects. See the [checkpoint report](reports/gp7-navigation-checkpoint.md). They do not establish complete electrical or physical qualification.
+
 ## Current manufacturer and native qualification checks
 
 Run with KiCad Python: `scripts/build_qualified_encoder.py`, `scripts/check_part_qualification.py`, `scripts/check_qualified_native_geometry.py`, and `scripts/check_qualification_bindings.py`. The saved native archive is independently compared to the full corrected review board; all 181 pad checks pass within 0.0003 mm. Bindings retain 179 pin matches across 40 components, with 39 other footprints unchanged. Placement coordinates agree within 0.000001 mm (EasyEDA rounds the updated RE1 coordinates). These checks do not qualify the circuit or physical parts.

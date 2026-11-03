@@ -52,6 +52,14 @@ def main():
  check(e['footprints']==40 and e['pads']==181 and not e['errors'],'Qualification geometry failed')
  e=json.loads((q/'native-qualification-check.json').read_text())
  check(e['components']==40 and e['symbol_pin_instances']==179 and e['unchanged_other_footprints']==39,'Qualification bindings failed')
+ q=ROOT/'hardware/easyeda/qualification-fixes'
+ for report in ['native-fixes-check.json','native-fixes-geometry.json']:
+  e=json.loads((q/report).read_text())
+  check(hashlib.sha256((q/'native-gp7-navigation-review.epro2').read_bytes()).hexdigest()==e['archive_sha256'],'GP7/navigation archive changed')
+ e=json.loads((q/'native-fixes-geometry.json').read_text())
+ check(e['footprints']==40 and e['pads']==181 and not e['errors'],'GP7/navigation geometry failed')
+ e=json.loads((q/'native-fixes-check.json').read_text())
+ check(e['components']==40 and e['symbol_pin_instances']==179 and e['gp7_button_conflict_removed'],'GP7/navigation bindings or connectivity failed')
  for p in (ROOT/'scripts').glob('*.py'):
   try:ast.parse(p.read_text(encoding='utf-8-sig'))
   except SyntaxError as e:errors.append(f'{p.name}: {e}')

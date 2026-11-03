@@ -1,0 +1,18 @@
+{
+  "archive_sha256": "94ff6db73d15d8eadafb36a3b89f9b0d949399fb8f235e1e6c4f0ab35f987232",
+  "components": 40,
+  "symbol_pin_instances": 179,
+  "unchanged_other_footprints": 39,
+  "gp7_button_conflict_removed": true,
+  "encoder_button": "M1 pin 7 / D6 / GPIO43; configure input pull-up, disable UART TX on this pin",
+  "expander": "RESET to 3V3; INT and GP7 deliberately unconnected; poll GP0-GP6",
+  "navigation_locator_drills_mm": [
+    0.75,
+    1.05
+  ],
+  "grounding_land_size_mm": [
+    2,
+    1.8
+  ],
+  "scope": "Native saved-file checks; partial PCB nets only. Full routing/circuit/firmware and hardware qualification remain unfinished."
+}

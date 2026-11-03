@@ -1,5 +1,12 @@
 # Change history
 
+## 2026-11-03 — GP7 and navigation checkpoint
+
+- Moved encoder push from GP7 to XIAO D6; isolated INT/GP7 and checked reset at 3V3. Firmware polling/input configuration remains pending.
+- Corrected JS1400BFQ locators to 0.75/1.05 mm. The earlier 1.85 mm grounding-land claim was incorrect; existing 2.0 x 1.8 mm grounding lands are correct.
+- Verified saved native archive: 40 bindings, 179 electrical pins, 181 pads; DRC 0 fatal, 0 errors, 1 warning, 4 information items.
+- Exact compatible part selection is authorized but not frozen. No physical testing performed.
+
 ## 2026-11-03 — Manufacturer qualification review
 
 - Corrected RE1 for the user-selected Bourns PEC12R-4217F-S0024 in EasyEDA PCB and schematic; retained historical reconstruction.
